@@ -15,7 +15,6 @@ Placed #8 with 8.0 wins
 | Score        |             200 |        100 |
 | Points Spent |            1000 |       1000 |
 | Damage       |              90 |         40 |
-|              |                 |            |
 
 
 ## [Me_Myself_And_I vs cava](<cava/README.md>)
@@ -29,7 +28,6 @@ Placed #8 with 8.0 wins
 | Score        |            1000 |    0 |
 | Points Spent |            1000 |    0 |
 | Damage       |               0 |    0 |
-|              |                 |      |
 
 
 ## [Me_Myself_And_I vs T1](<T1/README.md>)
@@ -43,7 +41,6 @@ Placed #8 with 8.0 wins
 | Score        |             200 | 1000 |
 | Points Spent |            1000 | 1000 |
 | Damage       |               0 |    0 |
-|              |                 |      |
 
 
 ## [Me_Myself_And_I vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -57,7 +54,6 @@ Placed #8 with 8.0 wins
 | Score        |             200 |             0 |
 | Points Spent |            1000 |          1000 |
 | Damage       |             100 |            80 |
-|              |                 |               |
 
 
 ## [Me_Myself_And_I vs amit](<amit/README.md>)
@@ -71,7 +67,6 @@ Placed #8 with 8.0 wins
 | Score        |             600 |    0 |
 | Points Spent |            1000 | 1000 |
 | Damage       |             100 |   40 |
-|              |                 |      |
 
 
 ## [Me_Myself_And_I vs DefineAC](<DefineAC/README.md>)
@@ -85,7 +80,6 @@ Placed #8 with 8.0 wins
 | Score        |             310 |        0 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              27 |       59 |
-|              |                 |          |
 
 
 ## [Me_Myself_And_I vs vnchicks](<vnchicks/README.md>)
@@ -99,7 +93,6 @@ Placed #8 with 8.0 wins
 | Score        |             180 |      170 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              63 |       82 |
-|              |                 |          |
 
 
 ## [Me_Myself_And_I vs lebrawnjame](<lebrawnjame/README.md>)
@@ -113,7 +106,6 @@ Placed #8 with 8.0 wins
 | Score        |             280 |           0 |
 | Points Spent |            1000 |        1000 |
 | Damage       |              50 |          72 |
-|              |                 |             |
 
 
 ## [Me_Myself_And_I vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -127,7 +119,6 @@ Placed #8 with 8.0 wins
 | Score        |               0 |              490 |
 | Points Spent |            1000 |             1000 |
 | Damage       |              51 |                0 |
-|              |                 |                  |
 
 
 ## [Me_Myself_And_I vs dibz](<dibz/README.md>)
@@ -141,7 +132,6 @@ Placed #8 with 8.0 wins
 | Score        |               0 |  500 |
 | Points Spent |            1000 | 1000 |
 | Damage       |              25 |   49 |
-|              |                 |      |
 
 
 ## [Me_Myself_And_I vs Nullifier](<Nullifier/README.md>)
@@ -155,7 +145,6 @@ Placed #8 with 8.0 wins
 | Score        |               0 |       440 |
 | Points Spent |            1000 |      1000 |
 | Damage       |              28 |       100 |
-|              |                 |           |
 
 
 ## [Me_Myself_And_I vs AlphaDog](<AlphaDog/README.md>)
@@ -169,7 +158,6 @@ Placed #8 with 8.0 wins
 | Score        |             270 |        0 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              50 |       73 |
-|              |                 |          |
 
 
 ## [Me_Myself_And_I vs Hasbros2](<Hasbros2/README.md>)
@@ -183,7 +171,6 @@ Placed #8 with 8.0 wins
 | Score        |               0 |      530 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              48 |       45 |
-|              |                 |          |
 
 
 ## [Me_Myself_And_I vs Error 413](<Error 413/README.md>)
@@ -197,7 +184,6 @@ Placed #8 with 8.0 wins
 | Score        |               0 |         0 |
 | Points Spent |            1000 |      1000 |
 | Damage       |              72 |       120 |
-|              |                 |           |
 
 
 ## [Me_Myself_And_I vs ex futuro](<ex futuro/README.md>)
@@ -211,5 +197,4 @@ Placed #8 with 8.0 wins
 | Score        |               0 |       110 |
 | Points Spent |            1000 |       990 |
 | Damage       |              63 |       100 |
-|              |                 |           |
 

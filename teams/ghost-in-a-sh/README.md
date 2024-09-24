@@ -15,7 +15,6 @@ Placed #5 with 9.0 wins
 | Score        |    0 |          1000 |
 | Points Spent |    0 |          1000 |
 | Damage       |    0 |             0 |
-|              |      |               |
 
 
 ## [ghost-in-a-sh vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -29,7 +28,6 @@ Placed #5 with 9.0 wins
 | Score        |           640 |              490 |
 | Points Spent |          1000 |             1000 |
 | Damage       |            51 |               36 |
-|              |               |                  |
 
 
 ## [dibz vs ghost-in-a-sh](<dibz/README.md>)
@@ -43,7 +41,6 @@ Placed #5 with 9.0 wins
 | Score        |  220 |             0 |
 | Points Spent | 1000 |          1000 |
 | Damage       |  100 |            39 |
-|              |      |               |
 
 
 ## [ghost-in-a-sh vs Error 413](<Error 413/README.md>)
@@ -57,7 +54,6 @@ Placed #5 with 9.0 wins
 | Score        |             0 |       160 |
 | Points Spent |          1000 |      1000 |
 | Damage       |            54 |       100 |
-|              |               |           |
 
 
 ## [lebrawnjame vs ghost-in-a-sh](<lebrawnjame/README.md>)
@@ -71,7 +67,6 @@ Placed #5 with 9.0 wins
 | Score        |           0 |           210 |
 | Points Spent |        1000 |          1000 |
 | Damage       |          81 |            46 |
-|              |             |               |
 
 
 ## [Me_Myself_And_I vs ghost-in-a-sh](<Me_Myself_And_I/README.md>)
@@ -85,7 +80,6 @@ Placed #5 with 9.0 wins
 | Score        |             200 |             0 |
 | Points Spent |            1000 |          1000 |
 | Damage       |             100 |            80 |
-|              |                 |               |
 
 
 ## [Big Steppa vs ghost-in-a-sh](<Big Steppa/README.md>)
@@ -99,7 +93,6 @@ Placed #5 with 9.0 wins
 | Score        |        360 |           610 |
 | Points Spent |       1000 |          1000 |
 | Damage       |         39 |            66 |
-|              |            |               |
 
 
 ## [vnchicks vs ghost-in-a-sh](<vnchicks/README.md>)
@@ -113,7 +106,6 @@ Placed #5 with 9.0 wins
 | Score        |        0 |           630 |
 | Points Spent |     1000 |          1000 |
 | Damage       |       37 |            20 |
-|              |          |               |
 
 
 ## [AlphaDog vs ghost-in-a-sh](<AlphaDog/README.md>)
@@ -127,7 +119,6 @@ Placed #5 with 9.0 wins
 | Score        |      200 |           250 |
 | Points Spent |     1000 |          1000 |
 | Damage       |       75 |            27 |
-|              |          |               |
 
 
 ## [ghost-in-a-sh vs Nullifier](<Nullifier/README.md>)
@@ -141,7 +132,6 @@ Placed #5 with 9.0 wins
 | Score        |            20 |       560 |
 | Points Spent |          1000 |      1000 |
 | Damage       |            22 |        98 |
-|              |               |           |
 
 
 ## [DefineAC vs ghost-in-a-sh](<DefineAC/README.md>)
@@ -155,7 +145,6 @@ Placed #5 with 9.0 wins
 | Score        |      280 |             0 |
 | Points Spent |     1000 |          1000 |
 | Damage       |      100 |            47 |
-|              |          |               |
 
 
 ## [ghost-in-a-sh vs Hasbros2](<Hasbros2/README.md>)
@@ -169,7 +158,6 @@ Placed #5 with 9.0 wins
 | Score        |           260 |      180 |
 | Points Spent |          1000 |     1000 |
 | Damage       |            46 |       75 |
-|              |               |          |
 
 
 ## [ex futuro vs ghost-in-a-sh](<ex futuro/README.md>)
@@ -183,7 +171,6 @@ Placed #5 with 9.0 wins
 | Score        |       280 | 219.99999999999997 |
 | Points Spent |       990 |               1000 |
 | Damage       |        78 |                 53 |
-|              |           |                    |
 
 
 ## [ghost-in-a-sh vs T1](<T1/README.md>)
@@ -197,7 +184,6 @@ Placed #5 with 9.0 wins
 | Score        |           990 |  960 |
 | Points Spent |          1000 | 1000 |
 | Damage       |             2 |    1 |
-|              |               |      |
 
 
 ## [ghost-in-a-sh vs amit](<amit/README.md>)
@@ -211,5 +197,4 @@ Placed #5 with 9.0 wins
 | Score        |           900 |   20 |
 | Points Spent |          1000 | 1000 |
 | Damage       |            98 |   10 |
-|              |               |      |
 

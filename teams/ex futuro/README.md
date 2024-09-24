@@ -15,7 +15,6 @@ Placed #11 with 7.0 wins
 | Score        | 1000 |       980 |
 | Points Spent | 1000 |       990 |
 | Damage       |    1 |         0 |
-|              |      |           |
 
 
 ## [ex futuro vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -29,7 +28,6 @@ Placed #11 with 7.0 wins
 | Score        |       990 |              470 |
 | Points Spent |       990 |             1000 |
 | Damage       |        53 |                0 |
-|              |           |                  |
 
 
 ## [lebrawnjame vs ex futuro](<lebrawnjame/README.md>)
@@ -43,7 +41,6 @@ Placed #11 with 7.0 wins
 | Score        |           0 |       280 |
 | Points Spent |        1000 |       990 |
 | Damage       |          41 |        52 |
-|              |             |           |
 
 
 ## [Hasbros2 vs ex futuro](<Hasbros2/README.md>)
@@ -57,7 +54,6 @@ Placed #11 with 7.0 wins
 | Score        |     1000 |       990 |
 | Points Spent |     1000 |       990 |
 | Damage       |        0 |         0 |
-|              |          |           |
 
 
 ## [amit vs ex futuro](<amit/README.md>)
@@ -71,7 +67,6 @@ Placed #11 with 7.0 wins
 | Score        |    0 |       790 |
 | Points Spent | 1000 |       990 |
 | Damage       |   10 |       102 |
-|              |      |           |
 
 
 ## [ex futuro vs dibz](<dibz/README.md>)
@@ -85,7 +80,6 @@ Placed #11 with 7.0 wins
 | Score        |         0 |  180 |
 | Points Spent |       990 | 1000 |
 | Damage       |        41 |   69 |
-|              |           |      |
 
 
 ## [ex futuro vs Big Steppa](<Big Steppa/README.md>)
@@ -99,7 +93,6 @@ Placed #11 with 7.0 wins
 | Score        |       250 |        260 |
 | Points Spent |       990 |       1000 |
 | Damage       |        79 |         54 |
-|              |           |            |
 
 
 ## [ex futuro vs AlphaDog](<AlphaDog/README.md>)
@@ -113,7 +106,6 @@ Placed #11 with 7.0 wins
 | Score        |         0 |      340 |
 | Points Spent |       990 |     1000 |
 | Damage       |        33 |       69 |
-|              |           |          |
 
 
 ## [Error 413 vs ex futuro](<Error 413/README.md>)
@@ -127,7 +119,6 @@ Placed #11 with 7.0 wins
 | Score        |       140 |         0 |
 | Points Spent |      1000 |       990 |
 | Damage       |        69 |        56 |
-|              |           |           |
 
 
 ## [vnchicks vs ex futuro](<vnchicks/README.md>)
@@ -141,7 +132,6 @@ Placed #11 with 7.0 wins
 | Score        |      600 |       590 |
 | Points Spent |     1000 |       990 |
 | Damage       |       20 |        20 |
-|              |          |           |
 
 
 ## [ex futuro vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -155,7 +145,6 @@ Placed #11 with 7.0 wins
 | Score        |       280 | 219.99999999999997 |
 | Points Spent |       990 |               1000 |
 | Damage       |        78 |                 53 |
-|              |           |                    |
 
 
 ## [cava vs ex futuro](<cava/README.md>)
@@ -169,7 +158,6 @@ Placed #11 with 7.0 wins
 | Score        |    0 |       990 |
 | Points Spent |    0 |       990 |
 | Damage       |    0 |         0 |
-|              |      |           |
 
 
 ## [Nullifier vs ex futuro](<Nullifier/README.md>)
@@ -183,7 +171,6 @@ Placed #11 with 7.0 wins
 | Score        |       320 |        30 |
 | Points Spent |      1000 |       990 |
 | Damage       |        66 |        35 |
-|              |           |           |
 
 
 ## [ex futuro vs DefineAC](<DefineAC/README.md>)
@@ -197,7 +184,6 @@ Placed #11 with 7.0 wins
 | Score        |       100 |        0 |
 | Points Spent |       990 |     1000 |
 | Damage       |        52 |       65 |
-|              |           |          |
 
 
 ## [Me_Myself_And_I vs ex futuro](<Me_Myself_And_I/README.md>)
@@ -211,5 +197,4 @@ Placed #11 with 7.0 wins
 | Score        |               0 |       110 |
 | Points Spent |            1000 |       990 |
 | Damage       |              63 |       100 |
-|              |                 |           |
 

@@ -15,7 +15,6 @@ Placed #3 with 10.5 wins
 | Score        |        20 |      400 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        60 |       24 |
-|              |           |          |
 
 
 ## [T1 vs vnchicks](<T1/README.md>)
@@ -29,7 +28,6 @@ Placed #3 with 10.5 wins
 | Score        |    0 |      230 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   37 |       50 |
-|              |      |          |
 
 
 ## [vnchicks vs cava](<cava/README.md>)
@@ -43,7 +41,6 @@ Placed #3 with 10.5 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [vnchicks vs AlphaDog](<AlphaDog/README.md>)
@@ -57,7 +54,6 @@ Placed #3 with 10.5 wins
 | Score        |      700 |      560 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       22 |       15 |
-|              |          |          |
 
 
 ## [vnchicks vs DefineAC](<DefineAC/README.md>)
@@ -71,7 +67,6 @@ Placed #3 with 10.5 wins
 | Score        |      200 |      190 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       31 |       60 |
-|              |          |          |
 
 
 ## [Error 413 vs vnchicks](<Error 413/README.md>)
@@ -85,7 +80,6 @@ Placed #3 with 10.5 wins
 | Score        |       290 |      550 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        25 |       32 |
-|              |           |          |
 
 
 ## [Me_Myself_And_I vs vnchicks](<Me_Myself_And_I/README.md>)
@@ -99,7 +93,6 @@ Placed #3 with 10.5 wins
 | Score        |             180 |      170 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              63 |       82 |
-|              |                 |          |
 
 
 ## [vnchicks vs Big Steppa](<Big Steppa/README.md>)
@@ -113,7 +106,6 @@ Placed #3 with 10.5 wins
 | Score        |      400 |        400 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       60 |         20 |
-|              |          |            |
 
 
 ## [vnchicks vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -127,7 +119,6 @@ Placed #3 with 10.5 wins
 | Score        |        0 |           630 |
 | Points Spent |     1000 |          1000 |
 | Damage       |       37 |            20 |
-|              |          |               |
 
 
 ## [Moo Deng Fanclub vs vnchicks](<Moo Deng Fanclub/README.md>)
@@ -141,7 +132,6 @@ Placed #3 with 10.5 wins
 | Score        |                0 |      600 |
 | Points Spent |             1000 |     1000 |
 | Damage       |                0 |      102 |
-|              |                  |          |
 
 
 ## [vnchicks vs amit](<amit/README.md>)
@@ -155,7 +145,6 @@ Placed #3 with 10.5 wins
 | Score        |     1000 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [vnchicks vs ex futuro](<ex futuro/README.md>)
@@ -169,7 +158,6 @@ Placed #3 with 10.5 wins
 | Score        |      600 |       590 |
 | Points Spent |     1000 |       990 |
 | Damage       |       20 |        20 |
-|              |          |           |
 
 
 ## [vnchicks vs dibz](<dibz/README.md>)
@@ -183,7 +171,6 @@ Placed #3 with 10.5 wins
 | Score        |        0 |  760 |
 | Points Spent |     1000 | 1000 |
 | Damage       |       12 |   47 |
-|              |          |      |
 
 
 ## [lebrawnjame vs vnchicks](<lebrawnjame/README.md>)
@@ -197,7 +184,6 @@ Placed #3 with 10.5 wins
 | Score        |           0 |      360 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          44 |       40 |
-|              |             |          |
 
 
 ## [Hasbros2 vs vnchicks](<Hasbros2/README.md>)
@@ -211,5 +197,4 @@ Placed #3 with 10.5 wins
 | Score        |      400 |      170 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       53 |       60 |
-|              |          |          |
 

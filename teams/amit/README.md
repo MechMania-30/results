@@ -15,7 +15,6 @@ Placed #14 with 3.0 wins
 | Score        | 1000 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [Nullifier vs amit](<Nullifier/README.md>)
@@ -29,7 +28,6 @@ Placed #14 with 3.0 wins
 | Score        |       200 |   90 |
 | Points Spent |      1000 | 1000 |
 | Damage       |        91 |   40 |
-|              |           |      |
 
 
 ## [amit vs cava](<cava/README.md>)
@@ -43,7 +41,6 @@ Placed #14 with 3.0 wins
 | Score        | 1000 |    0 |
 | Points Spent | 1000 |    0 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [amit vs Hasbros2](<Hasbros2/README.md>)
@@ -57,7 +54,6 @@ Placed #14 with 3.0 wins
 | Score        |  190 |      800 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   20 |      100 |
-|              |      |          |
 
 
 ## [amit vs ex futuro](<ex futuro/README.md>)
@@ -71,7 +67,6 @@ Placed #14 with 3.0 wins
 | Score        |    0 |       790 |
 | Points Spent | 1000 |       990 |
 | Damage       |   10 |       102 |
-|              |      |           |
 
 
 ## [Me_Myself_And_I vs amit](<Me_Myself_And_I/README.md>)
@@ -85,7 +80,6 @@ Placed #14 with 3.0 wins
 | Score        |             600 |    0 |
 | Points Spent |            1000 | 1000 |
 | Damage       |             100 |   40 |
-|              |                 |      |
 
 
 ## [Moo Deng Fanclub vs amit](<Moo Deng Fanclub/README.md>)
@@ -99,7 +93,6 @@ Placed #14 with 3.0 wins
 | Score        |               80 |    0 |
 | Points Spent |             1000 | 1000 |
 | Damage       |              101 |  101 |
-|              |                  |      |
 
 
 ## [amit vs lebrawnjame](<lebrawnjame/README.md>)
@@ -113,7 +106,6 @@ Placed #14 with 3.0 wins
 | Score        |   50 |           0 |
 | Points Spent | 1000 |        1000 |
 | Damage       |   45 |         103 |
-|              |      |             |
 
 
 ## [vnchicks vs amit](<vnchicks/README.md>)
@@ -127,7 +119,6 @@ Placed #14 with 3.0 wins
 | Score        |     1000 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [amit vs dibz](<dibz/README.md>)
@@ -141,7 +132,6 @@ Placed #14 with 3.0 wins
 | Score        |    0 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |  100 |
-|              |      |      |
 
 
 ## [DefineAC vs amit](<DefineAC/README.md>)
@@ -155,7 +145,6 @@ Placed #14 with 3.0 wins
 | Score        |      300 |    0 |
 | Points Spent |     1000 | 1000 |
 | Damage       |      101 |   25 |
-|              |          |      |
 
 
 ## [Error 413 vs amit](<Error 413/README.md>)
@@ -169,7 +158,6 @@ Placed #14 with 3.0 wins
 | Score        |       600 |    0 |
 | Points Spent |      1000 | 1000 |
 | Damage       |       101 |   20 |
-|              |           |      |
 
 
 ## [Big Steppa vs amit](<Big Steppa/README.md>)
@@ -183,7 +171,6 @@ Placed #14 with 3.0 wins
 | Score        |        100 |   50 |
 | Points Spent |       1000 | 1000 |
 | Damage       |         92 |   92 |
-|              |            |      |
 
 
 ## [amit vs AlphaDog](<AlphaDog/README.md>)
@@ -197,7 +184,6 @@ Placed #14 with 3.0 wins
 | Score        |    0 |     1000 |
 | Points Spent | 1000 |     1000 |
 | Damage       |    0 |      101 |
-|              |      |          |
 
 
 ## [ghost-in-a-sh vs amit](<ghost-in-a-sh/README.md>)
@@ -211,5 +197,4 @@ Placed #14 with 3.0 wins
 | Score        |           900 |   20 |
 | Points Spent |          1000 | 1000 |
 | Damage       |            98 |   10 |
-|              |               |      |
 

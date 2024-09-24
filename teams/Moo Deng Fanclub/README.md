@@ -15,7 +15,6 @@ Placed #12 with 6.5 wins
 | Score        |    0 |             1000 |
 | Points Spent |    0 |             1000 |
 | Damage       |    0 |                0 |
-|              |      |                  |
 
 
 ## [ghost-in-a-sh vs Moo Deng Fanclub](<ghost-in-a-sh/README.md>)
@@ -29,7 +28,6 @@ Placed #12 with 6.5 wins
 | Score        |           640 |              490 |
 | Points Spent |          1000 |             1000 |
 | Damage       |            51 |               36 |
-|              |               |                  |
 
 
 ## [Moo Deng Fanclub vs Error 413](<Error 413/README.md>)
@@ -43,7 +41,6 @@ Placed #12 with 6.5 wins
 | Score        |              330 |       600 |
 | Points Spent |             1000 |      1000 |
 | Damage       |               10 |        67 |
-|              |                  |           |
 
 
 ## [ex futuro vs Moo Deng Fanclub](<ex futuro/README.md>)
@@ -57,7 +54,6 @@ Placed #12 with 6.5 wins
 | Score        |       990 |              470 |
 | Points Spent |       990 |             1000 |
 | Damage       |        53 |                0 |
-|              |           |                  |
 
 
 ## [Big Steppa vs Moo Deng Fanclub](<Big Steppa/README.md>)
@@ -71,7 +67,6 @@ Placed #12 with 6.5 wins
 | Score        |        960 |              910 |
 | Points Spent |       1000 |             1000 |
 | Damage       |          9 |                9 |
-|              |            |                  |
 
 
 ## [Moo Deng Fanclub vs Hasbros2](<Hasbros2/README.md>)
@@ -85,7 +80,6 @@ Placed #12 with 6.5 wins
 | Score        |                0 |     1000 |
 | Points Spent |             1000 |     1000 |
 | Damage       |                0 |      101 |
-|              |                  |          |
 
 
 ## [Moo Deng Fanclub vs amit](<amit/README.md>)
@@ -99,7 +93,6 @@ Placed #12 with 6.5 wins
 | Score        |               80 |    0 |
 | Points Spent |             1000 | 1000 |
 | Damage       |              101 |  101 |
-|              |                  |      |
 
 
 ## [Moo Deng Fanclub vs vnchicks](<vnchicks/README.md>)
@@ -113,7 +106,6 @@ Placed #12 with 6.5 wins
 | Score        |                0 |      600 |
 | Points Spent |             1000 |     1000 |
 | Damage       |                0 |      102 |
-|              |                  |          |
 
 
 ## [T1 vs Moo Deng Fanclub](<T1/README.md>)
@@ -127,7 +119,6 @@ Placed #12 with 6.5 wins
 | Score        | 1000 |             1000 |
 | Points Spent | 1000 |             1000 |
 | Damage       |    0 |                0 |
-|              |      |                  |
 
 
 ## [lebrawnjame vs Moo Deng Fanclub](<lebrawnjame/README.md>)
@@ -141,7 +132,6 @@ Placed #12 with 6.5 wins
 | Score        |         200 |              220 |
 | Points Spent |        1000 |             1000 |
 | Damage       |          78 |               15 |
-|              |             |                  |
 
 
 ## [AlphaDog vs Moo Deng Fanclub](<AlphaDog/README.md>)
@@ -155,7 +145,6 @@ Placed #12 with 6.5 wins
 | Score        |     1000 |              980 |
 | Points Spent |     1000 |             1000 |
 | Damage       |        2 |                0 |
-|              |          |                  |
 
 
 ## [DefineAC vs Moo Deng Fanclub](<DefineAC/README.md>)
@@ -169,7 +158,6 @@ Placed #12 with 6.5 wins
 | Score        |        0 |              720 |
 | Points Spent |     1000 |             1000 |
 | Damage       |       30 |                0 |
-|              |          |                  |
 
 
 ## [Me_Myself_And_I vs Moo Deng Fanclub](<Me_Myself_And_I/README.md>)
@@ -183,7 +171,6 @@ Placed #12 with 6.5 wins
 | Score        |               0 |              490 |
 | Points Spent |            1000 |             1000 |
 | Damage       |              51 |                0 |
-|              |                 |                  |
 
 
 ## [Moo Deng Fanclub vs Nullifier](<Nullifier/README.md>)
@@ -197,7 +184,6 @@ Placed #12 with 6.5 wins
 | Score        |              420 |         0 |
 | Points Spent |             1000 |      1000 |
 | Damage       |               35 |        58 |
-|              |                  |           |
 
 
 ## [dibz vs Moo Deng Fanclub](<dibz/README.md>)
@@ -211,5 +197,4 @@ Placed #12 with 6.5 wins
 | Score        | 1000 |                0 |
 | Points Spent | 1000 |             1000 |
 | Damage       |  100 |                0 |
-|              |      |                  |
 

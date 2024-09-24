@@ -15,7 +15,6 @@ Placed #4 with 9.5 wins
 | Score        | 1000 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [T1 vs ex futuro](<ex futuro/README.md>)
@@ -29,7 +28,6 @@ Placed #4 with 9.5 wins
 | Score        | 1000 |       980 |
 | Points Spent | 1000 |       990 |
 | Damage       |    1 |         0 |
-|              |      |           |
 
 
 ## [T1 vs Hasbros2](<Hasbros2/README.md>)
@@ -43,7 +41,6 @@ Placed #4 with 9.5 wins
 | Score        |  400 |      480 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   52 |       31 |
-|              |      |          |
 
 
 ## [T1 vs vnchicks](<vnchicks/README.md>)
@@ -57,7 +54,6 @@ Placed #4 with 9.5 wins
 | Score        |    0 |      230 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   37 |       50 |
-|              |      |          |
 
 
 ## [T1 vs Error 413](<Error 413/README.md>)
@@ -71,7 +67,6 @@ Placed #4 with 9.5 wins
 | Score        |  900 |       600 |
 | Points Spent | 1000 |      1000 |
 | Damage       |    0 |         5 |
-|              |      |           |
 
 
 ## [Me_Myself_And_I vs T1](<Me_Myself_And_I/README.md>)
@@ -85,7 +80,6 @@ Placed #4 with 9.5 wins
 | Score        |             200 | 1000 |
 | Points Spent |            1000 | 1000 |
 | Damage       |               0 |    0 |
-|              |                 |      |
 
 
 ## [Nullifier vs T1](<Nullifier/README.md>)
@@ -99,7 +93,6 @@ Placed #4 with 9.5 wins
 | Score        |       500 |  820 |
 | Points Spent |      1000 | 1000 |
 | Damage       |         9 |    5 |
-|              |           |      |
 
 
 ## [T1 vs lebrawnjame](<lebrawnjame/README.md>)
@@ -113,7 +106,6 @@ Placed #4 with 9.5 wins
 | Score        | 1000 |           0 |
 | Points Spent | 1000 |        1000 |
 | Damage       |    0 |           0 |
-|              |      |             |
 
 
 ## [T1 vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -127,7 +119,6 @@ Placed #4 with 9.5 wins
 | Score        | 1000 |             1000 |
 | Points Spent | 1000 |             1000 |
 | Damage       |    0 |                0 |
-|              |      |                  |
 
 
 ## [T1 vs cava](<cava/README.md>)
@@ -141,7 +132,6 @@ Placed #4 with 9.5 wins
 | Score        | 1000 |    0 |
 | Points Spent | 1000 |    0 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [AlphaDog vs T1](<AlphaDog/README.md>)
@@ -155,7 +145,6 @@ Placed #4 with 9.5 wins
 | Score        |     1000 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [DefineAC vs T1](<DefineAC/README.md>)
@@ -169,7 +158,6 @@ Placed #4 with 9.5 wins
 | Score        |        0 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [ghost-in-a-sh vs T1](<ghost-in-a-sh/README.md>)
@@ -183,7 +171,6 @@ Placed #4 with 9.5 wins
 | Score        |           990 |  960 |
 | Points Spent |          1000 | 1000 |
 | Damage       |             2 |    1 |
-|              |               |      |
 
 
 ## [T1 vs dibz](<dibz/README.md>)
@@ -197,7 +184,6 @@ Placed #4 with 9.5 wins
 | Score        |  400 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |   30 |
-|              |      |      |
 
 
 ## [Big Steppa vs T1](<Big Steppa/README.md>)
@@ -211,5 +197,4 @@ Placed #4 with 9.5 wins
 | Score        |        560 | 1000 |
 | Points Spent |       1000 | 1000 |
 | Damage       |          0 |   44 |
-|              |            |      |
 

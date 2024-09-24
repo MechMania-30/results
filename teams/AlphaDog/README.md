@@ -15,7 +15,6 @@ Placed #5 with 9.0 wins
 | Score        |         140 |      520 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          24 |       24 |
-|              |             |          |
 
 
 ## [Hasbros2 vs AlphaDog](<Hasbros2/README.md>)
@@ -29,7 +28,6 @@ Placed #5 with 9.0 wins
 | Score        |     1000 |     1000 |
 | Points Spent |     1000 |     1000 |
 | Damage       |        0 |        0 |
-|              |          |          |
 
 
 ## [vnchicks vs AlphaDog](<vnchicks/README.md>)
@@ -43,7 +41,6 @@ Placed #5 with 9.0 wins
 | Score        |      700 |      560 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       22 |       15 |
-|              |          |          |
 
 
 ## [Error 413 vs AlphaDog](<Error 413/README.md>)
@@ -57,7 +54,6 @@ Placed #5 with 9.0 wins
 | Score        |       140 |      260 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        37 |       63 |
-|              |           |          |
 
 
 ## [AlphaDog vs DefineAC](<DefineAC/README.md>)
@@ -71,7 +67,6 @@ Placed #5 with 9.0 wins
 | Score        |      280 |      200 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       39 |       36 |
-|              |          |          |
 
 
 ## [AlphaDog vs cava](<cava/README.md>)
@@ -85,7 +80,6 @@ Placed #5 with 9.0 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [ex futuro vs AlphaDog](<ex futuro/README.md>)
@@ -99,7 +93,6 @@ Placed #5 with 9.0 wins
 | Score        |         0 |      340 |
 | Points Spent |       990 |     1000 |
 | Damage       |        33 |       69 |
-|              |           |          |
 
 
 ## [AlphaDog vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -113,7 +106,6 @@ Placed #5 with 9.0 wins
 | Score        |      200 |           250 |
 | Points Spent |     1000 |          1000 |
 | Damage       |       75 |            27 |
-|              |          |               |
 
 
 ## [AlphaDog vs Big Steppa](<Big Steppa/README.md>)
@@ -127,7 +119,6 @@ Placed #5 with 9.0 wins
 | Score        |      600 |        190 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       81 |         20 |
-|              |          |            |
 
 
 ## [AlphaDog vs T1](<T1/README.md>)
@@ -141,7 +132,6 @@ Placed #5 with 9.0 wins
 | Score        |     1000 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [AlphaDog vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -155,7 +145,6 @@ Placed #5 with 9.0 wins
 | Score        |     1000 |              980 |
 | Points Spent |     1000 |             1000 |
 | Damage       |        2 |                0 |
-|              |          |                  |
 
 
 ## [AlphaDog vs Nullifier](<Nullifier/README.md>)
@@ -169,7 +158,6 @@ Placed #5 with 9.0 wins
 | Score        |        0 |       400 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       30 |        50 |
-|              |          |           |
 
 
 ## [Me_Myself_And_I vs AlphaDog](<Me_Myself_And_I/README.md>)
@@ -183,7 +171,6 @@ Placed #5 with 9.0 wins
 | Score        |             270 |        0 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              50 |       73 |
-|              |                 |          |
 
 
 ## [amit vs AlphaDog](<amit/README.md>)
@@ -197,7 +184,6 @@ Placed #5 with 9.0 wins
 | Score        |    0 |     1000 |
 | Points Spent | 1000 |     1000 |
 | Damage       |    0 |      101 |
-|              |      |          |
 
 
 ## [AlphaDog vs dibz](<dibz/README.md>)
@@ -211,5 +197,4 @@ Placed #5 with 9.0 wins
 | Score        |        0 |  380 |
 | Points Spent |     1000 | 1000 |
 | Damage       |       31 |   50 |
-|              |          |      |
 

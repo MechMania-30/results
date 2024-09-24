@@ -15,7 +15,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 |          1000 |
 | Points Spent |    0 |          1000 |
 | Damage       |    0 |             0 |
-|              |      |               |
 
 
 ## [cava vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -29,7 +28,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 |             1000 |
 | Points Spent |    0 |             1000 |
 | Damage       |    0 |                0 |
-|              |      |                  |
 
 
 ## [Me_Myself_And_I vs cava](<Me_Myself_And_I/README.md>)
@@ -43,7 +41,6 @@ Placed #16 with 0.0 wins
 | Score        |            1000 |    0 |
 | Points Spent |            1000 |    0 |
 | Damage       |               0 |    0 |
-|              |                 |      |
 
 
 ## [vnchicks vs cava](<vnchicks/README.md>)
@@ -57,7 +54,6 @@ Placed #16 with 0.0 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [Nullifier vs cava](<Nullifier/README.md>)
@@ -71,7 +67,6 @@ Placed #16 with 0.0 wins
 | Score        |      1000 |    0 |
 | Points Spent |      1000 |    0 |
 | Damage       |         0 |    0 |
-|              |           |      |
 
 
 ## [cava vs dibz](<dibz/README.md>)
@@ -85,7 +80,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 | 1000 |
 | Points Spent |    0 | 1000 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [amit vs cava](<amit/README.md>)
@@ -99,7 +93,6 @@ Placed #16 with 0.0 wins
 | Score        | 1000 |    0 |
 | Points Spent | 1000 |    0 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [AlphaDog vs cava](<AlphaDog/README.md>)
@@ -113,7 +106,6 @@ Placed #16 with 0.0 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [cava vs Big Steppa](<Big Steppa/README.md>)
@@ -127,7 +119,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 |       1000 |
 | Points Spent |    0 |       1000 |
 | Damage       |    0 |          0 |
-|              |      |            |
 
 
 ## [Error 413 vs cava](<Error 413/README.md>)
@@ -141,7 +132,6 @@ Placed #16 with 0.0 wins
 | Score        |      1000 |    0 |
 | Points Spent |      1000 |    0 |
 | Damage       |         0 |    0 |
-|              |           |      |
 
 
 ## [T1 vs cava](<T1/README.md>)
@@ -155,7 +145,6 @@ Placed #16 with 0.0 wins
 | Score        | 1000 |    0 |
 | Points Spent | 1000 |    0 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [Hasbros2 vs cava](<Hasbros2/README.md>)
@@ -169,7 +158,6 @@ Placed #16 with 0.0 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [cava vs DefineAC](<DefineAC/README.md>)
@@ -183,7 +171,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 |     1000 |
 | Points Spent |    0 |     1000 |
 | Damage       |    0 |        0 |
-|              |      |          |
 
 
 ## [cava vs ex futuro](<ex futuro/README.md>)
@@ -197,7 +184,6 @@ Placed #16 with 0.0 wins
 | Score        |    0 |       990 |
 | Points Spent |    0 |       990 |
 | Damage       |    0 |         0 |
-|              |      |           |
 
 
 ## [cava vs lebrawnjame](<lebrawnjame/README.md>)
@@ -211,5 +197,4 @@ Placed #16 with 0.0 wins
 | Score        |    0 |        1000 |
 | Points Spent |    0 |        1000 |
 | Damage       |    0 |           0 |
-|              |      |             |
 

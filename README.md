@@ -17,4 +17,3 @@
 | 14 | [amit](<teams/amit/README.md>)                         |  3.0 |
 | 15 | [lebrawnjame](<teams/lebrawnjame/README.md>)           |  1.0 |
 | 16 | [cava](<teams/cava/README.md>)                         |  0.0 |
-|    |                                                        |      |

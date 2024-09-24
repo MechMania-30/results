@@ -15,7 +15,6 @@ Placed #8 with 8.0 wins
 | Score        |              330 |       600 |
 | Points Spent |             1000 |      1000 |
 | Damage       |               10 |        67 |
-|              |                  |           |
 
 
 ## [Error 413 vs Hasbros2](<Hasbros2/README.md>)
@@ -29,7 +28,6 @@ Placed #8 with 8.0 wins
 | Score        |       420 |      890 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        11 |        4 |
-|              |           |          |
 
 
 ## [Error 413 vs AlphaDog](<AlphaDog/README.md>)
@@ -43,7 +41,6 @@ Placed #8 with 8.0 wins
 | Score        |       140 |      260 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        37 |       63 |
-|              |           |          |
 
 
 ## [ghost-in-a-sh vs Error 413](<ghost-in-a-sh/README.md>)
@@ -57,7 +54,6 @@ Placed #8 with 8.0 wins
 | Score        |             0 |       160 |
 | Points Spent |          1000 |      1000 |
 | Damage       |            54 |       100 |
-|              |               |           |
 
 
 ## [Error 413 vs dibz](<dibz/README.md>)
@@ -71,7 +67,6 @@ Placed #8 with 8.0 wins
 | Score        |         0 |  520 |
 | Points Spent |      1000 | 1000 |
 | Damage       |        24 |   48 |
-|              |           |      |
 
 
 ## [T1 vs Error 413](<T1/README.md>)
@@ -85,7 +80,6 @@ Placed #8 with 8.0 wins
 | Score        |  900 |       600 |
 | Points Spent | 1000 |      1000 |
 | Damage       |    0 |         5 |
-|              |      |           |
 
 
 ## [Error 413 vs vnchicks](<vnchicks/README.md>)
@@ -99,7 +93,6 @@ Placed #8 with 8.0 wins
 | Score        |       290 |      550 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        25 |       32 |
-|              |           |          |
 
 
 ## [Error 413 vs cava](<cava/README.md>)
@@ -113,7 +106,6 @@ Placed #8 with 8.0 wins
 | Score        |      1000 |    0 |
 | Points Spent |      1000 |    0 |
 | Damage       |         0 |    0 |
-|              |           |      |
 
 
 ## [DefineAC vs Error 413](<DefineAC/README.md>)
@@ -127,7 +119,6 @@ Placed #8 with 8.0 wins
 | Score        |        0 |       140 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       53 |        43 |
-|              |          |           |
 
 
 ## [Error 413 vs ex futuro](<ex futuro/README.md>)
@@ -141,7 +132,6 @@ Placed #8 with 8.0 wins
 | Score        |       140 |         0 |
 | Points Spent |      1000 |       990 |
 | Damage       |        69 |        56 |
-|              |           |           |
 
 
 ## [Nullifier vs Error 413](<Nullifier/README.md>)
@@ -155,7 +145,6 @@ Placed #8 with 8.0 wins
 | Score        |       360 |         0 |
 | Points Spent |      1000 |      1000 |
 | Damage       |        70 |        34 |
-|              |           |           |
 
 
 ## [Error 413 vs amit](<amit/README.md>)
@@ -169,7 +158,6 @@ Placed #8 with 8.0 wins
 | Score        |       600 |    0 |
 | Points Spent |      1000 | 1000 |
 | Damage       |       101 |   20 |
-|              |           |      |
 
 
 ## [Error 413 vs lebrawnjame](<lebrawnjame/README.md>)
@@ -183,7 +171,6 @@ Placed #8 with 8.0 wins
 | Score        |        80 |           0 |
 | Points Spent |      1000 |        1000 |
 | Damage       |        51 |          66 |
-|              |           |             |
 
 
 ## [Big Steppa vs Error 413](<Big Steppa/README.md>)
@@ -197,7 +184,6 @@ Placed #8 with 8.0 wins
 | Score        |         70 |         0 |
 | Points Spent |       1000 |      1000 |
 | Damage       |         55 |        94 |
-|              |            |           |
 
 
 ## [Me_Myself_And_I vs Error 413](<Me_Myself_And_I/README.md>)
@@ -211,5 +197,4 @@ Placed #8 with 8.0 wins
 | Score        |               0 |         0 |
 | Points Spent |            1000 |      1000 |
 | Damage       |              72 |       120 |
-|              |                 |           |
 

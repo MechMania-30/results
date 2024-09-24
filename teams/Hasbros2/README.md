@@ -15,7 +15,6 @@ Placed #2 with 12.5 wins
 | Score        |  400 |      480 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   52 |       31 |
-|              |      |          |
 
 
 ## [Hasbros2 vs AlphaDog](<AlphaDog/README.md>)
@@ -29,7 +28,6 @@ Placed #2 with 12.5 wins
 | Score        |     1000 |     1000 |
 | Points Spent |     1000 |     1000 |
 | Damage       |        0 |        0 |
-|              |          |          |
 
 
 ## [Error 413 vs Hasbros2](<Error 413/README.md>)
@@ -43,7 +41,6 @@ Placed #2 with 12.5 wins
 | Score        |       420 |      890 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        11 |        4 |
-|              |           |          |
 
 
 ## [Nullifier vs Hasbros2](<Nullifier/README.md>)
@@ -57,7 +54,6 @@ Placed #2 with 12.5 wins
 | Score        |         0 |      380 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        62 |       23 |
-|              |           |          |
 
 
 ## [amit vs Hasbros2](<amit/README.md>)
@@ -71,7 +67,6 @@ Placed #2 with 12.5 wins
 | Score        |  190 |      800 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   20 |      100 |
-|              |      |          |
 
 
 ## [Hasbros2 vs ex futuro](<ex futuro/README.md>)
@@ -85,7 +80,6 @@ Placed #2 with 12.5 wins
 | Score        |     1000 |       990 |
 | Points Spent |     1000 |       990 |
 | Damage       |        0 |         0 |
-|              |          |           |
 
 
 ## [Hasbros2 vs Big Steppa](<Big Steppa/README.md>)
@@ -99,7 +93,6 @@ Placed #2 with 12.5 wins
 | Score        |      800 |        400 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       63 |         20 |
-|              |          |            |
 
 
 ## [Moo Deng Fanclub vs Hasbros2](<Moo Deng Fanclub/README.md>)
@@ -113,7 +106,6 @@ Placed #2 with 12.5 wins
 | Score        |                0 |     1000 |
 | Points Spent |             1000 |     1000 |
 | Damage       |                0 |      101 |
-|              |                  |          |
 
 
 ## [ghost-in-a-sh vs Hasbros2](<ghost-in-a-sh/README.md>)
@@ -127,7 +119,6 @@ Placed #2 with 12.5 wins
 | Score        |           260 |      180 |
 | Points Spent |          1000 |     1000 |
 | Damage       |            46 |       75 |
-|              |               |          |
 
 
 ## [dibz vs Hasbros2](<dibz/README.md>)
@@ -141,7 +132,6 @@ Placed #2 with 12.5 wins
 | Score        |  340 |        0 |
 | Points Spent | 1000 |     1000 |
 | Damage       |  100 |       33 |
-|              |      |          |
 
 
 ## [Hasbros2 vs cava](<cava/README.md>)
@@ -155,7 +145,6 @@ Placed #2 with 12.5 wins
 | Score        |     1000 |    0 |
 | Points Spent |     1000 |    0 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [Me_Myself_And_I vs Hasbros2](<Me_Myself_And_I/README.md>)
@@ -169,7 +158,6 @@ Placed #2 with 12.5 wins
 | Score        |               0 |      530 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              48 |       45 |
-|              |                 |          |
 
 
 ## [Hasbros2 vs lebrawnjame](<lebrawnjame/README.md>)
@@ -183,7 +171,6 @@ Placed #2 with 12.5 wins
 | Score        |     1000 |           0 |
 | Points Spent |     1000 |        1000 |
 | Damage       |        0 |           0 |
-|              |          |             |
 
 
 ## [Hasbros2 vs DefineAC](<DefineAC/README.md>)
@@ -197,7 +184,6 @@ Placed #2 with 12.5 wins
 | Score        |      700 |        0 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       10 |       30 |
-|              |          |          |
 
 
 ## [Hasbros2 vs vnchicks](<vnchicks/README.md>)
@@ -211,5 +197,4 @@ Placed #2 with 12.5 wins
 | Score        |      400 |      170 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       53 |       60 |
-|              |          |          |
 

@@ -9,4 +9,3 @@
 | Score        |           990 |  960 |
 | Points Spent |          1000 | 1000 |
 | Damage       |             2 |    1 |
-|              |               |      |

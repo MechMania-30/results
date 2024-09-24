@@ -15,7 +15,6 @@ Placed #8 with 8.0 wins
 | Score        |             200 |        100 |
 | Points Spent |            1000 |       1000 |
 | Damage       |              90 |         40 |
-|              |                 |            |
 
 
 ## [DefineAC vs Big Steppa](<DefineAC/README.md>)
@@ -29,7 +28,6 @@ Placed #8 with 8.0 wins
 | Score        |        0 |        560 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       45 |         45 |
-|              |          |            |
 
 
 ## [lebrawnjame vs Big Steppa](<lebrawnjame/README.md>)
@@ -43,7 +41,6 @@ Placed #8 with 8.0 wins
 | Score        |           0 |        420 |
 | Points Spent |        1000 |       1000 |
 | Damage       |          59 |         50 |
-|              |             |            |
 
 
 ## [Big Steppa vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -57,7 +54,6 @@ Placed #8 with 8.0 wins
 | Score        |        960 |              910 |
 | Points Spent |       1000 |             1000 |
 | Damage       |          9 |                9 |
-|              |            |                  |
 
 
 ## [cava vs Big Steppa](<cava/README.md>)
@@ -71,7 +67,6 @@ Placed #8 with 8.0 wins
 | Score        |    0 |       1000 |
 | Points Spent |    0 |       1000 |
 | Damage       |    0 |          0 |
-|              |      |            |
 
 
 ## [Hasbros2 vs Big Steppa](<Hasbros2/README.md>)
@@ -85,7 +80,6 @@ Placed #8 with 8.0 wins
 | Score        |      800 |        400 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       63 |         20 |
-|              |          |            |
 
 
 ## [ex futuro vs Big Steppa](<ex futuro/README.md>)
@@ -99,7 +93,6 @@ Placed #8 with 8.0 wins
 | Score        |       250 |        260 |
 | Points Spent |       990 |       1000 |
 | Damage       |        79 |         54 |
-|              |           |            |
 
 
 ## [Big Steppa vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -113,7 +106,6 @@ Placed #8 with 8.0 wins
 | Score        |        360 |           610 |
 | Points Spent |       1000 |          1000 |
 | Damage       |         39 |            66 |
-|              |            |               |
 
 
 ## [vnchicks vs Big Steppa](<vnchicks/README.md>)
@@ -127,7 +119,6 @@ Placed #8 with 8.0 wins
 | Score        |      400 |        400 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       60 |         20 |
-|              |          |            |
 
 
 ## [AlphaDog vs Big Steppa](<AlphaDog/README.md>)
@@ -141,7 +132,6 @@ Placed #8 with 8.0 wins
 | Score        |      600 |        190 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       81 |         20 |
-|              |          |            |
 
 
 ## [dibz vs Big Steppa](<dibz/README.md>)
@@ -155,7 +145,6 @@ Placed #8 with 8.0 wins
 | Score        | 1000 |          0 |
 | Points Spent | 1000 |       1000 |
 | Damage       |  100 |          0 |
-|              |      |            |
 
 
 ## [Big Steppa vs amit](<amit/README.md>)
@@ -169,7 +158,6 @@ Placed #8 with 8.0 wins
 | Score        |        100 |   50 |
 | Points Spent |       1000 | 1000 |
 | Damage       |         92 |   92 |
-|              |            |      |
 
 
 ## [Big Steppa vs T1](<T1/README.md>)
@@ -183,7 +171,6 @@ Placed #8 with 8.0 wins
 | Score        |        560 | 1000 |
 | Points Spent |       1000 | 1000 |
 | Damage       |          0 |   44 |
-|              |            |      |
 
 
 ## [Big Steppa vs Nullifier](<Nullifier/README.md>)
@@ -197,7 +184,6 @@ Placed #8 with 8.0 wins
 | Score        |        230 |       100 |
 | Points Spent |       1000 |      1000 |
 | Damage       |         45 |        77 |
-|              |            |           |
 
 
 ## [Big Steppa vs Error 413](<Error 413/README.md>)
@@ -211,5 +197,4 @@ Placed #8 with 8.0 wins
 | Score        |         70 |         0 |
 | Points Spent |       1000 |      1000 |
 | Damage       |         55 |        94 |
-|              |            |           |
 

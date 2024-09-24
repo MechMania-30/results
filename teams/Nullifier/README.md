@@ -15,7 +15,6 @@ Placed #5 with 9.0 wins
 | Score        |        20 |      400 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        60 |       24 |
-|              |           |          |
 
 
 ## [Nullifier vs amit](<amit/README.md>)
@@ -29,7 +28,6 @@ Placed #5 with 9.0 wins
 | Score        |       200 |   90 |
 | Points Spent |      1000 | 1000 |
 | Damage       |        91 |   40 |
-|              |           |      |
 
 
 ## [Nullifier vs cava](<cava/README.md>)
@@ -43,7 +41,6 @@ Placed #5 with 9.0 wins
 | Score        |      1000 |    0 |
 | Points Spent |      1000 |    0 |
 | Damage       |         0 |    0 |
-|              |           |      |
 
 
 ## [Nullifier vs Hasbros2](<Hasbros2/README.md>)
@@ -57,7 +54,6 @@ Placed #5 with 9.0 wins
 | Score        |         0 |      380 |
 | Points Spent |      1000 |     1000 |
 | Damage       |        62 |       23 |
-|              |           |          |
 
 
 ## [dibz vs Nullifier](<dibz/README.md>)
@@ -71,7 +67,6 @@ Placed #5 with 9.0 wins
 | Score        |  560 |         0 |
 | Points Spent | 1000 |      1000 |
 | Damage       |   46 |        22 |
-|              |      |           |
 
 
 ## [lebrawnjame vs Nullifier](<lebrawnjame/README.md>)
@@ -85,7 +80,6 @@ Placed #5 with 9.0 wins
 | Score        |           0 |       560 |
 | Points Spent |        1000 |      1000 |
 | Damage       |          17 |        56 |
-|              |             |           |
 
 
 ## [Nullifier vs T1](<T1/README.md>)
@@ -99,7 +93,6 @@ Placed #5 with 9.0 wins
 | Score        |       500 |  820 |
 | Points Spent |      1000 | 1000 |
 | Damage       |         9 |    5 |
-|              |           |      |
 
 
 ## [Nullifier vs Error 413](<Error 413/README.md>)
@@ -113,7 +106,6 @@ Placed #5 with 9.0 wins
 | Score        |       360 |         0 |
 | Points Spent |      1000 |      1000 |
 | Damage       |        70 |        34 |
-|              |           |           |
 
 
 ## [ghost-in-a-sh vs Nullifier](<ghost-in-a-sh/README.md>)
@@ -127,7 +119,6 @@ Placed #5 with 9.0 wins
 | Score        |            20 |       560 |
 | Points Spent |          1000 |      1000 |
 | Damage       |            22 |        98 |
-|              |               |           |
 
 
 ## [Moo Deng Fanclub vs Nullifier](<Moo Deng Fanclub/README.md>)
@@ -141,7 +132,6 @@ Placed #5 with 9.0 wins
 | Score        |              420 |         0 |
 | Points Spent |             1000 |      1000 |
 | Damage       |               35 |        58 |
-|              |                  |           |
 
 
 ## [AlphaDog vs Nullifier](<AlphaDog/README.md>)
@@ -155,7 +145,6 @@ Placed #5 with 9.0 wins
 | Score        |        0 |       400 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       30 |        50 |
-|              |          |           |
 
 
 ## [Me_Myself_And_I vs Nullifier](<Me_Myself_And_I/README.md>)
@@ -169,7 +158,6 @@ Placed #5 with 9.0 wins
 | Score        |               0 |       440 |
 | Points Spent |            1000 |      1000 |
 | Damage       |              28 |       100 |
-|              |                 |           |
 
 
 ## [Nullifier vs ex futuro](<ex futuro/README.md>)
@@ -183,7 +171,6 @@ Placed #5 with 9.0 wins
 | Score        |       320 |        30 |
 | Points Spent |      1000 |       990 |
 | Damage       |        66 |        35 |
-|              |           |           |
 
 
 ## [Big Steppa vs Nullifier](<Big Steppa/README.md>)
@@ -197,7 +184,6 @@ Placed #5 with 9.0 wins
 | Score        |        230 |       100 |
 | Points Spent |       1000 |      1000 |
 | Damage       |         45 |        77 |
-|              |            |           |
 
 
 ## [DefineAC vs Nullifier](<DefineAC/README.md>)
@@ -211,5 +197,4 @@ Placed #5 with 9.0 wins
 | Score        |        0 |       160 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       42 |        50 |
-|              |          |           |
 

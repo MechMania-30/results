@@ -15,7 +15,6 @@ Placed #1 with 15.0 wins
 | Score        |  800 |        0 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   23 |       10 |
-|              |      |          |
 
 
 ## [cava vs dibz](<cava/README.md>)
@@ -29,7 +28,6 @@ Placed #1 with 15.0 wins
 | Score        |    0 | 1000 |
 | Points Spent |    0 | 1000 |
 | Damage       |    0 |    0 |
-|              |      |      |
 
 
 ## [dibz vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -43,7 +41,6 @@ Placed #1 with 15.0 wins
 | Score        |  220 |             0 |
 | Points Spent | 1000 |          1000 |
 | Damage       |  100 |            39 |
-|              |      |               |
 
 
 ## [dibz vs Nullifier](<Nullifier/README.md>)
@@ -57,7 +54,6 @@ Placed #1 with 15.0 wins
 | Score        |  560 |         0 |
 | Points Spent | 1000 |      1000 |
 | Damage       |   46 |        22 |
-|              |      |           |
 
 
 ## [Error 413 vs dibz](<Error 413/README.md>)
@@ -71,7 +67,6 @@ Placed #1 with 15.0 wins
 | Score        |         0 |  520 |
 | Points Spent |      1000 | 1000 |
 | Damage       |        24 |   48 |
-|              |           |      |
 
 
 ## [ex futuro vs dibz](<ex futuro/README.md>)
@@ -85,7 +80,6 @@ Placed #1 with 15.0 wins
 | Score        |         0 |  180 |
 | Points Spent |       990 | 1000 |
 | Damage       |        41 |   69 |
-|              |           |      |
 
 
 ## [amit vs dibz](<amit/README.md>)
@@ -99,7 +93,6 @@ Placed #1 with 15.0 wins
 | Score        |    0 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |  100 |
-|              |      |      |
 
 
 ## [dibz vs Big Steppa](<Big Steppa/README.md>)
@@ -113,7 +106,6 @@ Placed #1 with 15.0 wins
 | Score        | 1000 |          0 |
 | Points Spent | 1000 |       1000 |
 | Damage       |  100 |          0 |
-|              |      |            |
 
 
 ## [vnchicks vs dibz](<vnchicks/README.md>)
@@ -127,7 +119,6 @@ Placed #1 with 15.0 wins
 | Score        |        0 |  760 |
 | Points Spent |     1000 | 1000 |
 | Damage       |       12 |   47 |
-|              |          |      |
 
 
 ## [Me_Myself_And_I vs dibz](<Me_Myself_And_I/README.md>)
@@ -141,7 +132,6 @@ Placed #1 with 15.0 wins
 | Score        |               0 |  500 |
 | Points Spent |            1000 | 1000 |
 | Damage       |              25 |   49 |
-|              |                 |      |
 
 
 ## [dibz vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -155,7 +145,6 @@ Placed #1 with 15.0 wins
 | Score        | 1000 |                0 |
 | Points Spent | 1000 |             1000 |
 | Damage       |  100 |                0 |
-|              |      |                  |
 
 
 ## [T1 vs dibz](<T1/README.md>)
@@ -169,7 +158,6 @@ Placed #1 with 15.0 wins
 | Score        |  400 | 1000 |
 | Points Spent | 1000 | 1000 |
 | Damage       |    0 |   30 |
-|              |      |      |
 
 
 ## [dibz vs Hasbros2](<Hasbros2/README.md>)
@@ -183,7 +171,6 @@ Placed #1 with 15.0 wins
 | Score        |  340 |        0 |
 | Points Spent | 1000 |     1000 |
 | Damage       |  100 |       33 |
-|              |      |          |
 
 
 ## [AlphaDog vs dibz](<AlphaDog/README.md>)
@@ -197,7 +184,6 @@ Placed #1 with 15.0 wins
 | Score        |        0 |  380 |
 | Points Spent |     1000 | 1000 |
 | Damage       |       31 |   50 |
-|              |          |      |
 
 
 ## [lebrawnjame vs dibz](<lebrawnjame/README.md>)
@@ -211,5 +197,4 @@ Placed #1 with 15.0 wins
 | Score        |           0 |  600 |
 | Points Spent |        1000 | 1000 |
 | Damage       |          20 |   41 |
-|              |             |      |
 

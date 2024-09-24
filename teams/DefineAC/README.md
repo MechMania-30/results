@@ -15,7 +15,6 @@ Placed #13 with 4.0 wins
 | Score        |  800 |        0 |
 | Points Spent | 1000 |     1000 |
 | Damage       |   23 |       10 |
-|              |      |          |
 
 
 ## [DefineAC vs Big Steppa](<Big Steppa/README.md>)
@@ -29,7 +28,6 @@ Placed #13 with 4.0 wins
 | Score        |        0 |        560 |
 | Points Spent |     1000 |       1000 |
 | Damage       |       45 |         45 |
-|              |          |            |
 
 
 ## [lebrawnjame vs DefineAC](<lebrawnjame/README.md>)
@@ -43,7 +41,6 @@ Placed #13 with 4.0 wins
 | Score        |           0 |      200 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          60 |       57 |
-|              |             |          |
 
 
 ## [vnchicks vs DefineAC](<vnchicks/README.md>)
@@ -57,7 +54,6 @@ Placed #13 with 4.0 wins
 | Score        |      200 |      190 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       31 |       60 |
-|              |          |          |
 
 
 ## [AlphaDog vs DefineAC](<AlphaDog/README.md>)
@@ -71,7 +67,6 @@ Placed #13 with 4.0 wins
 | Score        |      280 |      200 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       39 |       36 |
-|              |          |          |
 
 
 ## [Me_Myself_And_I vs DefineAC](<Me_Myself_And_I/README.md>)
@@ -85,7 +80,6 @@ Placed #13 with 4.0 wins
 | Score        |             310 |        0 |
 | Points Spent |            1000 |     1000 |
 | Damage       |              27 |       59 |
-|              |                 |          |
 
 
 ## [DefineAC vs Error 413](<Error 413/README.md>)
@@ -99,7 +93,6 @@ Placed #13 with 4.0 wins
 | Score        |        0 |       140 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       53 |        43 |
-|              |          |           |
 
 
 ## [DefineAC vs amit](<amit/README.md>)
@@ -113,7 +106,6 @@ Placed #13 with 4.0 wins
 | Score        |      300 |    0 |
 | Points Spent |     1000 | 1000 |
 | Damage       |      101 |   25 |
-|              |          |      |
 
 
 ## [DefineAC vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -127,7 +119,6 @@ Placed #13 with 4.0 wins
 | Score        |        0 |              720 |
 | Points Spent |     1000 |             1000 |
 | Damage       |       30 |                0 |
-|              |          |                  |
 
 
 ## [DefineAC vs T1](<T1/README.md>)
@@ -141,7 +132,6 @@ Placed #13 with 4.0 wins
 | Score        |        0 | 1000 |
 | Points Spent |     1000 | 1000 |
 | Damage       |        0 |    0 |
-|              |          |      |
 
 
 ## [DefineAC vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -155,7 +145,6 @@ Placed #13 with 4.0 wins
 | Score        |      280 |             0 |
 | Points Spent |     1000 |          1000 |
 | Damage       |      100 |            47 |
-|              |          |               |
 
 
 ## [cava vs DefineAC](<cava/README.md>)
@@ -169,7 +158,6 @@ Placed #13 with 4.0 wins
 | Score        |    0 |     1000 |
 | Points Spent |    0 |     1000 |
 | Damage       |    0 |        0 |
-|              |      |          |
 
 
 ## [Hasbros2 vs DefineAC](<Hasbros2/README.md>)
@@ -183,7 +171,6 @@ Placed #13 with 4.0 wins
 | Score        |      700 |        0 |
 | Points Spent |     1000 |     1000 |
 | Damage       |       10 |       30 |
-|              |          |          |
 
 
 ## [ex futuro vs DefineAC](<ex futuro/README.md>)
@@ -197,7 +184,6 @@ Placed #13 with 4.0 wins
 | Score        |       100 |        0 |
 | Points Spent |       990 |     1000 |
 | Damage       |        52 |       65 |
-|              |           |          |
 
 
 ## [DefineAC vs Nullifier](<Nullifier/README.md>)
@@ -211,5 +197,4 @@ Placed #13 with 4.0 wins
 | Score        |        0 |       160 |
 | Points Spent |     1000 |      1000 |
 | Damage       |       42 |        50 |
-|              |          |           |
 

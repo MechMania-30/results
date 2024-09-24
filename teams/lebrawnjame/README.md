@@ -15,7 +15,6 @@ Placed #15 with 1.0 wins
 | Score        |         140 |      520 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          24 |       24 |
-|              |             |          |
 
 
 ## [lebrawnjame vs DefineAC](<DefineAC/README.md>)
@@ -29,7 +28,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |      200 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          60 |       57 |
-|              |             |          |
 
 
 ## [lebrawnjame vs Nullifier](<Nullifier/README.md>)
@@ -43,7 +41,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |       560 |
 | Points Spent |        1000 |      1000 |
 | Damage       |          17 |        56 |
-|              |             |           |
 
 
 ## [lebrawnjame vs Big Steppa](<Big Steppa/README.md>)
@@ -57,7 +54,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |        420 |
 | Points Spent |        1000 |       1000 |
 | Damage       |          59 |         50 |
-|              |             |            |
 
 
 ## [lebrawnjame vs ex futuro](<ex futuro/README.md>)
@@ -71,7 +67,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |       280 |
 | Points Spent |        1000 |       990 |
 | Damage       |          41 |        52 |
-|              |             |           |
 
 
 ## [lebrawnjame vs ghost-in-a-sh](<ghost-in-a-sh/README.md>)
@@ -85,7 +80,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |           210 |
 | Points Spent |        1000 |          1000 |
 | Damage       |          81 |            46 |
-|              |             |               |
 
 
 ## [amit vs lebrawnjame](<amit/README.md>)
@@ -99,7 +93,6 @@ Placed #15 with 1.0 wins
 | Score        |   50 |           0 |
 | Points Spent | 1000 |        1000 |
 | Damage       |   45 |         103 |
-|              |      |             |
 
 
 ## [T1 vs lebrawnjame](<T1/README.md>)
@@ -113,7 +106,6 @@ Placed #15 with 1.0 wins
 | Score        | 1000 |           0 |
 | Points Spent | 1000 |        1000 |
 | Damage       |    0 |           0 |
-|              |      |             |
 
 
 ## [lebrawnjame vs Moo Deng Fanclub](<Moo Deng Fanclub/README.md>)
@@ -127,7 +119,6 @@ Placed #15 with 1.0 wins
 | Score        |         200 |              220 |
 | Points Spent |        1000 |             1000 |
 | Damage       |          78 |               15 |
-|              |             |                  |
 
 
 ## [Me_Myself_And_I vs lebrawnjame](<Me_Myself_And_I/README.md>)
@@ -141,7 +132,6 @@ Placed #15 with 1.0 wins
 | Score        |             280 |           0 |
 | Points Spent |            1000 |        1000 |
 | Damage       |              50 |          72 |
-|              |                 |             |
 
 
 ## [Error 413 vs lebrawnjame](<Error 413/README.md>)
@@ -155,7 +145,6 @@ Placed #15 with 1.0 wins
 | Score        |        80 |           0 |
 | Points Spent |      1000 |        1000 |
 | Damage       |        51 |          66 |
-|              |           |             |
 
 
 ## [lebrawnjame vs vnchicks](<vnchicks/README.md>)
@@ -169,7 +158,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |      360 |
 | Points Spent |        1000 |     1000 |
 | Damage       |          44 |       40 |
-|              |             |          |
 
 
 ## [Hasbros2 vs lebrawnjame](<Hasbros2/README.md>)
@@ -183,7 +171,6 @@ Placed #15 with 1.0 wins
 | Score        |     1000 |           0 |
 | Points Spent |     1000 |        1000 |
 | Damage       |        0 |           0 |
-|              |          |             |
 
 
 ## [lebrawnjame vs dibz](<dibz/README.md>)
@@ -197,7 +184,6 @@ Placed #15 with 1.0 wins
 | Score        |           0 |  600 |
 | Points Spent |        1000 | 1000 |
 | Damage       |          20 |   41 |
-|              |             |      |
 
 
 ## [cava vs lebrawnjame](<cava/README.md>)
@@ -211,5 +197,4 @@ Placed #15 with 1.0 wins
 | Score        |    0 |        1000 |
 | Points Spent |    0 |        1000 |
 | Damage       |    0 |           0 |
-|              |      |             |
 
