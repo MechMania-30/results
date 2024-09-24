@@ -1,5 +1,5 @@
 # [T1](../../README.md) Summary
-Scored 9.5 wins
+Placed #4 with 9.5 wins
 - Played against 15 other teams
 - 8 wins (+8)
 - 3 draws (+1.5)

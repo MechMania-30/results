@@ -1,5 +1,5 @@
 # [amit](../../README.md) Summary
-Scored 3.0 wins
+Placed #14 with 3.0 wins
 - Played against 15 other teams
 - 2 wins (+2)
 - 2 draws (+1.0)

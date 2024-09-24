@@ -1,5 +1,5 @@
 # [DefineAC](../../README.md) Summary
-Scored 4.0 wins
+Placed #13 with 4.0 wins
 - Played against 15 other teams
 - 4 wins (+4)
 - 0 draws (+0.0)

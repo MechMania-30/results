@@ -1,5 +1,5 @@
 # [vnchicks](../../README.md) Summary
-Scored 10.5 wins
+Placed #3 with 10.5 wins
 - Played against 15 other teams
 - 10 wins (+10)
 - 1 draws (+0.5)

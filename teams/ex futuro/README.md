@@ -1,5 +1,5 @@
 # [ex futuro](../../README.md) Summary
-Scored 7.0 wins
+Placed #11 with 7.0 wins
 - Played against 15 other teams
 - 7 wins (+7)
 - 0 draws (+0.0)

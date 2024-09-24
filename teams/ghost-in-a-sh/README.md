@@ -1,5 +1,5 @@
 # [ghost-in-a-sh](../../README.md) Summary
-Scored 9.0 wins
+Placed #5 with 9.0 wins
 - Played against 15 other teams
 - 9 wins (+9)
 - 0 draws (+0.0)

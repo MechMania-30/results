@@ -1,5 +1,5 @@
 # [AlphaDog](../../README.md) Summary
-Scored 9.0 wins
+Placed #5 with 9.0 wins
 - Played against 15 other teams
 - 8 wins (+8)
 - 2 draws (+1.0)

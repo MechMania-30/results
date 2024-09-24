@@ -1,5 +1,5 @@
 # [Big Steppa](../../README.md) Summary
-Scored 8.0 wins
+Placed #8 with 8.0 wins
 - Played against 15 other teams
 - 8 wins (+8)
 - 0 draws (+0.0)

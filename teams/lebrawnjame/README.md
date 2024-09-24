@@ -1,5 +1,5 @@
 # [lebrawnjame](../../README.md) Summary
-Scored 1.0 wins
+Placed #15 with 1.0 wins
 - Played against 15 other teams
 - 1 wins (+1)
 - 0 draws (+0.0)

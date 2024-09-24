@@ -1,5 +1,5 @@
 # [cava](../../README.md) Summary
-Scored 0.0 wins
+Placed #16 with 0.0 wins
 - Played against 15 other teams
 - 0 wins (+0)
 - 0 draws (+0.0)

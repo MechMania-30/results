@@ -1,5 +1,5 @@
 # [dibz](../../README.md) Summary
-Scored 15.0 wins
+Placed #1 with 15.0 wins
 - Played against 15 other teams
 - 15 wins (+15)
 - 0 draws (+0.0)

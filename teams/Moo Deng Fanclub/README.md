@@ -1,5 +1,5 @@
 # [Moo Deng Fanclub](../../README.md) Summary
-Scored 6.5 wins
+Placed #12 with 6.5 wins
 - Played against 15 other teams
 - 6 wins (+6)
 - 1 draws (+0.5)

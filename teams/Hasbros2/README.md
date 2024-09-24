@@ -1,5 +1,5 @@
 # [Hasbros2](../../README.md) Summary
-Scored 12.5 wins
+Placed #2 with 12.5 wins
 - Played against 15 other teams
 - 12 wins (+12)
 - 1 draws (+0.5)
