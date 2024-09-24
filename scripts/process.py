@@ -179,8 +179,7 @@ for [team0, team1], game in tqdm(games.items()):
         f"| Wins         | {team0_wins:{'>'}{team0_pad}} | {team1_wins:{'>'}{team1_pad}} |\n" + \
         f"| Score        | {team0_score:{team0_pad}} | {team1_score:{team1_pad}} |\n" + \
         f"| Points Spent | {team0_spent:{team0_pad}} | {team1_spent:{team1_pad}} |\n" + \
-        f"| Damage       | {team0_damage:{team0_pad}} | {team1_damage:{team1_pad}} |\n" + \
-        f"|              | {' ' * team0_pad} | {' ' * team1_pad} |\n"
+        f"| Damage       | {team0_damage:{team0_pad}} | {team1_damage:{team1_pad}} |\n"
     
     team_summaries[team0].append((team0_wins, team1, team0, team1, summary))
     team_summaries[team1].append((team1_wins, team0, team0, team1, summary))
@@ -225,8 +224,7 @@ wins_pad = max(len(str(scoreboard[0][1])), len("Wins"))
 readme_text = "# Scoring\n" + \
     f"| {' ' * pos_pad} | {'Team':{team_pad}} | {'Wins':{wins_pad}} |\n" + \
     f"| {'-' * pos_pad} | {'-' * team_pad} | {'-' * wins_pad} |\n" + \
-    "\n".join(f"| {pos:{pos_pad}} | {team:{team_pad}} | {wins:{wins_pad}} |" for pos, team, wins in scoreboard_with_links) + "\n" + \
-    f"| {' ' * pos_pad} | {' ' * team_pad} | {' ' * wins_pad} |\n"
+    "\n".join(f"| {pos:{pos_pad}} | {team:{team_pad}} | {wins:{wins_pad}} |" for pos, team, wins in scoreboard_with_links) + "\n"
 
 writes[README_PATH] = readme_text
 
