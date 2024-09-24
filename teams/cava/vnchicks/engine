@@ -1,0 +1,13 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+Failed to connect to team 1 on 9002
+[Turn 0] [Validation Error] Player 1 failed to provide a plane selection and lost
+

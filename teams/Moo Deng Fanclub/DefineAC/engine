@@ -1,0 +1,49 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 34.53333333333333] [Damage event] PLANE_ATTACK: plane 96 damaged by 3 for 1 damage, now dead
+[Turn 34.666666666666664] [Damage event] PLANE_ATTACK: plane 55 damaged by 2 for 1 damage, now dead
+[Turn 34.733333333333334] [Damage event] PLANE_ATTACK: plane 76 damaged by 3 for 1 damage, now dead
+[Turn 34.8] [Damage event] PLANE_ATTACK: plane 25 damaged by 2 for 1 damage, now dead
+[Turn 35] [Damage event] PLANE_ATTACK: plane 35 damaged by 2 for 1 damage, now dead
+[Turn 35.06666666666667] [Damage event] PLANE_ATTACK: plane 56 damaged by 3 for 1 damage, now dead
+[Turn 35.13333333333333] [Damage event] PLANE_ATTACK: plane 66 damaged by 2 for 1 damage, now dead
+[Turn 35.266666666666666] [Damage event] PLANE_ATTACK: plane 15 damaged by 2 for 1 damage, now dead
+[Turn 35.333333333333336] [Damage event] PLANE_ATTACK: plane 45 damaged by 2 for 1 damage, now dead
+[Turn 35.4] [Damage event] PLANE_ATTACK: plane 86 damaged by 3 for 1 damage, now dead
+[Turn 39.13333333333333] [Damage event] BORDER: plane 2 damaged for 10 damage, now dead
+[Turn 39.666666666666664] [Damage event] BORDER: plane 3 damaged for 10 damage, now dead
+[Turn 43.06666666666667] [Damage event] PLANE_ATTACK: plane 44 damaged by 0 for 1 damage, now dead
+[Turn 43.06666666666667] [Damage event] PLANE_ATTACK: plane 24 damaged by 1 for 1 damage, now dead
+[Turn 43.06666666666667] [Damage event] PLANE_ATTACK: plane 44 damaged by 1 for 1 damage, now dead
+[Turn 43.4] [Damage event] PLANE_ATTACK: plane 14 damaged by 0 for 1 damage, now dead
+[Turn 43.46666666666667] [Damage event] PLANE_ATTACK: plane 53 damaged by 0 for 1 damage, now dead
+[Turn 43.93333333333333] [Damage event] PLANE_ATTACK: plane 54 damaged by 1 for 1 damage, now dead
+[Turn 44] [Damage event] PLANE_ATTACK: plane 33 damaged by 0 for 1 damage, now dead
+[Turn 44.06666666666667] [Damage event] PLANE_ATTACK: plane 34 damaged by 0 for 1 damage, now dead
+[Turn 44.4] [Damage event] PLANE_ATTACK: plane 13 damaged by 0 for 1 damage, now dead
+[Turn 44.666666666666664] [Damage event] PLANE_ATTACK: plane 43 damaged by 0 for 1 damage, now dead
+[Turn 49.666666666666664] [Damage event] BORDER: plane 0 damaged for 20 damage, now dead
+[Turn 49.93333333333333] [Damage event] BORDER: plane 1 damaged for 20 damage, now dead
+[Turn 57.46666666666667] [Damage event] PLANE_ATTACK: plane 77 damaged by 4 for 1 damage, now dead
+[Turn 57.46666666666667] [Damage event] PLANE_ATTACK: plane 77 damaged by 5 for 1 damage, now dead
+[Turn 57.6] [Damage event] PLANE_ATTACK: plane 87 damaged by 4 for 1 damage, now dead
+[Turn 58.06666666666667] [Damage event] PLANE_ATTACK: plane 88 damaged by 5 for 1 damage, now dead
+[Turn 58.2] [Damage event] PLANE_ATTACK: plane 67 damaged by 4 for 1 damage, now dead
+[Turn 58.86666666666667] [Damage event] PLANE_ATTACK: plane 78 damaged by 5 for 1 damage, now dead
+[Turn 58.86666666666667] [Damage event] PLANE_ATTACK: plane 97 damaged by 5 for 1 damage, now dead
+[Turn 58.93333333333333] [Damage event] PLANE_ATTACK: plane 57 damaged by 4 for 1 damage, now dead
+[Turn 58.93333333333333] [Damage event] PLANE_ATTACK: plane 68 damaged by 5 for 1 damage, now dead
+[Turn 59.333333333333336] [Damage event] PLANE_ATTACK: plane 58 damaged by 5 for 1 damage, now dead
+[Turn 64.86666666666666] [Damage event] BORDER: plane 4 damaged for 5 damage, now dead
+[Turn 65.46666666666667] [Damage event] BORDER: plane 5 damaged for 5 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+[Turn 0] [Validation Error] Player 0 attempted to spend over max spend 1000 (1100), locked plane choice to before over max spend
+

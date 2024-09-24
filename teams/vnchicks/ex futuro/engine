@@ -1,0 +1,25 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 18.133333333333333] [Damage event] PLANE_ATTACK: plane 17 damaged by 3 for 1 damage, still alive
+[Turn 18.133333333333333] [Damage event] PLANE_ATTACK: plane 17 damaged by 4 for 1 damage, still alive
+[Turn 18.133333333333333] [Damage event] PLANE_ATTACK: plane 3 damaged by 17 for 1 damage, still alive
+[Turn 18.133333333333333] [Damage event] PLANE_ATTACK: plane 4 damaged by 17 for 1 damage, still alive
+[Turn 18.333333333333332] [Damage event] PLANE_ATTACK: plane 18 damaged by 3 for 1 damage, still alive
+[Turn 18.333333333333332] [Damage event] PLANE_ATTACK: plane 3 damaged by 18 for 1 damage, still alive
+[Turn 18.4] [Damage event] PLANE_ATTACK: plane 18 damaged by 4 for 1 damage, still alive
+[Turn 18.4] [Damage event] PLANE_ATTACK: plane 4 damaged by 18 for 1 damage, still alive
+[Turn 18.933333333333334] [Damage event] COLLISION: plane 17 damaged by 4 for 8 damage, now dead
+[Turn 18.933333333333334] [Damage event] COLLISION: plane 4 damaged by 17 for 8 damage, now dead
+[Turn 19] [Damage event] PLANE_ATTACK: plane 3 damaged by 18 for 1 damage, still alive
+[Turn 19.333333333333332] [Damage event] COLLISION: plane 18 damaged by 3 for 8 damage, now dead
+[Turn 19.333333333333332] [Damage event] COLLISION: plane 3 damaged by 18 for 7 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

@@ -1,0 +1,200 @@
+{
+    "wins": [
+        0,
+        1
+    ],
+    "stats": {
+        "remainingPlaneScores": [
+            0,
+            1000
+        ],
+        "totalSpends": [
+            0,
+            1000
+        ],
+        "dealtDamages": [
+            0,
+            0
+        ]
+    },
+    "planeStats": {
+        "STANDARD": {
+            "cost": 200,
+            "maxHealth": 20,
+            "turnSpeed": 15,
+            "speed": 2,
+            "attack": 1,
+            "attackRange": 5,
+            "attackSpreadAngle": 30
+        },
+        "FLYING_FORTRESS": {
+            "cost": 300,
+            "maxHealth": 30,
+            "turnSpeed": 10,
+            "speed": 1,
+            "attack": 1,
+            "attackRange": 8,
+            "attackSpreadAngle": 30
+        },
+        "THUNDERBIRD": {
+            "cost": 200,
+            "maxHealth": 10,
+            "turnSpeed": 15,
+            "speed": 2.5,
+            "attack": 1,
+            "attackRange": 5,
+            "attackSpreadAngle": 30
+        },
+        "SCRAPYARD_RESCUE": {
+            "cost": 100,
+            "maxHealth": 5,
+            "turnSpeed": 10,
+            "speed": 1.5,
+            "attack": 1,
+            "attackRange": 4,
+            "attackSpreadAngle": 20
+        },
+        "PIGEON": {
+            "cost": 10,
+            "maxHealth": 1,
+            "turnSpeed": 30,
+            "speed": 0.5,
+            "attack": 0,
+            "attackRange": 0,
+            "attackSpreadAngle": 0
+        }
+    },
+    "damageEvents": [],
+    "validationEvents": [
+        {
+            "turn": 0,
+            "team": 0,
+            "message": "failed to provide a plane selection and lost"
+        },
+        {
+            "turn": 1,
+            "team": 1,
+            "message": "sent invalid steer 1.25 for plane 0, corrected to 1"
+        }
+    ],
+    "turns": [
+        {
+            "planes": {
+                "0": {
+                    "id": "0",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -6.25,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "1": {
+                    "id": "1",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -3.75,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "2": {
+                    "id": "2",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -1.25,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "3": {
+                    "id": "3",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 1.25,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "4": {
+                    "id": "4",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 3.75,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                }
+            }
+        },
+        {
+            "planes": {
+                "0": {
+                    "id": "0",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -6.575384390672001,
+                        "y": -42.52846017633658
+                    },
+                    "angle": 105,
+                    "health": 10
+                },
+                "1": {
+                    "id": "1",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -3.9946494083160453,
+                        "y": -42.51603287213949
+                    },
+                    "angle": 101.25,
+                    "health": 10
+                },
+                "2": {
+                    "id": "2",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -1.331783108027706,
+                        "y": -42.50178448544273
+                    },
+                    "angle": 93.75,
+                    "health": 10
+                },
+                "3": {
+                    "id": "3",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 1.3317831080277145,
+                        "y": -42.50178448544263
+                    },
+                    "angle": 86.25,
+                    "health": 10
+                },
+                "4": {
+                    "id": "4",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 3.994649408316047,
+                        "y": -42.51603287213947
+                    },
+                    "angle": 78.75,
+                    "health": 10
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,34 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 0 on 9001
+Connected to team 1 on 9002
+Game started!
+[Turn 37.733333333333334] [Damage event] PLANE_ATTACK: plane 6 damaged by 2 for 1 damage, still alive
+[Turn 37.8] [Damage event] PLANE_ATTACK: plane 7 damaged by 2 for 1 damage, still alive
+[Turn 38] [Damage event] PLANE_ATTACK: plane 6 damaged by 2 for 1 damage, still alive
+[Turn 39.93333333333333] [Damage event] PLANE_ATTACK: plane 6 damaged by 3 for 1 damage, still alive
+[Turn 40] [Damage event] PLANE_ATTACK: plane 6 damaged by 3 for 1 damage, still alive
+[Turn 43.333333333333336] [Damage event] PLANE_ATTACK: plane 6 damaged by 0 for 1 damage, still alive
+[Turn 43.53333333333333] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 44] [Damage event] PLANE_ATTACK: plane 6 damaged by 0 for 1 damage, still alive
+[Turn 65.8] [Damage event] BORDER: plane 5 damaged for 5 damage, now dead
+[Turn 125.66666666666667] [Damage event] PLANE_ATTACK: plane 6 damaged by 2 for 1 damage, still alive
+[Turn 126] [Damage event] PLANE_ATTACK: plane 6 damaged by 2 for 1 damage, still alive
+[Turn 126.06666666666666] [Damage event] PLANE_ATTACK: plane 7 damaged by 2 for 1 damage, still alive
+[Turn 130.46666666666667] [Damage event] BORDER: plane 2 damaged for 10 damage, now dead
+[Turn 132.26666666666668] [Damage event] BORDER: plane 3 damaged for 10 damage, now dead
+[Turn 487] [Damage event] PLANE_ATTACK: plane 4 damaged by 10 for 1 damage, still alive
+[Turn 488] [Damage event] PLANE_ATTACK: plane 4 damaged by 10 for 1 damage, still alive
+[Turn 499.6] [Damage event] PLANE_ATTACK: plane 4 damaged by 10 for 1 damage, still alive
+[Turn 500] [Damage event] PLANE_ATTACK: plane 4 damaged by 10 for 1 damage, still alive
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+[Turn 478] [Validation Error] Player 1 sent invalid steer 1.5433913958259695 for plane 9, corrected to 1
+[Turn 480] [Validation Error] Player 1 sent invalid steer 3.2781928894220527 for plane 6, corrected to 1
+[Turn 481] [Validation Error] Player 1 sent invalid steer 2.7401097957449414 for plane 9, corrected to 1
+[Turn 482] [Validation Error] Player 1 sent invalid steer 4.980360483922234 for plane 6, corrected to 1
+

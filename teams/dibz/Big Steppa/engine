@@ -1,0 +1,142 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 34.2] [Damage event] PLANE_ATTACK: plane 84 damaged by 3 for 1 damage, now dead
+[Turn 34.266666666666666] [Damage event] PLANE_ATTACK: plane 104 damaged by 3 for 1 damage, now dead
+[Turn 34.46666666666667] [Damage event] PLANE_ATTACK: plane 74 damaged by 3 for 1 damage, now dead
+[Turn 34.53333333333333] [Damage event] PLANE_ATTACK: plane 37 damaged by 2 for 1 damage, now dead
+[Turn 35] [Damage event] PLANE_ATTACK: plane 91 damaged by 3 for 1 damage, now dead
+[Turn 35.266666666666666] [Damage event] PLANE_ATTACK: plane 38 damaged by 2 for 1 damage, now dead
+[Turn 36.2] [Damage event] PLANE_ATTACK: plane 99 damaged by 3 for 1 damage, now dead
+[Turn 36.733333333333334] [Damage event] PLANE_ATTACK: plane 11 damaged by 2 for 1 damage, now dead
+[Turn 36.8] [Damage event] PLANE_ATTACK: plane 89 damaged by 3 for 1 damage, now dead
+[Turn 37.266666666666666] [Damage event] PLANE_ATTACK: plane 79 damaged by 3 for 1 damage, now dead
+[Turn 41.733333333333334] [Damage event] PLANE_ATTACK: plane 86 damaged by 2 for 1 damage, now dead
+[Turn 42.13333333333333] [Damage event] PLANE_ATTACK: plane 68 damaged by 3 for 1 damage, now dead
+[Turn 42.666666666666664] [Damage event] PLANE_ATTACK: plane 83 damaged by 3 for 1 damage, now dead
+[Turn 42.8] [Damage event] PLANE_ATTACK: plane 62 damaged by 4 for 1 damage, now dead
+[Turn 43.2] [Damage event] PLANE_ATTACK: plane 52 damaged by 3 for 1 damage, now dead
+[Turn 43.333333333333336] [Damage event] PLANE_ATTACK: plane 80 damaged by 4 for 1 damage, now dead
+[Turn 43.6] [Damage event] PLANE_ATTACK: plane 26 damaged by 1 for 1 damage, now dead
+[Turn 44.8] [Damage event] PLANE_ATTACK: plane 87 damaged by 4 for 1 damage, now dead
+[Turn 45] [Damage event] PLANE_ATTACK: plane 57 damaged by 4 for 1 damage, now dead
+[Turn 45.46666666666667] [Damage event] PLANE_ATTACK: plane 31 damaged by 1 for 1 damage, now dead
+[Turn 45.46666666666667] [Damage event] PLANE_ATTACK: plane 42 damaged by 1 for 1 damage, now dead
+[Turn 45.6] [Damage event] PLANE_ATTACK: plane 29 damaged by 3 for 1 damage, now dead
+[Turn 45.8] [Damage event] PLANE_ATTACK: plane 45 damaged by 0 for 1 damage, now dead
+[Turn 46.06666666666667] [Damage event] PLANE_ATTACK: plane 43 damaged by 1 for 1 damage, now dead
+[Turn 46.4] [Damage event] PLANE_ATTACK: plane 20 damaged by 1 for 1 damage, now dead
+[Turn 46.8] [Damage event] PLANE_ATTACK: plane 65 damaged by 1 for 1 damage, now dead
+[Turn 46.86666666666667] [Damage event] PLANE_ATTACK: plane 35 damaged by 0 for 1 damage, now dead
+[Turn 46.93333333333333] [Damage event] PLANE_ATTACK: plane 46 damaged by 0 for 1 damage, now dead
+[Turn 48.266666666666666] [Damage event] PLANE_ATTACK: plane 63 damaged by 2 for 1 damage, now dead
+[Turn 48.333333333333336] [Damage event] PLANE_ATTACK: plane 49 damaged by 2 for 1 damage, now dead
+[Turn 48.53333333333333] [Damage event] PLANE_ATTACK: plane 81 damaged by 2 for 1 damage, now dead
+[Turn 49] [Damage event] PLANE_ATTACK: plane 67 damaged by 1 for 1 damage, now dead
+[Turn 49.46666666666667] [Damage event] PLANE_ATTACK: plane 32 damaged by 2 for 1 damage, now dead
+[Turn 49.8] [Damage event] PLANE_ATTACK: plane 93 damaged by 2 for 1 damage, now dead
+[Turn 50] [Damage event] PLANE_ATTACK: plane 22 damaged by 2 for 1 damage, now dead
+[Turn 50.06666666666667] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, now dead
+[Turn 50.4] [Damage event] PLANE_ATTACK: plane 58 damaged by 3 for 1 damage, now dead
+[Turn 51.13333333333333] [Damage event] PLANE_ATTACK: plane 69 damaged by 4 for 1 damage, now dead
+[Turn 51.4] [Damage event] PLANE_ATTACK: plane 6 damaged by 1 for 1 damage, now dead
+[Turn 52.06666666666667] [Damage event] PLANE_ATTACK: plane 59 damaged by 1 for 1 damage, now dead
+[Turn 52.13333333333333] [Damage event] PLANE_ATTACK: plane 78 damaged by 2 for 1 damage, now dead
+[Turn 52.8] [Damage event] PLANE_ATTACK: plane 28 damaged by 1 for 1 damage, now dead
+[Turn 52.86666666666667] [Damage event] PLANE_ATTACK: plane 60 damaged by 1 for 1 damage, now dead
+[Turn 53.86666666666667] [Damage event] PLANE_ATTACK: plane 47 damaged by 0 for 1 damage, now dead
+[Turn 54.46666666666667] [Damage event] PLANE_ATTACK: plane 16 damaged by 0 for 1 damage, now dead
+[Turn 54.733333333333334] [Damage event] PLANE_ATTACK: plane 40 damaged by 1 for 1 damage, now dead
+[Turn 54.8] [Damage event] PLANE_ATTACK: plane 18 damaged by 1 for 1 damage, now dead
+[Turn 54.86666666666667] [Damage event] PLANE_ATTACK: plane 70 damaged by 1 for 1 damage, now dead
+[Turn 54.93333333333333] [Damage event] PLANE_ATTACK: plane 90 damaged by 1 for 1 damage, now dead
+[Turn 55.13333333333333] [Damage event] PLANE_ATTACK: plane 7 damaged by 3 for 1 damage, now dead
+[Turn 55.8] [Damage event] PLANE_ATTACK: plane 103 damaged by 1 for 1 damage, now dead
+[Turn 56] [Damage event] PLANE_ATTACK: plane 53 damaged by 1 for 1 damage, now dead
+[Turn 57.733333333333334] [Damage event] PLANE_ATTACK: plane 82 damaged by 1 for 1 damage, now dead
+[Turn 57.8] [Damage event] PLANE_ATTACK: plane 75 damaged by 0 for 1 damage, now dead
+[Turn 58.53333333333333] [Damage event] PLANE_ATTACK: plane 39 damaged by 3 for 1 damage, now dead
+[Turn 59.4] [Damage event] PLANE_ATTACK: plane 24 damaged by 0 for 1 damage, now dead
+[Turn 60.13333333333333] [Damage event] PLANE_ATTACK: plane 14 damaged by 1 for 1 damage, now dead
+[Turn 62.333333333333336] [Damage event] PLANE_ATTACK: plane 101 damaged by 1 for 1 damage, now dead
+[Turn 62.666666666666664] [Damage event] PLANE_ATTACK: plane 36 damaged by 3 for 1 damage, now dead
+[Turn 65] [Damage event] PLANE_ATTACK: plane 5 damaged by 0 for 1 damage, now dead
+[Turn 65.6] [Damage event] PLANE_ATTACK: plane 94 damaged by 2 for 1 damage, now dead
+[Turn 67.46666666666667] [Damage event] PLANE_ATTACK: plane 41 damaged by 0 for 1 damage, now dead
+[Turn 67.6] [Damage event] PLANE_ATTACK: plane 19 damaged by 0 for 1 damage, now dead
+[Turn 67.8] [Damage event] PLANE_ATTACK: plane 15 damaged by 3 for 1 damage, now dead
+[Turn 67.86666666666666] [Damage event] PLANE_ATTACK: plane 66 damaged by 0 for 1 damage, now dead
+[Turn 68.06666666666666] [Damage event] PLANE_ATTACK: plane 12 damaged by 0 for 1 damage, now dead
+[Turn 70.73333333333333] [Damage event] PLANE_ATTACK: plane 97 damaged by 4 for 1 damage, now dead
+[Turn 73.26666666666667] [Damage event] PLANE_ATTACK: plane 85 damaged by 4 for 1 damage, now dead
+[Turn 73.86666666666666] [Damage event] PLANE_ATTACK: plane 92 damaged by 2 for 1 damage, now dead
+[Turn 73.86666666666666] [Damage event] PLANE_ATTACK: plane 34 damaged by 4 for 1 damage, now dead
+[Turn 74.8] [Damage event] PLANE_ATTACK: plane 54 damaged by 4 for 1 damage, now dead
+[Turn 75.26666666666667] [Damage event] PLANE_ATTACK: plane 102 damaged by 2 for 1 damage, now dead
+[Turn 76] [Damage event] PLANE_ATTACK: plane 71 damaged by 2 for 1 damage, now dead
+[Turn 76] [Damage event] PLANE_ATTACK: plane 25 damaged by 3 for 1 damage, now dead
+[Turn 76.73333333333333] [Damage event] PLANE_ATTACK: plane 95 damaged by 3 for 1 damage, now dead
+[Turn 78.46666666666667] [Damage event] PLANE_ATTACK: plane 17 damaged by 3 for 1 damage, now dead
+[Turn 80.66666666666667] [Damage event] PLANE_ATTACK: plane 33 damaged by 3 for 1 damage, now dead
+[Turn 83.26666666666667] [Damage event] PLANE_ATTACK: plane 76 damaged by 0 for 1 damage, now dead
+[Turn 83.26666666666667] [Damage event] PLANE_ATTACK: plane 96 damaged by 2 for 1 damage, now dead
+[Turn 84.13333333333334] [Damage event] PLANE_ATTACK: plane 21 damaged by 1 for 1 damage, now dead
+[Turn 86.6] [Damage event] PLANE_ATTACK: plane 27 damaged by 1 for 1 damage, now dead
+[Turn 86.6] [Damage event] PLANE_ATTACK: plane 73 damaged by 3 for 1 damage, now dead
+[Turn 87] [Damage event] PLANE_ATTACK: plane 10 damaged by 3 for 1 damage, now dead
+[Turn 87.13333333333334] [Damage event] PLANE_ATTACK: plane 30 damaged by 3 for 1 damage, now dead
+[Turn 89.8] [Damage event] PLANE_ATTACK: plane 98 damaged by 3 for 1 damage, now dead
+[Turn 94.73333333333333] [Damage event] PLANE_ATTACK: plane 50 damaged by 4 for 1 damage, now dead
+[Turn 98.53333333333333] [Damage event] PLANE_ATTACK: plane 77 damaged by 1 for 1 damage, now dead
+[Turn 100.13333333333334] [Damage event] PLANE_ATTACK: plane 44 damaged by 1 for 1 damage, now dead
+[Turn 102] [Damage event] PLANE_ATTACK: plane 9 damaged by 3 for 1 damage, now dead
+[Turn 108.06666666666666] [Damage event] PLANE_ATTACK: plane 13 damaged by 2 for 1 damage, now dead
+[Turn 110.93333333333334] [Damage event] PLANE_ATTACK: plane 51 damaged by 2 for 1 damage, now dead
+[Turn 112] [Damage event] PLANE_ATTACK: plane 55 damaged by 2 for 1 damage, now dead
+[Turn 119.8] [Damage event] PLANE_ATTACK: plane 61 damaged by 4 for 1 damage, now dead
+[Turn 123.6] [Damage event] PLANE_ATTACK: plane 23 damaged by 0 for 1 damage, now dead
+[Turn 127] [Damage event] PLANE_ATTACK: plane 88 damaged by 3 for 1 damage, now dead
+[Turn 140.8] [Damage event] PLANE_ATTACK: plane 56 damaged by 4 for 1 damage, now dead
+[Turn 143.13333333333333] [Damage event] PLANE_ATTACK: plane 64 damaged by 0 for 1 damage, now dead
+[Turn 159.33333333333334] [Damage event] PLANE_ATTACK: plane 100 damaged by 0 for 1 damage, now dead
+[Turn 194.13333333333333] [Damage event] PLANE_ATTACK: plane 72 damaged by 1 for 1 damage, now dead
+[Turn 196.33333333333334] [Damage event] PLANE_ATTACK: plane 48 damaged by 0 for 1 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+[Turn 1] [Validation Error] Player 0 sent invalid steer -1.25 for plane 0, corrected to -1
+[Turn 2] [Validation Error] Player 0 sent invalid steer -1.3150768781343998 for plane 0, corrected to -1
+[Turn 3] [Validation Error] Player 0 sent invalid steer -1.5058726308373651 for plane 0, corrected to -1
+[Turn 4] [Validation Error] Player 0 sent invalid steer -1.8093848428670796 for plane 0, corrected to -1
+[Turn 4] [Validation Error] Player 0 sent invalid steer -1.1987483916892465 for plane 1, corrected to -1
+[Turn 4] [Validation Error] Player 0 sent invalid steer 1.1987483916892478 for plane 4, corrected to 1
+[Turn 5] [Validation Error] Player 0 sent invalid steer -2.2049296585513622 for plane 0, corrected to -1
+[Turn 5] [Validation Error] Player 0 sent invalid steer -1.5509045314217202 for plane 1, corrected to -1
+[Turn 5] [Validation Error] Player 0 sent invalid steer 1.5509045314217194 for plane 4, corrected to 1
+[Turn 6] [Validation Error] Player 0 sent invalid steer -2.6655513523700445 for plane 0, corrected to -1
+[Turn 6] [Validation Error] Player 0 sent invalid steer -1.9824069191561304 for plane 1, corrected to -1
+[Turn 6] [Validation Error] Player 0 sent invalid steer 1.9824069191561278 for plane 4, corrected to 1
+[Turn 7] [Validation Error] Player 0 sent invalid steer -3.159859317102723 for plane 0, corrected to -1
+[Turn 7] [Validation Error] Player 0 sent invalid steer -2.4638493802597896 for plane 1, corrected to -1
+[Turn 7] [Validation Error] Player 0 sent invalid steer 2.463849380259787 for plane 4, corrected to 1
+[Turn 8] [Validation Error] Player 0 sent invalid steer -3.654167281835403 for plane 0, corrected to -1
+[Turn 8] [Validation Error] Player 0 sent invalid steer -2.962422406629769 for plane 1, corrected to -1
+[Turn 8] [Validation Error] Player 0 sent invalid steer -1.3479764583840808 for plane 2, corrected to -1
+[Turn 8] [Validation Error] Player 0 sent invalid steer 1.3479764583840839 for plane 3, corrected to 1
+[Turn 8] [Validation Error] Player 0 sent invalid steer 2.96242240662977 for plane 4, corrected to 1
+[Turn 9] [Validation Error] Player 0 sent invalid steer -4.114788975654085 for plane 0, corrected to -1
+[Turn 9] [Validation Error] Player 0 sent invalid steer -3.4441490704498383 for plane 1, corrected to -1
+[Turn 9] [Validation Error] Player 0 sent invalid steer -1.7797600245552048 for plane 2, corrected to -1
+[Turn 9] [Validation Error] Player 0 sent invalid steer 1.7797600245552077 for plane 3, corrected to 1
+[Turn 9] [Validation Error] Player 0 sent invalid steer 3.444149070449845 for plane 4, corrected to 1
+[Turn 10] [Validation Error] Player 0 sent invalid steer -4.510333791338368 for plane 0, corrected to -1
+[Turn 10] [Validation Error] Player 0 sent invalid steer -3.8762004956716103 for plane 1, corrected to -1
+[Turn 10] [Validation Error] Player 0 sent invalid steer -2.2613481907273485 for plane 2, corrected to -1
+[Turn 10] [Validation Error] Player 0 sent invalid steer 2.261348190727351 for plane 3, corrected to 1
+[Turn 10] [Validation Error] Player 0 sent invalid steer 3.876200495671623 for plane 4, corrected to 1
+

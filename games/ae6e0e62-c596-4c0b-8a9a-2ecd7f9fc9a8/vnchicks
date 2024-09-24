@@ -1,0 +1,34 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9001...
+Connected to server on port 9001
+Your bot failed to respond 3 times in a row (is your bot broken?) and was disconnected
+
+---- ERRORS (stderr) ----
+Something went wrong running your bot: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+	at mech.mania.starterpack.strategy.Strategy.validateSteer(Strategy.java:113)
+	at mech.mania.starterpack.strategy.Strategy.thunderbirdStrategy(Strategy.java:105)
+	at mech.mania.starterpack.strategy.Strategy.getStrategy(Strategy.java:92)
+	at mech.mania.starterpack.strategy.Strategy.getSteerForPlane(Strategy.java:71)
+	at mech.mania.starterpack.strategy.Strategy.steerInput(Strategy.java:62)
+	at mech.mania.starterpack.Starterpack.serve(Starterpack.java:137)
+	at mech.mania.starterpack.Starterpack.main(Starterpack.java:215)
+Something went wrong running your bot: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+	at mech.mania.starterpack.strategy.Strategy.validateSteer(Strategy.java:113)
+	at mech.mania.starterpack.strategy.Strategy.thunderbirdStrategy(Strategy.java:105)
+	at mech.mania.starterpack.strategy.Strategy.getStrategy(Strategy.java:92)
+	at mech.mania.starterpack.strategy.Strategy.getSteerForPlane(Strategy.java:71)
+	at mech.mania.starterpack.strategy.Strategy.steerInput(Strategy.java:62)
+	at mech.mania.starterpack.Starterpack.serve(Starterpack.java:137)
+	at mech.mania.starterpack.Starterpack.main(Starterpack.java:215)
+Something went wrong running your bot: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+java.lang.NullPointerException: Cannot invoke "java.lang.Double.doubleValue()" because "steer" is null
+	at mech.mania.starterpack.strategy.Strategy.validateSteer(Strategy.java:113)
+	at mech.mania.starterpack.strategy.Strategy.thunderbirdStrategy(Strategy.java:105)
+	at mech.mania.starterpack.strategy.Strategy.getStrategy(Strategy.java:92)
+	at mech.mania.starterpack.strategy.Strategy.getSteerForPlane(Strategy.java:71)
+	at mech.mania.starterpack.strategy.Strategy.steerInput(Strategy.java:62)
+	at mech.mania.starterpack.Starterpack.serve(Starterpack.java:137)
+	at mech.mania.starterpack.Starterpack.main(Starterpack.java:215)
+

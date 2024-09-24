@@ -1,0 +1,14 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Game started!
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+Failed to connect to team 0 on 9001
+[Turn 0] [Validation Error] Player 0 failed to provide a plane selection and lost
+[Turn 0] [Validation Error] Player 1 attempted to spend over max spend 1000 (1100), locked plane choice to before over max spend
+

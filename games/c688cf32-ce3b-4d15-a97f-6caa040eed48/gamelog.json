@@ -1,0 +1,222 @@
+{
+    "wins": [
+        0,
+        1
+    ],
+    "stats": {
+        "remainingPlaneScores": [
+            0,
+            1000
+        ],
+        "totalSpends": [
+            0,
+            1000
+        ],
+        "dealtDamages": [
+            0,
+            0
+        ]
+    },
+    "planeStats": {
+        "STANDARD": {
+            "cost": 200,
+            "maxHealth": 20,
+            "turnSpeed": 15,
+            "speed": 2,
+            "attack": 1,
+            "attackRange": 5,
+            "attackSpreadAngle": 30
+        },
+        "FLYING_FORTRESS": {
+            "cost": 300,
+            "maxHealth": 30,
+            "turnSpeed": 10,
+            "speed": 1,
+            "attack": 1,
+            "attackRange": 8,
+            "attackSpreadAngle": 30
+        },
+        "THUNDERBIRD": {
+            "cost": 200,
+            "maxHealth": 10,
+            "turnSpeed": 15,
+            "speed": 2.5,
+            "attack": 1,
+            "attackRange": 5,
+            "attackSpreadAngle": 30
+        },
+        "SCRAPYARD_RESCUE": {
+            "cost": 100,
+            "maxHealth": 5,
+            "turnSpeed": 10,
+            "speed": 1.5,
+            "attack": 1,
+            "attackRange": 4,
+            "attackSpreadAngle": 20
+        },
+        "PIGEON": {
+            "cost": 10,
+            "maxHealth": 1,
+            "turnSpeed": 30,
+            "speed": 0.5,
+            "attack": 0,
+            "attackRange": 0,
+            "attackSpreadAngle": 0
+        }
+    },
+    "damageEvents": [],
+    "validationEvents": [
+        {
+            "turn": 0,
+            "team": 0,
+            "message": "failed to provide a plane selection and lost"
+        },
+        {
+            "turn": 0,
+            "team": 1,
+            "message": "attempted to spend over max spend 1000 (1100), locked plane choice to before over max spend"
+        }
+    ],
+    "turns": [
+        {
+            "planes": {
+                "0": {
+                    "id": "0",
+                    "team": 1,
+                    "type": "STANDARD",
+                    "position": {
+                        "x": -7.5,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 20
+                },
+                "1": {
+                    "id": "1",
+                    "team": 1,
+                    "type": "STANDARD",
+                    "position": {
+                        "x": -5,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 20
+                },
+                "2": {
+                    "id": "2",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -2.5,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "3": {
+                    "id": "3",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 0,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "4": {
+                    "id": "4",
+                    "team": 1,
+                    "type": "SCRAPYARD_RESCUE",
+                    "position": {
+                        "x": 2.5,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 5
+                },
+                "5": {
+                    "id": "5",
+                    "team": 1,
+                    "type": "SCRAPYARD_RESCUE",
+                    "position": {
+                        "x": 5,
+                        "y": -45
+                    },
+                    "angle": 90,
+                    "health": 5
+                }
+            }
+        },
+        {
+            "planes": {
+                "0": {
+                    "id": "0",
+                    "team": 1,
+                    "type": "STANDARD",
+                    "position": {
+                        "x": -7.5,
+                        "y": -43.00000000000001
+                    },
+                    "angle": 90,
+                    "health": 20
+                },
+                "1": {
+                    "id": "1",
+                    "team": 1,
+                    "type": "STANDARD",
+                    "position": {
+                        "x": -5,
+                        "y": -43.00000000000001
+                    },
+                    "angle": 90,
+                    "health": 20
+                },
+                "2": {
+                    "id": "2",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": -2.5,
+                        "y": -42.500000000000036
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "3": {
+                    "id": "3",
+                    "team": 1,
+                    "type": "THUNDERBIRD",
+                    "position": {
+                        "x": 1.5308084989341918e-16,
+                        "y": -42.500000000000036
+                    },
+                    "angle": 90,
+                    "health": 10
+                },
+                "4": {
+                    "id": "4",
+                    "team": 1,
+                    "type": "SCRAPYARD_RESCUE",
+                    "position": {
+                        "x": 2.5,
+                        "y": -43.49999999999998
+                    },
+                    "angle": 90,
+                    "health": 5
+                },
+                "5": {
+                    "id": "5",
+                    "team": 1,
+                    "type": "SCRAPYARD_RESCUE",
+                    "position": {
+                        "x": 5,
+                        "y": -43.49999999999998
+                    },
+                    "angle": 90,
+                    "health": 5
+                }
+            }
+        }
+    ]
+}

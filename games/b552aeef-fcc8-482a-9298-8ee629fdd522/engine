@@ -1,0 +1,80 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 57.13333333333333] [Damage event] PLANE_ATTACK: plane 49 damaged by 103 for 1 damage, now dead
+[Turn 57.13333333333333] [Damage event] PLANE_ATTACK: plane 63 damaged by 108 for 1 damage, now dead
+[Turn 57.333333333333336] [Damage event] PLANE_ATTACK: plane 35 damaged by 101 for 1 damage, now dead
+[Turn 58.2] [Damage event] PLANE_ATTACK: plane 91 damaged by 106 for 1 damage, now dead
+[Turn 58.6] [Damage event] PLANE_ATTACK: plane 83 damaged by 108 for 1 damage, now dead
+[Turn 59.4] [Damage event] PLANE_ATTACK: plane 70 damaged by 105 for 1 damage, now dead
+[Turn 60.13333333333333] [Damage event] PLANE_ATTACK: plane 19 damaged by 103 for 1 damage, now dead
+[Turn 60.333333333333336] [Damage event] COLLISION: plane 103 damaged by 90 for 5 damage, now dead
+[Turn 60.333333333333336] [Damage event] COLLISION: plane 90 damaged by 103 for 1 damage, now dead
+[Turn 60.46666666666667] [Damage event] PLANE_ATTACK: plane 5 damaged by 101 for 1 damage, now dead
+[Turn 61.266666666666666] [Damage event] PLANE_ATTACK: plane 61 damaged by 106 for 1 damage, now dead
+[Turn 61.8] [Damage event] PLANE_ATTACK: plane 53 damaged by 108 for 1 damage, now dead
+[Turn 62.06666666666667] [Damage event] PLANE_ATTACK: plane 25 damaged by 101 for 1 damage, now dead
+[Turn 62.4] [Damage event] COLLISION: plane 101 damaged by 26 for 5 damage, now dead
+[Turn 62.4] [Damage event] COLLISION: plane 26 damaged by 101 for 1 damage, now dead
+[Turn 62.93333333333333] [Damage event] PLANE_ATTACK: plane 81 damaged by 106 for 1 damage, now dead
+[Turn 63.53333333333333] [Damage event] PLANE_ATTACK: plane 73 damaged by 108 for 1 damage, now dead
+[Turn 64.73333333333333] [Damage event] PLANE_ATTACK: plane 60 damaged by 107 for 1 damage, now dead
+[Turn 65.2] [Damage event] PLANE_ATTACK: plane 93 damaged by 108 for 1 damage, now dead
+[Turn 66.33333333333333] [Damage event] PLANE_ATTACK: plane 51 damaged by 106 for 1 damage, now dead
+[Turn 66.46666666666667] [Damage event] PLANE_ATTACK: plane 80 damaged by 107 for 1 damage, now dead
+[Turn 68.2] [Damage event] PLANE_ATTACK: plane 71 damaged by 106 for 1 damage, now dead
+[Turn 69.2] [Damage event] PLANE_ATTACK: plane 65 damaged by 108 for 1 damage, now dead
+[Turn 70.73333333333333] [Damage event] PLANE_ATTACK: plane 87 damaged by 108 for 1 damage, now dead
+[Turn 71.2] [Damage event] PLANE_ATTACK: plane 58 damaged by 108 for 1 damage, now dead
+[Turn 71.2] [Damage event] PLANE_ATTACK: plane 59 damaged by 108 for 1 damage, now dead
+[Turn 71.33333333333333] [Damage event] PLANE_ATTACK: plane 29 damaged by 107 for 1 damage, now dead
+[Turn 71.46666666666667] [Damage event] PLANE_ATTACK: plane 86 damaged by 108 for 1 damage, now dead
+[Turn 72.33333333333333] [Damage event] PLANE_ATTACK: plane 50 damaged by 109 for 1 damage, now dead
+[Turn 74.8] [Damage event] BORDER: plane 108 damaged for 5 damage, now dead
+[Turn 75.73333333333333] [Damage event] PLANE_ATTACK: plane 92 damaged by 100 for 1 damage, now dead
+[Turn 76.46666666666667] [Damage event] BORDER: plane 106 damaged for 5 damage, now dead
+[Turn 78.06666666666666] [Damage event] COLLISION: plane 107 damaged by 8 for 5 damage, now dead
+[Turn 78.06666666666666] [Damage event] COLLISION: plane 8 damaged by 107 for 1 damage, now dead
+[Turn 80] [Damage event] PLANE_ATTACK: plane 78 damaged by 102 for 1 damage, now dead
+[Turn 81.13333333333334] [Damage event] PLANE_ATTACK: plane 85 damaged by 104 for 1 damage, now dead
+[Turn 81.33333333333333] [Damage event] PLANE_ATTACK: plane 15 damaged by 109 for 1 damage, now dead
+[Turn 81.53333333333333] [Damage event] PLANE_ATTACK: plane 79 damaged by 102 for 1 damage, now dead
+[Turn 81.53333333333333] [Damage event] PLANE_ATTACK: plane 57 damaged by 104 for 1 damage, now dead
+[Turn 81.66666666666667] [Damage event] PLANE_ATTACK: plane 22 damaged by 109 for 1 damage, now dead
+[Turn 81.8] [Damage event] PLANE_ATTACK: plane 30 damaged by 109 for 1 damage, now dead
+[Turn 82] [Damage event] PLANE_ATTACK: plane 99 damaged by 104 for 1 damage, now dead
+[Turn 82.2] [Damage event] PLANE_ATTACK: plane 64 damaged by 104 for 1 damage, now dead
+[Turn 82.2] [Damage event] PLANE_ATTACK: plane 23 damaged by 109 for 1 damage, now dead
+[Turn 82.46666666666667] [Damage event] PLANE_ATTACK: plane 94 damaged by 100 for 1 damage, now dead
+[Turn 82.66666666666667] [Damage event] PLANE_ATTACK: plane 66 damaged by 100 for 1 damage, now dead
+[Turn 82.93333333333334] [Damage event] PLANE_ATTACK: plane 2 damaged by 109 for 1 damage, now dead
+[Turn 83.06666666666666] [Damage event] PLANE_ATTACK: plane 16 damaged by 109 for 1 damage, now dead
+[Turn 83.13333333333334] [Damage event] PLANE_ATTACK: plane 31 damaged by 109 for 1 damage, now dead
+[Turn 83.26666666666667] [Damage event] PLANE_ATTACK: plane 44 damaged by 109 for 1 damage, now dead
+[Turn 84.4] [Damage event] PLANE_ATTACK: plane 89 damaged by 102 for 1 damage, now dead
+[Turn 84.46666666666667] [Damage event] PLANE_ATTACK: plane 1 damaged by 105 for 1 damage, now dead
+[Turn 84.66666666666667] [Damage event] PLANE_ATTACK: plane 36 damaged by 105 for 1 damage, now dead
+[Turn 84.8] [Damage event] PLANE_ATTACK: plane 24 damaged by 109 for 1 damage, now dead
+[Turn 84.86666666666666] [Damage event] PLANE_ATTACK: plane 37 damaged by 109 for 1 damage, now dead
+[Turn 85.06666666666666] [Damage event] PLANE_ATTACK: plane 74 damaged by 102 for 1 damage, now dead
+[Turn 85.4] [Damage event] PLANE_ATTACK: plane 69 damaged by 100 for 1 damage, now dead
+[Turn 85.53333333333333] [Damage event] BORDER: plane 104 damaged for 5 damage, now dead
+[Turn 85.53333333333333] [Damage event] COLLISION: plane 100 damaged by 88 for 5 damage, now dead
+[Turn 85.53333333333333] [Damage event] COLLISION: plane 88 damaged by 100 for 1 damage, now dead
+[Turn 86.13333333333334] [Damage event] COLLISION: plane 109 damaged by 10 for 5 damage, now dead
+[Turn 86.13333333333334] [Damage event] COLLISION: plane 10 damaged by 109 for 1 damage, now dead
+[Turn 86.73333333333333] [Damage event] PLANE_ATTACK: plane 96 damaged by 102 for 1 damage, now dead
+[Turn 87.33333333333333] [Damage event] PLANE_ATTACK: plane 54 damaged by 102 for 1 damage, now dead
+[Turn 87.86666666666666] [Damage event] COLLISION: plane 105 damaged by 43 for 5 damage, now dead
+[Turn 87.86666666666666] [Damage event] COLLISION: plane 43 damaged by 105 for 1 damage, now dead
+[Turn 88] [Damage event] COLLISION: plane 102 damaged by 68 for 5 damage, now dead
+[Turn 88] [Damage event] COLLISION: plane 68 damaged by 102 for 1 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

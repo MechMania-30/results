@@ -1,0 +1,54 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 18] [Damage event] PLANE_ATTACK: plane 10 damaged by 4 for 1 damage, still alive
+[Turn 18] [Damage event] PLANE_ATTACK: plane 4 damaged by 10 for 1 damage, still alive
+[Turn 18.066666666666666] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 18.066666666666666] [Damage event] PLANE_ATTACK: plane 10 damaged by 5 for 1 damage, still alive
+[Turn 18.066666666666666] [Damage event] PLANE_ATTACK: plane 4 damaged by 9 for 1 damage, still alive
+[Turn 18.066666666666666] [Damage event] PLANE_ATTACK: plane 5 damaged by 10 for 1 damage, still alive
+[Turn 18.2] [Damage event] PLANE_ATTACK: plane 9 damaged by 5 for 1 damage, still alive
+[Turn 18.2] [Damage event] PLANE_ATTACK: plane 5 damaged by 9 for 1 damage, still alive
+[Turn 18.8] [Damage event] COLLISION: plane 10 damaged by 4 for 8 damage, now dead
+[Turn 18.8] [Damage event] COLLISION: plane 4 damaged by 10 for 8 damage, now dead
+[Turn 20.2] [Damage event] PLANE_ATTACK: plane 8 damaged by 5 for 1 damage, still alive
+[Turn 20.2] [Damage event] PLANE_ATTACK: plane 9 damaged by 6 for 1 damage, still alive
+[Turn 20.2] [Damage event] PLANE_ATTACK: plane 5 damaged by 8 for 1 damage, still alive
+[Turn 20.2] [Damage event] PLANE_ATTACK: plane 6 damaged by 9 for 1 damage, still alive
+[Turn 20.466666666666665] [Damage event] PLANE_ATTACK: plane 7 damaged by 5 for 1 damage, still alive
+[Turn 20.466666666666665] [Damage event] PLANE_ATTACK: plane 5 damaged by 7 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 7 damaged by 5 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 8 damaged by 5 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 9 damaged by 6 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 5 damaged by 7 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 5 damaged by 8 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 6 damaged by 9 for 1 damage, still alive
+[Turn 21.066666666666666] [Damage event] COLLISION: plane 8 damaged by 5 for 18 damage, now dead
+[Turn 21.066666666666666] [Damage event] COLLISION: plane 9 damaged by 6 for 6 damage, now dead
+[Turn 21.066666666666666] [Damage event] COLLISION: plane 5 damaged by 8 for 4 damage, now dead
+[Turn 21.066666666666666] [Damage event] COLLISION: plane 6 damaged by 9 for 18 damage, now dead
+[Turn 29.866666666666667] [Damage event] PLANE_ATTACK: plane 3 damaged by 11 for 1 damage, still alive
+[Turn 30] [Damage event] PLANE_ATTACK: plane 3 damaged by 11 for 1 damage, still alive
+[Turn 57.8] [Damage event] PLANE_ATTACK: plane 0 damaged by 7 for 1 damage, still alive
+[Turn 58] [Damage event] PLANE_ATTACK: plane 0 damaged by 7 for 1 damage, still alive
+[Turn 58.666666666666664] [Damage event] PLANE_ATTACK: plane 1 damaged by 7 for 1 damage, still alive
+[Turn 59] [Damage event] PLANE_ATTACK: plane 0 damaged by 7 for 1 damage, still alive
+[Turn 59] [Damage event] PLANE_ATTACK: plane 1 damaged by 7 for 1 damage, still alive
+[Turn 60] [Damage event] PLANE_ATTACK: plane 0 damaged by 7 for 1 damage, still alive
+[Turn 60] [Damage event] PLANE_ATTACK: plane 1 damaged by 7 for 1 damage, still alive
+[Turn 61] [Damage event] PLANE_ATTACK: plane 0 damaged by 7 for 1 damage, now dead
+[Turn 61.2] [Damage event] PLANE_ATTACK: plane 1 damaged by 7 for 1 damage, still alive
+[Turn 62] [Damage event] PLANE_ATTACK: plane 1 damaged by 7 for 1 damage, now dead
+[Turn 63.4] [Damage event] COLLISION: plane 7 damaged by 2 for 18 damage, now dead
+[Turn 63.4] [Damage event] COLLISION: plane 2 damaged by 7 for 5 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 3 damaged for 3 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+[Turn 0] [Validation Error] Player 1 attempted to spend over max spend 1000 (1100), locked plane choice to before over max spend
+
