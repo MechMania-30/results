@@ -1,0 +1,33 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 18.4] [Damage event] PLANE_ATTACK: plane 10 damaged by 3 for 1 damage, still alive
+[Turn 18.4] [Damage event] PLANE_ATTACK: plane 3 damaged by 10 for 1 damage, still alive
+[Turn 19] [Damage event] PLANE_ATTACK: plane 10 damaged by 2 for 1 damage, still alive
+[Turn 20] [Damage event] COLLISION: plane 10 damaged by 2 for 8 damage, now dead
+[Turn 20] [Damage event] COLLISION: plane 2 damaged by 10 for 10 damage, now dead
+[Turn 24.866666666666667] [Damage event] PLANE_ATTACK: plane 0 damaged by 9 for 1 damage, still alive
+[Turn 25] [Damage event] PLANE_ATTACK: plane 0 damaged by 9 for 1 damage, still alive
+[Turn 25.333333333333332] [Damage event] PLANE_ATTACK: plane 1 damaged by 9 for 1 damage, still alive
+[Turn 57.333333333333336] [Damage event] PLANE_ATTACK: plane 9 damaged by 0 for 1 damage, still alive
+[Turn 57.333333333333336] [Damage event] PLANE_ATTACK: plane 0 damaged by 9 for 1 damage, still alive
+[Turn 58] [Damage event] PLANE_ATTACK: plane 9 damaged by 0 for 1 damage, still alive
+[Turn 58] [Damage event] PLANE_ATTACK: plane 0 damaged by 9 for 1 damage, still alive
+[Turn 58.266666666666666] [Damage event] COLLISION: plane 9 damaged by 0 for 8 damage, now dead
+[Turn 58.266666666666666] [Damage event] COLLISION: plane 0 damaged by 9 for 16 damage, now dead
+[Turn 91.26666666666667] [Damage event] BORDER: plane 4 damaged for 5 damage, now dead
+[Turn 170.2] [Damage event] PLANE_ATTACK: plane 7 damaged by 3 for 1 damage, still alive
+[Turn 170.6] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, still alive
+[Turn 171] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, still alive
+[Turn 224.53333333333333] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, still alive
+[Turn 225] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, still alive
+[Turn 267.26666666666665] [Damage event] BORDER: plane 3 damaged for 9 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

@@ -1,0 +1,20 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9001...
+Connected to server on port 9001
+You won!
+Stats:
+  - 1000 remaining plane score
+  - Spent 1000 points
+  - Dealt 0 damage
+
+---- ERRORS (stderr) ----
+Something went wrong running your bot: '-1'
+Traceback (most recent call last):
+  File "/tmp/game#8#251d5f8a-c670-4a9f-b8ea-ebedf46ee4db-8YS1E8/team#Nullifier.pyz/main.py", line 219, in serve
+    response = strategy.steer_input(planes)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#8#251d5f8a-c670-4a9f-b8ea-ebedf46ee4db-8YS1E8/team#Nullifier.pyz/strategy/strategy.py", line 62, in steer_input
+    enemy_plane = self.enemy_planes[self.find_closest_enemy_id(plane, self.enemy_planes)]
+                  ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyError: '-1'
+

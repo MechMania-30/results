@@ -1,0 +1,19 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 0 on 9001
+Connected to team 1 on 9002
+Game started!
+[Turn 43.46666666666667] [Damage event] BORDER: plane 10 damaged for 10 damage, now dead
+[Turn 43.666666666666664] [Damage event] BORDER: plane 9 damaged for 10 damage, now dead
+[Turn 52.93333333333333] [Damage event] BORDER: plane 11 damaged for 20 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 5 damaged for 5 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 6 damaged for 5 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 7 damaged for 5 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 8 damaged for 5 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

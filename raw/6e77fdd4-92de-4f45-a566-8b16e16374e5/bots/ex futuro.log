@@ -1,0 +1,11 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9002...
+Connected to server on port 9002
+You won!
+Stats:
+  - 790 remaining plane score
+  - Spent 990 points
+  - Dealt 102 damage
+
+---- ERRORS (stderr) ----
+

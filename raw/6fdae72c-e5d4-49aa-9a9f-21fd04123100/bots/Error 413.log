@@ -1,0 +1,23 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9001...
+Connected to server on port 9001
+You won!
+Stats:
+  - 1000 remaining plane score
+  - Spent 1000 points
+  - Dealt 0 damage
+
+---- ERRORS (stderr) ----
+Something went wrong running your bot: 'NoneType' object has no attribute 'position'
+Traceback (most recent call last):
+  File "/tmp/game#5#6fdae72c-e5d4-49aa-9a9f-21fd04123100-7pDyH9/team#Error 413.pyz/main.py", line 245, in serve
+    response = strategy.steer_input(planes)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#5#6fdae72c-e5d4-49aa-9a9f-21fd04123100-7pDyH9/team#Error 413.pyz/strategy/strategy.py", line 190, in steer_input
+    enemy_next_pos = get_next_pos(closest)
+                     ^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#5#6fdae72c-e5d4-49aa-9a9f-21fd04123100-7pDyH9/team#Error 413.pyz/strategy/strategy.py", line 50, in get_next_pos
+    plane_position = plane.position
+                     ^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'position'
+

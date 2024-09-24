@@ -1,0 +1,49 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 0 on 9001
+Connected to team 1 on 9002
+Game started!
+[Turn 18.333333333333332] [Damage event] PLANE_ATTACK: plane 3 damaged by 10 for 1 damage, still alive
+[Turn 18.466666666666665] [Damage event] PLANE_ATTACK: plane 11 damaged by 3 for 1 damage, still alive
+[Turn 18.466666666666665] [Damage event] PLANE_ATTACK: plane 3 damaged by 11 for 1 damage, still alive
+[Turn 19] [Damage event] PLANE_ATTACK: plane 11 damaged by 3 for 1 damage, still alive
+[Turn 19] [Damage event] PLANE_ATTACK: plane 3 damaged by 11 for 1 damage, still alive
+[Turn 19.266666666666666] [Damage event] COLLISION: plane 11 damaged by 3 for 8 damage, now dead
+[Turn 19.266666666666666] [Damage event] COLLISION: plane 3 damaged by 11 for 7 damage, now dead
+[Turn 20.4] [Damage event] PLANE_ATTACK: plane 12 damaged by 2 for 1 damage, still alive
+[Turn 20.4] [Damage event] PLANE_ATTACK: plane 2 damaged by 12 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 12 damaged by 2 for 1 damage, still alive
+[Turn 21] [Damage event] PLANE_ATTACK: plane 2 damaged by 12 for 1 damage, still alive
+[Turn 21.466666666666665] [Damage event] COLLISION: plane 12 damaged by 2 for 18 damage, now dead
+[Turn 21.466666666666665] [Damage event] COLLISION: plane 2 damaged by 12 for 8 damage, now dead
+[Turn 23.8] [Damage event] PLANE_ATTACK: plane 10 damaged by 0 for 1 damage, still alive
+[Turn 23.8] [Damage event] PLANE_ATTACK: plane 0 damaged by 10 for 1 damage, still alive
+[Turn 24] [Damage event] PLANE_ATTACK: plane 10 damaged by 0 for 1 damage, still alive
+[Turn 24] [Damage event] PLANE_ATTACK: plane 0 damaged by 10 for 1 damage, still alive
+[Turn 24.2] [Damage event] PLANE_ATTACK: plane 10 damaged by 1 for 1 damage, still alive
+[Turn 24.666666666666668] [Damage event] COLLISION: plane 10 damaged by 0 for 7 damage, now dead
+[Turn 24.666666666666668] [Damage event] COLLISION: plane 0 damaged by 10 for 18 damage, now dead
+[Turn 30.533333333333335] [Damage event] PLANE_ATTACK: plane 9 damaged by 1 for 1 damage, still alive
+[Turn 30.866666666666667] [Damage event] PLANE_ATTACK: plane 1 damaged by 9 for 1 damage, still alive
+[Turn 31] [Damage event] PLANE_ATTACK: plane 8 damaged by 1 for 1 damage, still alive
+[Turn 31] [Damage event] PLANE_ATTACK: plane 9 damaged by 1 for 1 damage, still alive
+[Turn 31] [Damage event] PLANE_ATTACK: plane 1 damaged by 9 for 1 damage, still alive
+[Turn 31.266666666666666] [Damage event] PLANE_ATTACK: plane 8 damaged by 5 for 1 damage, still alive
+[Turn 31.266666666666666] [Damage event] PLANE_ATTACK: plane 5 damaged by 8 for 1 damage, still alive
+[Turn 31.333333333333332] [Damage event] PLANE_ATTACK: plane 7 damaged by 4 for 1 damage, still alive
+[Turn 31.333333333333332] [Damage event] PLANE_ATTACK: plane 4 damaged by 7 for 1 damage, still alive
+[Turn 31.4] [Damage event] PLANE_ATTACK: plane 8 damaged by 4 for 1 damage, still alive
+[Turn 31.733333333333334] [Damage event] COLLISION: plane 9 damaged by 1 for 3 damage, now dead
+[Turn 31.733333333333334] [Damage event] COLLISION: plane 1 damaged by 9 for 18 damage, now dead
+[Turn 32] [Damage event] PLANE_ATTACK: plane 5 damaged by 8 for 1 damage, still alive
+[Turn 32.266666666666666] [Damage event] COLLISION: plane 8 damaged by 5 for 2 damage, now dead
+[Turn 32.266666666666666] [Damage event] COLLISION: plane 5 damaged by 8 for 3 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 6 damaged for 5 damage, now dead
+[Turn 135.2] [Damage event] BORDER: plane 7 damaged for 4 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

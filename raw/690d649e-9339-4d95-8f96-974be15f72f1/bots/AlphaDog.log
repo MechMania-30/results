@@ -1,0 +1,23 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9001...
+Connected to server on port 9001
+You won!
+Stats:
+  - 1000 remaining plane score
+  - Spent 1000 points
+  - Dealt 0 damage
+
+---- ERRORS (stderr) ----
+Something went wrong running your bot: 'NoneType' object has no attribute 'angle'
+Traceback (most recent call last):
+  File "/tmp/game#1#690d649e-9339-4d95-8f96-974be15f72f1-TZScGi/team#AlphaDog.pyz/main.py", line 250, in serve
+    response = strategy.steer_input(planes)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#1#690d649e-9339-4d95-8f96-974be15f72f1-TZScGi/team#AlphaDog.pyz/strategy/strategy.py", line 81, in steer_input
+    self.my_steers[id] = self.fly_to_enemy_back(plane, closest_enemy)
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/tmp/game#1#690d649e-9339-4d95-8f96-974be15f72f1-TZScGi/team#AlphaDog.pyz/strategy/strategy.py", line 50, in fly_to_enemy_back
+    enemey_dir_vec = Vector(math.cos(math.radians(enemy.angle)), math.sin(math.radians(enemy.angle)))
+                                                  ^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'angle'
+

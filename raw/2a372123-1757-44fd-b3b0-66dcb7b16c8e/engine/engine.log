@@ -1,0 +1,33 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 0 on 9001
+Connected to team 1 on 9002
+Game started!
+[Turn 18.933333333333334] [Damage event] PLANE_ATTACK: plane 6 damaged by 4 for 1 damage, still alive
+[Turn 18.933333333333334] [Damage event] PLANE_ATTACK: plane 4 damaged by 6 for 1 damage, still alive
+[Turn 19] [Damage event] PLANE_ATTACK: plane 6 damaged by 4 for 1 damage, still alive
+[Turn 19] [Damage event] PLANE_ATTACK: plane 4 damaged by 6 for 1 damage, still alive
+[Turn 19.2] [Damage event] PLANE_ATTACK: plane 8 damaged by 3 for 1 damage, still alive
+[Turn 19.2] [Damage event] PLANE_ATTACK: plane 3 damaged by 8 for 1 damage, still alive
+[Turn 20] [Damage event] COLLISION: plane 8 damaged by 3 for 9 damage, now dead
+[Turn 20] [Damage event] COLLISION: plane 3 damaged by 8 for 9 damage, now dead
+[Turn 31.733333333333334] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 32] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 36.93333333333333] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 37] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 38] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 39] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 40] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 41] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 47.6] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, still alive
+[Turn 48] [Damage event] PLANE_ATTACK: plane 9 damaged by 4 for 1 damage, now dead
+[Turn 50.733333333333334] [Damage event] PLANE_ATTACK: plane 4 damaged by 5 for 1 damage, still alive
+[Turn 51] [Damage event] PLANE_ATTACK: plane 4 damaged by 5 for 1 damage, still alive
+[Turn 52] [Damage event] PLANE_ATTACK: plane 4 damaged by 5 for 1 damage, still alive
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

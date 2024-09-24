@@ -1,0 +1,62 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 28.066666666666666] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 28.733333333333334] [Damage event] PLANE_ATTACK: plane 7 damaged by 1 for 1 damage, still alive
+[Turn 31.333333333333332] [Damage event] PLANE_ATTACK: plane 5 damaged by 1 for 1 damage, still alive
+[Turn 32] [Damage event] PLANE_ATTACK: plane 5 damaged by 1 for 1 damage, still alive
+[Turn 59] [Damage event] PLANE_ATTACK: plane 8 damaged by 1 for 1 damage, now dead
+[Turn 59.86666666666667] [Damage event] PLANE_ATTACK: plane 9 damaged by 1 for 1 damage, now dead
+[Turn 80.66666666666667] [Damage event] PLANE_ATTACK: plane 7 damaged by 1 for 1 damage, still alive
+[Turn 80.93333333333334] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 81] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 81] [Damage event] PLANE_ATTACK: plane 7 damaged by 1 for 1 damage, still alive
+[Turn 81.8] [Damage event] PLANE_ATTACK: plane 6 damaged by 1 for 1 damage, still alive
+[Turn 82] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 82] [Damage event] PLANE_ATTACK: plane 6 damaged by 1 for 1 damage, still alive
+[Turn 82] [Damage event] PLANE_ATTACK: plane 7 damaged by 1 for 1 damage, still alive
+[Turn 82.13333333333334] [Damage event] PLANE_ATTACK: plane 6 damaged by 0 for 1 damage, still alive
+[Turn 83] [Damage event] PLANE_ATTACK: plane 7 damaged by 0 for 1 damage, still alive
+[Turn 83] [Damage event] PLANE_ATTACK: plane 7 damaged by 1 for 1 damage, still alive
+[Turn 83.33333333333333] [Damage event] COLLISION: plane 7 damaged by 1 for 20 damage, now dead
+[Turn 83.33333333333333] [Damage event] COLLISION: plane 1 damaged by 7 for 10 damage, now dead
+[Turn 85.8] [Damage event] PLANE_ATTACK: plane 0 damaged by 6 for 1 damage, still alive
+[Turn 86] [Damage event] PLANE_ATTACK: plane 0 damaged by 6 for 1 damage, still alive
+[Turn 86.86666666666666] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 87] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 162.46666666666667] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 163] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 164] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 164.06666666666666] [Damage event] PLANE_ATTACK: plane 0 damaged by 6 for 1 damage, still alive
+[Turn 165] [Damage event] PLANE_ATTACK: plane 0 damaged by 5 for 1 damage, still alive
+[Turn 165] [Damage event] PLANE_ATTACK: plane 0 damaged by 6 for 1 damage, now dead
+[Turn 168.2] [Damage event] BORDER: plane 4 damaged for 20 damage, now dead
+[Turn 169.26666666666668] [Damage event] BORDER: plane 2 damaged for 20 damage, now dead
+[Turn 169.46666666666667] [Damage event] BORDER: plane 3 damaged for 20 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+[Turn 164] [Validation Error] Player 0 sent incorrectly formatted data ([
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "null",
+    "path": [],
+    "message": "Expected object, received null"
+  }
+]), strike 1/3
+[Turn 165] [Validation Error] Player 0 sent incorrectly formatted data ([
+  {
+    "code": "invalid_type",
+    "expected": "object",
+    "received": "null",
+    "path": [],
+    "message": "Expected object, received null"
+  }
+]), strike 2/3
+

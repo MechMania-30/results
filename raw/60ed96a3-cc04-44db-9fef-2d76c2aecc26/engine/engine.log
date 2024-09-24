@@ -1,0 +1,30 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 261] [Damage event] COLLISION: plane 119 damaged by 15 for 1 damage, now dead
+[Turn 261] [Damage event] COLLISION: plane 15 damaged by 119 for 1 damage, now dead
+[Turn 321.3333333333333] [Damage event] COLLISION: plane 171 damaged by 53 for 1 damage, now dead
+[Turn 321.3333333333333] [Damage event] COLLISION: plane 181 damaged by 53 for 1 damage, now dead
+[Turn 321.3333333333333] [Damage event] COLLISION: plane 53 damaged by 171 for 1 damage, now dead
+[Turn 321.3333333333333] [Damage event] COLLISION: plane 53 damaged by 181 for 1 damage, now dead
+[Turn 346.3333333333333] [Damage event] COLLISION: plane 161 damaged by 7 for 1 damage, now dead
+[Turn 346.3333333333333] [Damage event] COLLISION: plane 7 damaged by 161 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 103 damaged by 61 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 113 damaged by 61 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 123 damaged by 61 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 133 damaged by 61 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 143 damaged by 61 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 61 damaged by 103 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 61 damaged by 113 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 61 damaged by 123 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 61 damaged by 133 for 1 damage, now dead
+[Turn 481.53333333333336] [Damage event] COLLISION: plane 61 damaged by 143 for 1 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+

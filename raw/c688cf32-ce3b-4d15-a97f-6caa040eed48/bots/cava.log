@@ -1,0 +1,37 @@
+---- OUTPUT (stdout) ----
+Error: Error: Command failed: python3 /tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz serve 9001
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/__main__.py", line 2, in <module>
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/main.py", line 24, in <module>
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/strategy/strategy.py", line 4, in <module>
+ModuleNotFoundError: No module named 'utils'
+
+---- ERRORS (stderr) ----
+Error: Command failed: python3 /tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz serve 9001
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/__main__.py", line 2, in <module>
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/main.py", line 24, in <module>
+  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/strategy/strategy.py", line 4, in <module>
+ModuleNotFoundError: No module named 'utils'
+
+    at ChildProcess.exithandler (node:child_process:422:12)
+    at ChildProcess.emit (node:events:517:28)
+    at maybeClose (node:internal/child_process:1098:16)
+    at ChildProcess._handle.onexit (node:internal/child_process:303:5) {
+  code: 1,
+  killed: false,
+  signal: null,
+  cmd: 'python3 /tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz serve 9001',
+  stdout: '',
+  stderr: 'Traceback (most recent call last):\n' +
+    '  File "<frozen runpy>", line 198, in _run_module_as_main\n' +
+    '  File "<frozen runpy>", line 88, in _run_code\n' +
+    '  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/__main__.py", line 2, in <module>\n' +
+    '  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/main.py", line 24, in <module>\n' +
+    '  File "/tmp/game#13#c688cf32-ce3b-4d15-a97f-6caa040eed48-3YC6ma/team#cava.pyz/strategy/strategy.py", line 4, in <module>\n' +
+    "ModuleNotFoundError: No module named 'utils'\n"
+}

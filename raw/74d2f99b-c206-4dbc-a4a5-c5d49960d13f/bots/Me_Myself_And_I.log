@@ -1,0 +1,4700 @@
+---- OUTPUT (stdout) ----
+Connecting to server on port 9001...
+Connected to server on port 9001
+COUNTER = 0
+COUNTER = 1
+COUNTER = 2
+COUNTER = 3
+COUNTER = 4
+COUNTER = 5
+COUNTER = 6
+COUNTER = 7
+COUNTER = 8
+COUNTER = 9
+COUNTER = 10
+original enemy position = Vector[x=-9.903421535580872, y=-40.02008000763501]
+new enemy position = Vector[x=-9.670967074991644, y=-39.57740075156785]
+adj = -65.21350401943369
+hyp = 65.23070871847708
+angle before accounting for quadrants = 178.684034003286
+angle = 358.684034003286
+angle of plane = 255.0
+steer value = 1.0
+original enemy position = Vector[x=0.34193590311635325, y=-40.03728155739272]
+new enemy position = Vector[x=0.35246623548225997, y=-39.53739245759131]
+adj = -65.17349572545714
+hyp = 65.17861117460563
+angle before accounting for quadrants = 179.28215644510522
+angle = 180.71784355489478
+angle of plane = 285.0
+steer value = -1.0
+original enemy position = Vector[x=4.767202824057738, y=-40.05125045004894]
+new enemy position = Vector[x=4.6063253124185035, y=-39.577838973372714]
+adj = -65.21394224123856
+hyp = 65.22067729674995
+angle before accounting for quadrants = 179.17658399329184
+angle = 359.17658399329184
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=-4.755829493977777, y=-40.02435266945458]
+new enemy position = Vector[x=-4.743529063245333, y=-39.52450399294958]
+adj = -65.16060726081542
+hyp = 65.16946557367568
+angle before accounting for quadrants = 179.05529551466097
+angle = 180.94470448533903
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=7.055007666274996, y=-40.08513155371374]
+new enemy position = Vector[x=7.071722897440995, y=-39.5854110307741]
+adj = -65.22151429863993
+hyp = 65.24107128424973
+angle before accounting for quadrants = 178.59706065212882
+angle = 181.40293934787118
+angle of plane = 285.0
+steer value = -1.0
+COUNTER = 11
+original enemy position = Vector[x=-9.789604522124415, y=-39.538600082776426]
+new enemy position = Vector[x=-9.799241038025048, y=-39.03869295384016]
+adj = -62.69756436277529
+hyp = 62.71875204276941
+angle before accounting for quadrants = 178.51066342340087
+angle = 358.51066342340084
+angle of plane = 270.0
+steer value = 1.0
+original enemy position = Vector[x=0.22942528294636036, y=-39.55545444323849]
+new enemy position = Vector[x=-0.0014012818716511444, y=-39.1119241771074]
+adj = -62.770795586042524
+hyp = 62.78709939279519
+angle before accounting for quadrants = 178.69426114450795
+angle = 181.30573885549205
+angle of plane = 270.0
+steer value = -1.0
+original enemy position = Vector[x=4.549382240354796, y=-39.55615857239605]
+new enemy position = Vector[x=4.550628706800961, y=-39.05616012607707]
+adj = -62.84977661866819
+hyp = 62.849888134192476
+angle before accounting for quadrants = 179.8920672841211
+angle = 359.89206728412114
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-4.678802693213624, y=-39.53175679777436]
+new enemy position = Vector[x=-4.5379251711801105, y=-39.05201361253282]
+adj = -62.84563010512393
+hyp = 62.84571897969068
+angle before accounting for quadrants = 179.90364182184888
+angle = 180.09635817815112
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=7.0538712673805195, y=-39.585239105478244]
+new enemy position = Vector[x=7.034884204600058, y=-39.08559974409148]
+adj = -62.74447115302661
+hyp = 62.77306500893951
+angle before accounting for quadrants = 178.2705667193731
+angle = 181.7294332806269
+angle of plane = 270.0
+steer value = -1.0
+COUNTER = 12
+original enemy position = Vector[x=-9.804689889598011, y=-39.03883761124903]
+new enemy position = Vector[x=-9.825222913403575, y=-38.5392593942165]
+adj = -60.22089894422091
+hyp = 60.235890810716555
+angle before accounting for quadrants = 178.72165869295725
+angle = 358.72165869295725
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=0.12248940627107045, y=-39.07285203723759]
+new enemy position = Vector[x=0.14435287033592265, y=-38.573330277011785]
+adj = -60.2549698270162
+hyp = 60.26368221181778
+angle before accounting for quadrants = 179.02572052188643
+angle = 180.97427947811357
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=4.671800667008974, y=-39.060428999901134]
+new enemy position = Vector[x=4.6443473804169555, y=-38.561183251741674]
+adj = -60.77262048159565
+hyp = 60.780879177166526
+angle before accounting for quadrants = 179.05547210663198
+angle = 180.94452789336802
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=-4.667027720134648, y=-39.03758909951074]
+new enemy position = Vector[x=-4.784895799852192, y=-38.551680552782344]
+adj = -60.76311778263633
+hyp = 60.7692230423275
+angle before accounting for quadrants = 179.18782148765266
+angle = 359.1878214876526
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=7.06114646562734, y=-39.085522074614836]
+new enemy position = Vector[x=7.094670533440543, y=-38.58664720365293]
+adj = -60.268286753657335
+hyp = 60.28884689515297
+angle before accounting for quadrants = 178.5036109069132
+angle = 181.4963890930868
+angle of plane = 255.0
+steer value = -1.0
+COUNTER = 13
+original enemy position = Vector[x=-9.816404580939977, y=-38.53900081587939]
+new enemy position = Vector[x=-9.819298508259191, y=-38.03900919076486]
+adj = -57.87816196549454
+hyp = 57.88113419299404
+angle before accounting for quadrants = 179.41935325421048
+angle = 359.4193532542105
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=0.13772790903453455, y=-38.573098958276475]
+new enemy position = Vector[x=0.14633966471263682, y=-38.073173126113204]
+adj = -57.91232590084289
+hyp = 57.91290742007312
+angle before accounting for quadrants = 179.743237054055
+angle = 180.256762945945
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=7.02991997071336, y=-38.587903003752224]
+new enemy position = Vector[x=6.934293871736812, y=-38.0971325388763]
+adj = -58.72639050599315
+hyp = 58.72643708215363
+angle before accounting for quadrants = 179.92783897812646
+angle = 359.9278389781265
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-4.750029044554849, y=-38.54495305252954]
+new enemy position = Vector[x=-4.797884111514239, y=-38.047248428715065]
+adj = -58.67650639583192
+hyp = 58.712742144423686
+angle before accounting for quadrants = 177.98691364267555
+angle = 357.9869136426755
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=7.02991997071336, y=-38.587903003752224]
+new enemy position = Vector[x=6.934293871736812, y=-38.0971325388763]
+adj = -57.936285313605985
+hyp = 57.94443123279781
+angle before accounting for quadrants = 179.03925769476248
+angle = 180.96074230523752
+angle of plane = 240.0
+steer value = -1.0
+COUNTER = 14
+original enemy position = Vector[x=-9.820375751361814, y=-38.039016973172885]
+new enemy position = Vector[x=-9.825424152596684, y=-37.5390424601775]
+adj = -55.79601597217005
+hyp = 55.799613390537374
+angle before accounting for quadrants = 179.34939133594597
+angle = 180.65060866405403
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=0.0527776762679634, y=-38.08338336806476]
+new enemy position = Vector[x=-0.12370705751941344, y=-37.61556594776064]
+adj = -55.8725394597532
+hyp = 55.87673192833831
+angle before accounting for quadrants = 179.29812502928246
+angle = 359.29812502928246
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=6.990141832943621, y=-38.090547606409906]
+new enemy position = Vector[x=7.006548335302697, y=-37.59081685222287]
+adj = -56.63789555660259
+hyp = 56.64796092788791
+angle before accounting for quadrants = 178.91989290258527
+angle = 181.08010709741473
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=-9.820375751361814, y=-38.039016973172885]
+new enemy position = Vector[x=-9.825424152596684, y=-37.5390424601775]
+adj = -56.325813652019626
+hyp = 56.36883617475273
+angle before accounting for quadrants = 177.76131154973788
+angle = 182.23868845026212
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=6.990141832943621, y=-38.090547606409906]
+new enemy position = Vector[x=7.006548335302697, y=-37.59081685222287]
+adj = -55.84779036421543
+hyp = 55.84867718627121
+angle before accounting for quadrants = 179.67711341457945
+angle = 359.6771134145795
+angle of plane = 225.0
+steer value = 1.0
+COUNTER = 15
+original enemy position = Vector[x=-9.817417917935463, y=-37.53904708995049]
+new enemy position = Vector[x=-9.806454355476218, y=-37.039167304103735]
+adj = -53.713961553359155
+hyp = 53.74508120402519
+angle before accounting for quadrants = 178.05012584489106
+angle = 181.94987415510894
+angle of plane = 300.0
+steer value = -1.0
+original enemy position = Vector[x=-2.348189766855733, y=-37.599649706897075]
+new enemy position = Vector[x=-2.1530845016873155, y=-37.139286876616914]
+adj = -53.814081125872335
+hyp = 53.81424021783113
+angle before accounting for quadrants = 179.86068007074695
+angle = 180.13931992925305
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=7.01631291860197, y=-37.59126489699937]
+new enemy position = Vector[x=7.0522419185819665, y=-37.092557460760005]
+adj = -54.55745690240258
+hyp = 54.60326579155001
+angle before accounting for quadrants = 177.6528893277447
+angle = 182.3471106722553
+angle of plane = 300.0
+steer value = -1.0
+original enemy position = Vector[x=-9.817417917935463, y=-37.53904708995049]
+new enemy position = Vector[x=-9.806454355476218, y=-37.039167304103735]
+adj = -53.98345172067114
+hyp = 54.00211820360204
+angle before accounting for quadrants = 178.4934762169082
+angle = 181.5065237830918
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=4.766427350999952, y=-37.57523271531295]
+new enemy position = Vector[x=4.783746202570956, y=-37.07553274795227]
+adj = -53.750326997207694
+hyp = 53.75480742042513
+angle before accounting for quadrants = 179.2602388646172
+angle = 180.7397611353828
+angle of plane = 240.0
+steer value = -1.0
+COUNTER = 16
+original enemy position = Vector[x=-9.793069593845992, y=-37.03970017310192]
+new enemy position = Vector[x=-9.755348161104955, y=-36.54112511003522]
+adj = -51.3734325840159
+hyp = 51.4362230800598
+angle before accounting for quadrants = 177.16864554496607
+angle = 182.83135445503393
+angle of plane = 285.0
+steer value = -1.0
+original enemy position = Vector[x=-4.510844330694549, y=-37.09877614093563]
+new enemy position = Vector[x=-4.342626515404575, y=-36.62792290836833]
+adj = -51.72053789488662
+hyp = 51.732369406886704
+angle before accounting for quadrants = 178.7745803306363
+angle = 181.2254196693637
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=9.525995319724293, y=-37.171383124503805]
+new enemy position = Vector[x=9.466565679518952, y=-36.674927569730706]
+adj = -52.297340236098556
+hyp = 52.300612564876914
+angle before accounting for quadrants = 179.35906354674285
+angle = 180.64093645325715
+angle of plane = 285.0
+steer value = -1.0
+original enemy position = Vector[x=-9.793069593845992, y=-37.03970017310192]
+new enemy position = Vector[x=-9.755348161104955, y=-36.54112511003522]
+adj = -51.90323026386549
+hyp = 51.90346051741269
+angle before accounting for quadrants = 179.82933565493315
+angle = 180.17066434506685
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=4.768745936796696, y=-37.07531312235921]
+new enemy position = Vector[x=4.7560628649581655, y=-36.57547400855484]
+adj = -51.66808899507313
+hyp = 51.67043469085622
+angle before accounting for quadrants = 179.45404850546535
+angle = 359.4540485054654
+angle of plane = 225.0
+steer value = 1.0
+COUNTER = 17
+original enemy position = Vector[x=-9.755443558570303, y=-36.54111790464616]
+new enemy position = Vector[x=-9.717912921678089, y=-36.04252844297005]
+adj = -48.89760405802002
+hyp = 48.9756404199932
+angle before accounting for quadrants = 176.76515289513839
+angle = 183.23484710486161
+angle of plane = 270.0
+steer value = -1.0
+original enemy position = Vector[x=-4.344949347941288, y=-36.627101643691304]
+new enemy position = Vector[x=-4.181379883042161, y=-36.15461351669485]
+adj = -50.03317965509429
+hyp = 50.03723549073103
+angle before accounting for quadrants = 179.27048523944362
+angle = 359.2704852394436
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=9.50421013434915, y=-36.67233347409389]
+new enemy position = Vector[x=9.520152256186233, y=-36.17258768996827]
+adj = -49.8177684974054
+hyp = 49.82405998145058
+angle before accounting for quadrants = 179.08945965574307
+angle = 180.91054034425693
+angle of plane = 270.0
+steer value = -1.0
+original enemy position = Vector[x=-9.755443558570303, y=-36.54111790464616]
+new enemy position = Vector[x=-9.717912921678089, y=-36.04252844297005]
+adj = -50.19058474868147
+hyp = 50.21196130688855
+angle before accounting for quadrants = 178.3280690507887
+angle = 358.3280690507887
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=4.794533025732326, y=-36.57647335350725]
+new enemy position = Vector[x=4.858688262254017, y=-36.08060632936988]
+adj = -49.591042053151035
+hyp = 49.62402635860952
+angle before accounting for quadrants = 177.91085125994994
+angle = 357.91085125994994
+angle of plane = 240.0
+steer value = 1.0
+COUNTER = 18
+original enemy position = Vector[x=-9.659741747408715, y=-36.05154187191724]
+new enemy position = Vector[x=-9.506756639401265, y=-35.57552132957904]
+adj = -46.453365085698294
+hyp = 46.50988251162117
+angle before accounting for quadrants = 177.17511882711048
+angle = 182.82488117288952
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=-9.659741747408715, y=-36.05154187191724]
+new enemy position = Vector[x=-9.506756639401265, y=-35.57552132957904]
+adj = -48.24003861985962
+hyp = 48.33993484234082
+angle before accounting for quadrants = 176.31587843944936
+angle = 183.68412156055064
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=9.55548267790075, y=-36.175390579283345]
+new enemy position = Vector[x=9.64191365158406, y=-35.68291754774948]
+adj = -47.350866496255904
+hyp = 47.35263889656687
+angle before accounting for quadrants = 179.50426703388288
+angle = 180.49573296611712
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=-9.659741747408715, y=-36.05154187191724]
+new enemy position = Vector[x=-9.506756639401265, y=-35.57552132957904]
+adj = -48.5095287871716
+hyp = 48.61883599445893
+angle before accounting for quadrants = 176.15725866985034
+angle = 356.1572586698503
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=-0.025017324403785676, y=-36.1009368142389]
+new enemy position = Vector[x=-0.03831566007791243, y=-35.60111369125608]
+adj = -47.26906263976251
+hyp = 47.3261978097984
+angle before accounting for quadrants = 177.18432654176485
+angle = 182.81567345823515
+angle of plane = 255.0
+steer value = -1.0
+COUNTER = 19
+original enemy position = Vector[x=-9.63545235895642, y=-35.55783103589398]
+new enemy position = Vector[x=-9.740973640190358, y=-35.069092599502135]
+adj = -44.10444958034666
+hyp = 44.13968012130989
+angle before accounting for quadrants = 177.7106532023186
+angle = 182.2893467976814
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-9.63545235895642, y=-35.55783103589398]
+new enemy position = Vector[x=-9.740973640190358, y=-35.069092599502135]
+adj = -46.519561041663856
+hyp = 46.5527730024081
+angle before accounting for quadrants = 177.83559796540717
+angle = 182.16440203459283
+angle of plane = 210.0
+steer value = -1.0
+original enemy position = Vector[x=9.55227786619743, y=-35.67810189370882]
+new enemy position = Vector[x=9.459506781451969, y=-35.18678374236984]
+adj = -45.012245915601525
+hyp = 45.012571022627355
+angle before accounting for quadrants = 179.782236965694
+angle = 359.782236965694
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=-14.59342899716404, y=-35.63330755137918]
+new enemy position = Vector[x=-14.422824067855398, y=-35.163313978981016]
+adj = -46.515142173836445
+hyp = 46.51725803639824
+angle before accounting for quadrants = 179.45351788909352
+angle = 180.54648211090648
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-0.06954407316568649, y=-35.603251512016925]
+new enemy position = Vector[x=-0.14518276550044112, y=-35.10900583604]
+adj = -44.9344680092717
+hyp = 44.9654341656055
+angle before accounting for quadrants = 177.8734930204403
+angle = 182.1265069795597
+angle of plane = 240.0
+steer value = -1.0
+COUNTER = 20
+original enemy position = Vector[x=-9.634840955383574, y=-35.06163453052577]
+new enemy position = Vector[x=-9.5281155686231, y=-34.57315762030296]
+adj = -42.026335338410355
+hyp = 42.02768085105482
+angle before accounting for quadrants = 179.5415257298992
+angle = 180.4584742701008
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=-9.634840955383574, y=-35.06163453052577]
+new enemy position = Vector[x=-9.5281155686231, y=-34.57315762030296]
+adj = -45.260443051652814
+hyp = 45.26141873685989
+angle before accounting for quadrants = 179.62379099286252
+angle = 359.6237909928625
+angle of plane = 195.0
+steer value = 1.0
+original enemy position = Vector[x=6.8169259863972345, y=-35.14895489676319]
+new enemy position = Vector[x=6.98594946402558, y=-34.67839027419747]
+adj = -42.66136567215443
+hyp = 42.68912688223152
+angle before accounting for quadrants = 177.93356509669013
+angle = 182.06643490330987
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=-14.471086911607804, y=-35.14937526234195]
+new enemy position = Vector[x=-14.397833390186872, y=-34.65477044877921]
+adj = -44.42441938089752
+hyp = 44.431538896945945
+angle before accounting for quadrants = 178.97429378150937
+angle = 358.97429378150935
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=-0.015309762417976394, y=-35.11192778621499]
+new enemy position = Vector[x=0.16630804649955372, y=-34.64607912894098]
+adj = -42.889362039435554
+hyp = 42.88960026122608
+angle before accounting for quadrants = 179.8090355289444
+angle = 180.1909644710556
+angle of plane = 225.0
+steer value = -1.0
+COUNTER = 21
+original enemy position = Vector[x=-9.417129546889148, y=-34.61684796869586]
+new enemy position = Vector[x=-9.096830520969455, y=-34.23290977836453]
+adj = -40.47203864835308
+hyp = 40.50677476910201
+angle before accounting for quadrants = 177.62701225263885
+angle = 357.62701225263885
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=-9.417129546889148, y=-34.61684796869586]
+new enemy position = Vector[x=-9.096830520969455, y=-34.23290977836453]
+adj = -44.15701219890252
+hyp = 44.23179356419322
+angle before accounting for quadrants = 176.66782151053852
+angle = 356.6678215105385
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=6.906525279696245, y=-34.659319640061184]
+new enemy position = Vector[x=6.915093844720141, y=-34.15939306575908]
+adj = -40.29988168844132
+hyp = 40.30878093361823
+angle before accounting for quadrants = 178.7960114002104
+angle = 181.2039885997896
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-14.337113870057431, y=-34.66900779684475]
+new enemy position = Vector[x=-14.14381718276001, y=-34.20788266124722]
+adj = -42.3953523306284
+hyp = 42.45573025813938
+angle before accounting for quadrants = 176.94395281272836
+angle = 356.94395281272836
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=-1.9372578642422167, y=-34.65620010927338]
+new enemy position = Vector[x=-1.8195862944868628, y=-34.17024393669059]
+adj = -41.19947799906631
+hyp = 41.20310460408661
+angle before accounting for quadrants = 179.23980330955044
+angle = 180.76019669044956
+angle of plane = 210.0
+steer value = -1.0
+COUNTER = 22
+original enemy position = Vector[x=-11.966478718073738, y=-34.23289145280427]
+new enemy position = Vector[x=-12.046834494358396, y=-33.73939074437753]
+adj = -38.76447076624722
+hyp = 38.76570503121823
+angle before accounting for quadrants = 179.54278639918658
+angle = 359.5427863991866
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=-14.139114423653858, y=-34.209891796666156]
+new enemy position = Vector[x=-13.936426027078893, y=-33.75281695170762]
+adj = -42.462870524126764
+hyp = 42.46841879863349
+angle before accounting for quadrants = 179.07383517488506
+angle = 180.92616482511494
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=5.1002454660256396, y=-34.133695724485776]
+new enemy position = Vector[x=5.35953965055629, y=-33.70618370609496]
+adj = -38.26449306604006
+hyp = 38.2829452960795
+angle before accounting for quadrants = 178.220996368952
+angle = 181.779003631048
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=-15.678402818349385, y=-34.265074608553924]
+new enemy position = Vector[x=-15.585180454854152, y=-33.77384188270561]
+adj = -40.118824776812055
+hyp = 40.150132381068175
+angle before accounting for quadrants = 177.73719420744337
+angle = 357.7371942074434
+angle of plane = 255.0
+steer value = 1.0
+original enemy position = Vector[x=-1.8654538902649314, y=-34.162114769239736]
+new enemy position = Vector[x=-1.8399340477161221, y=-33.66276645629947]
+adj = -39.92881750786333
+hyp = 39.94918402040427
+angle before accounting for quadrants = 178.17038184706485
+angle = 358.17038184706485
+angle of plane = 195.0
+steer value = 1.0
+COUNTER = 23
+original enemy position = Vector[x=-14.043353161133586, y=-33.72336200275901]
+new enemy position = Vector[x=-14.057705784746712, y=-33.22356804301618]
+adj = -36.66646880214874
+hyp = 36.66970917687251
+angle before accounting for quadrants = 179.23829867074645
+angle = 180.76170132925355
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-14.043353161133586, y=-33.72336200275901]
+new enemy position = Vector[x=-14.057705784746712, y=-33.22356804301618]
+adj = -40.719572767316464
+hyp = 40.72693664877839
+angle before accounting for quadrants = 178.9104260881817
+angle = 358.9104260881817
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=5.238464548263598, y=-33.65910553358054]
+new enemy position = Vector[x=5.249263889925305, y=-33.159222172965606]
+adj = -36.503482684791855
+hyp = 36.50458300383683
+angle before accounting for quadrants = 179.55513899336106
+angle = 359.5551389933611
+angle of plane = 210.0
+steer value = 1.0
+original enemy position = Vector[x=-15.610667643998557, y=-33.7699077656338]
+new enemy position = Vector[x=-15.568539881636498, y=-33.271685674957]
+adj = -37.63943671013273
+hyp = 37.68547453200637
+angle before accounting for quadrants = 177.16761528187004
+angle = 357.16761528187004
+angle of plane = 270.0
+steer value = 1.0
+original enemy position = Vector[x=-3.965223738569181, y=-33.68355408271585]
+new enemy position = Vector[x=-3.789520755448797, y=-33.2154424916154]
+adj = -38.71831053236739
+hyp = 38.73593513311135
+angle before accounting for quadrants = 178.27155040275971
+angle = 358.2715504027597
+angle of plane = 210.0
+steer value = 1.0
+COUNTER = 24
+original enemy position = Vector[x=-14.113016445055935, y=-33.22928179581772]
+new enemy position = Vector[x=-14.237413945737064, y=-32.745003712662715]
+adj = -34.60572520905815
+hyp = 34.61004585254629
+angle before accounting for quadrants = 179.09465256116638
+angle = 359.0946525611664
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=-15.638592856851256, y=-33.27233227899397]
+new enemy position = Vector[x=-15.736203483151337, y=-32.78195266519125]
+adj = -39.06390854137268
+hyp = 39.06979400859812
+angle before accounting for quadrants = 179.0054812068348
+angle = 359.0054812068348
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=5.120870689316825, y=-33.178988830750725]
+new enemy position = Vector[x=4.880281513232547, y=-32.74067747069821]
+adj = -34.8708891344056
+hyp = 34.90299126076446
+angle before accounting for quadrants = 177.54242659556732
+angle = 357.54242659556735
+angle of plane = 225.0
+steer value = 1.0
+original enemy position = Vector[x=-15.638592856851256, y=-33.27233227899397]
+new enemy position = Vector[x=-15.736203483151337, y=-32.78195266519125]
+adj = -35.17247184143626
+hyp = 35.201701557736264
+angle before accounting for quadrants = 177.6649393893518
+angle = 357.6649393893518
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=-7.622851928016553, y=-33.22248760693121]
+new enemy position = Vector[x=-7.851767424727971, y=-32.77796798378127]
+adj = -37.06678717641441
+hyp = 37.08998852162087
+angle before accounting for quadrants = 177.97330448961137
+angle = 182.02669551038863
+angle of plane = 225.0
+steer value = -1.0
+COUNTER = 25
+original enemy position = Vector[x=-15.606329417002259, y=-32.77907835407569]
+new enemy position = Vector[x=-15.445672892156077, y=-32.305591837874495]
+adj = -32.584134071532795
+hyp = 32.58882041321798
+angle before accounting for quadrants = 179.02831502054977
+angle = 359.02831502054977
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=-15.606329417002259, y=-32.77907835407569]
+new enemy position = Vector[x=-15.445672892156077, y=-32.305591837874495]
+adj = -37.0053684513188
+hyp = 37.06968427622489
+angle before accounting for quadrants = 176.62440822175085
+angle = 356.62440822175085
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=2.229559592404806, y=-32.73625083966763]
+new enemy position = Vector[x=2.0867064628165526, y=-32.257092219410374]
+adj = -32.80512462038064
+hyp = 32.80522936625
+angle before accounting for quadrants = 179.85521130314822
+angle = 180.14478869685178
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-15.606329417002259, y=-32.77907835407569]
+new enemy position = Vector[x=-15.445672892156077, y=-32.305591837874495]
+adj = -32.85362423884478
+hyp = 32.86769322646379
+angle before accounting for quadrants = 178.32351398716168
+angle = 358.3235139871617
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-9.047610840476375, y=-32.70449768003357]
+new enemy position = Vector[x=-8.975031449794193, y=-32.20979349362698]
+adj = -35.28456383814127
+hyp = 35.29486753249761
+angle before accounting for quadrants = 178.61551293745612
+angle = 181.38448706254388
+angle of plane = 210.0
+steer value = -1.0
+COUNTER = 26
+original enemy position = Vector[x=-15.545294475040595, y=-32.28630070706068]
+new enemy position = Vector[x=-15.585577256094584, y=-31.787926051253873]
+adj = -30.223981509637444
+hyp = 30.246848893562234
+angle before accounting for quadrants = 177.77190774605504
+angle = 357.77190774605504
+angle of plane = 255.0
+steer value = 1.0
+original enemy position = Vector[x=-15.545294475040595, y=-32.28630070706068]
+new enemy position = Vector[x=-15.585577256094584, y=-31.787926051253873]
+adj = -34.64521588942345
+hyp = 34.75866114222327
+angle before accounting for quadrants = 175.36961112963635
+angle = 355.3696111296364
+angle of plane = 255.0
+steer value = 1.0
+original enemy position = Vector[x=0.2551028495812211, y=-32.25073461445365]
+new enemy position = Vector[x=0.38951895099957023, y=-31.769141101541056]
+adj = -30.73499423977419
+hyp = 30.740206094171093
+angle before accounting for quadrants = 178.9449172655326
+angle = 181.0550827344674
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=-14.261143961890523, y=-32.24123780622473]
+new enemy position = Vector[x=-14.32484582135909, y=-31.74531233490848]
+adj = -30.711165473141634
+hyp = 30.7234393807902
+angle before accounting for quadrants = 178.38039690032096
+angle = 358.380396900321
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-9.829827945991829, y=-32.204836529395486]
+new enemy position = Vector[x=-9.964791751666153, y=-31.723396220366524]
+adj = -34.03498355406895
+hyp = 34.034983554106695
+angle before accounting for quadrants = 179.99991466960586
+angle = 180.00008533039414
+angle of plane = 195.0
+steer value = -1.0
+COUNTER = 27
+original enemy position = Vector[x=-15.536059033212206, y=-31.78720505806049]
+new enemy position = Vector[x=-15.477365941959416, y=-31.29066188668544]
+adj = -27.749485486138298
+hyp = 27.792431788717145
+angle before accounting for quadrants = 176.81438574406658
+angle = 356.8143857440666
+angle of plane = 270.0
+steer value = 1.0
+original enemy position = Vector[x=-15.536059033212206, y=-31.78720505806049]
+new enemy position = Vector[x=-15.477365941959416, y=-31.29066188668544]
+adj = -32.1707198659243
+hyp = 32.326965188355295
+angle before accounting for quadrants = 174.3644831550434
+angle = 354.3644831550434
+angle of plane = 270.0
+steer value = 1.0
+original enemy position = Vector[x=-1.9350067677763951, y=-31.66793428447259]
+new enemy position = Vector[x=-1.8885643653088182, y=-31.170095853600646]
+adj = -28.921900143714925
+hyp = 28.949418083944202
+angle before accounting for quadrants = 177.50161087855437
+angle = 182.49838912144563
+angle of plane = 210.0
+steer value = -1.0
+original enemy position = Vector[x=-14.33521029066057, y=-31.74679100292757]
+new enemy position = Vector[x=-14.419619437155601, y=-31.253967407725412]
+adj = -29.00577169783971
+hyp = 29.017040169726894
+angle before accounting for quadrants = 178.40317382456297
+angle = 181.59682617543703
+angle of plane = 330.0
+steer value = -1.0
+original enemy position = Vector[x=-11.716205185264334, y=-31.783363663301323]
+new enemy position = Vector[x=-11.662521620301414, y=-31.286253942160332]
+adj = -33.337533763325155
+hyp = 33.33870499060588
+angle before accounting for quadrants = 179.51973036591562
+angle = 359.5197303659156
+angle of plane = 180.0
+steer value = 1.0
+COUNTER = 28
+original enemy position = Vector[x=-15.512101091884794, y=-31.288184397527864]
+new enemy position = Vector[x=-15.522955884035522, y=-30.78830223792686]
+adj = -25.269893978449
+hyp = 25.300228248467267
+angle before accounting for quadrants = 177.1940134397822
+angle = 357.1940134397822
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=-15.512101091884794, y=-31.288184397527864]
+new enemy position = Vector[x=-15.522955884035522, y=-30.78830223792686]
+adj = -29.691128358235005
+hyp = 29.829381388196804
+angle before accounting for quadrants = 174.48150418762006
+angle = 354.4815041876201
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=-1.92639276318202, y=-31.16848689373172]
+new enemy position = Vector[x=-1.9556401413585085, y=-30.66934303584123]
+adj = -27.657964315143648
+hyp = 27.6627301565163
+angle before accounting for quadrants = 178.93642985735175
+angle = 358.93642985735175
+angle of plane = 195.0
+steer value = 1.0
+original enemy position = Vector[x=-11.744223746440278, y=-31.286388260454448]
+new enemy position = Vector[x=-11.853441796621489, y=-30.798462633422403]
+adj = -27.336218075417847
+hyp = 27.336780799108777
+angle before accounting for quadrants = 179.63236886096658
+angle = 359.6323688609666
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-14.398288874384606, y=-31.250941881564884]
+new enemy position = Vector[x=-14.439958779519202, y=-30.752681288093882]
+adj = -32.54365359672111
+hyp = 32.547819806414495
+angle before accounting for quadrants = 179.0832479833905
+angle = 180.9167520166095
+angle of plane = 195.0
+steer value = -0.94
+COUNTER = 29
+original enemy position = Vector[x=-15.400562276882058, y=-30.806072186659282]
+new enemy position = Vector[x=-15.171261823851125, y=-30.361751016513395]
+adj = -23.000855981760807
+hyp = 23.015720865708698
+angle before accounting for quadrants = 177.94065325342805
+angle = 357.9406532534281
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-15.400562276882058, y=-30.806072186659282]
+new enemy position = Vector[x=-15.171261823851125, y=-30.361751016513395]
+adj = -27.42209036154681
+hyp = 27.531953359640585
+angle before accounting for quadrants = 174.87977125530412
+angle = 354.87977125530415
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-4.566643755995995, y=-30.769522376404893]
+new enemy position = Vector[x=-4.529226778229022, y=-30.270924372222378]
+adj = -26.496362640712928
+hyp = 26.49725639952164
+angle before accounting for quadrants = 179.52940363910764
+angle = 180.47059636089236
+angle of plane = 210.0
+steer value = -1.0
+original enemy position = Vector[x=-10.098713701555296, y=-30.76762350859357]
+new enemy position = Vector[x=-9.965539862728972, y=-30.285684997316185]
+adj = -25.609391591192775
+hyp = 25.613910643018986
+angle before accounting for quadrants = 178.92370894323864
+angle = 358.92370894323864
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-14.31137013454991, y=-30.76426424752378]
+new enemy position = Vector[x=-14.099802807045645, y=-30.311230842648705]
+adj = -31.8262828809352
+hyp = 31.876872087164653
+angle before accounting for quadrants = 176.7716087184111
+angle = 356.77160871841113
+angle of plane = 180.90000000000003
+steer value = 1.0
+COUNTER = 30
+original enemy position = Vector[x=-14.225257067898237, y=-30.27751492420632]
+new enemy position = Vector[x=-14.268551090106298, y=-29.77939282306941]
+adj = -20.836318525579692
+hyp = 20.842699933741258
+angle before accounting for quadrants = 178.58215098715678
+angle = 358.58215098715675
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-15.24620431957554, y=-30.33276835442108]
+new enemy position = Vector[x=-15.169466467011452, y=-29.838692143716848]
+adj = -25.316852226013133
+hyp = 25.34743947148939
+angle before accounting for quadrants = 177.1849607831916
+angle = 357.1849607831916
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-4.622011551337252, y=-30.27550941278641]
+new enemy position = Vector[x=-4.768877036355915, y=-29.797565347742985]
+adj = -25.259820605421673
+hyp = 25.29777321578655
+angle before accounting for quadrants = 176.861142361308
+angle = 356.861142361308
+angle of plane = 195.0
+steer value = 1.0
+original enemy position = Vector[x=-10.052506019933547, y=-30.272368488653843]
+new enemy position = Vector[x=-10.094226911933632, y=-29.774112161879444]
+adj = -24.334635744944173
+hyp = 24.38021213837356
+angle before accounting for quadrants = 176.4960609193792
+angle = 183.5039390806208
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-15.24620431957554, y=-30.33276835442108]
+new enemy position = Vector[x=-15.169466467011452, y=-29.838692143716848]
+adj = -31.062411774750302
+hyp = 31.17939869487771
+angle before accounting for quadrants = 175.03512519934753
+angle = 355.03512519934753
+angle of plane = 195.90000000000003
+steer value = 1.0
+COUNTER = 31
+original enemy position = Vector[x=-14.20481926688203, y=-29.779291668186946]
+new enemy position = Vector[x=-14.120872057214505, y=-29.286389176826802]
+adj = -19.12926603121823
+hyp = 19.151317693414093
+angle before accounting for quadrants = 177.2502029207022
+angle = 182.7497970792978
+angle of plane = 330.0
+steer value = -1.0
+original enemy position = Vector[x=-14.20481926688203, y=-29.779291668186946]
+new enemy position = Vector[x=-14.120872057214505, y=-29.286389176826802]
+adj = -23.550500411004233
+hyp = 23.561239030093912
+angle before accounting for quadrants = 178.27006700153552
+angle = 358.2700670015355
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-9.379147525974476, y=-29.813294118693445]
+new enemy position = Vector[x=-9.282140979565979, y=-29.322794648812085]
+adj = -24.021866895678908
+hyp = 24.056242124835016
+angle before accounting for quadrants = 176.93663837806488
+angle = 183.06336162193512
+angle of plane = 210.0
+steer value = -1.0
+original enemy position = Vector[x=-6.983968601433229, y=-29.843628177214995]
+new enemy position = Vector[x=-6.93572818092496, y=-29.34596075631105]
+adj = -23.143301328563915
+hyp = 23.143955699063046
+angle before accounting for quadrants = 179.56914442701185
+angle = 180.43085557298815
+angle of plane = 330.0
+steer value = -1.0
+original enemy position = Vector[x=-19.278255276643513, y=-30.193936558787552]
+new enemy position = Vector[x=-18.91163713875205, y=-29.853949587023934]
+adj = -30.285639834817527
+hyp = 30.295851167647307
+angle before accounting for quadrants = 178.51235445500552
+angle = 358.5123544550055
+angle of plane = 210.90000000000003
+steer value = 1.0
+COUNTER = 32
+original enemy position = Vector[x=-11.790966102359988, y=-29.292537942329417]
+new enemy position = Vector[x=-11.783131563257658, y=-28.79259932610033]
+adj = -17.4214273323729
+hyp = 17.422191870268747
+angle before accounting for quadrants = 179.46323111783045
+angle = 180.53676888216955
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=-14.220987216981568, y=-29.282923360885867]
+new enemy position = Vector[x=-14.336832573063331, y=-28.79652861022105]
+adj = -22.29745683358662
+hyp = 22.338116503794183
+angle before accounting for quadrants = 176.54250009193973
+angle = 183.45749990806027
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-10.131977721458288, y=-29.275562451259542]
+new enemy position = Vector[x=-10.162304138246931, y=-28.776482990206734]
+adj = -22.712372226261692
+hyp = 22.714672390869307
+angle before accounting for quadrants = 179.1846059936646
+angle = 180.8153940063354
+angle of plane = 195.0
+steer value = -0.95
+original enemy position = Vector[x=-4.67751848960061, y=-29.282707759645817]
+new enemy position = Vector[x=-4.657300736605672, y=-28.78311668440144]
+adj = -21.36640840853545
+hyp = 21.37278906423021
+angle before accounting for quadrants = 178.59992761136897
+angle = 358.59992761136897
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-18.908707884626267, y=-29.857145138193648]
+new enemy position = Vector[x=-18.536249757720093, y=-29.523566146496712]
+adj = -28.71650552864099
+hyp = 28.84549113441411
+angle before accounting for quadrants = 174.57960107194228
+angle = 354.5796010719423
+angle of plane = 225.90000000000003
+steer value = 1.0
+COUNTER = 33
+original enemy position = Vector[x=-10.166267036180988, y=-28.776744864206236]
+new enemy position = Vector[x=-10.204517806544537, y=-28.278210132651257]
+adj = -15.3248588761867
+hyp = 15.32618155963899
+angle before accounting for quadrants = 179.24724832465625
+angle = 359.24724832465625
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=-10.166267036180988, y=-28.776744864206236]
+new enemy position = Vector[x=-10.204517806544537, y=-28.278210132651257]
+adj = -21.015955345204965
+hyp = 21.037085888556952
+angle before accounting for quadrants = 177.43175452719686
+angle = 357.43175452719686
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-11.848676606108583, y=-28.797333181528526]
+new enemy position = Vector[x=-11.9712642099164, y=-28.312593788253483]
+adj = -21.975164052294133
+hyp = 21.97571898415238
+angle before accounting for quadrants = 179.5928196355609
+angle = 180.4071803644391
+angle of plane = 180.75000000000017
+steer value = -0.02
+original enemy position = Vector[x=-2.3709563367023625, y=-28.736953959799795]
+new enemy position = Vector[x=-2.644812623918882, y=-28.318620678847893]
+adj = -19.68786355486305
+hyp = 19.710892039921905
+angle before accounting for quadrants = 177.23012948914933
+angle = 357.23012948914936
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-20.643407289524585, y=-29.479912731927364]
+new enemy position = Vector[x=-20.549322005142503, y=-28.988844550039406]
+adj = -26.580730408486314
+hyp = 26.648607247589066
+angle before accounting for quadrants = 175.90971656826838
+angle = 355.9097165682684
+angle of plane = 240.90000000000003
+steer value = 1.0
+COUNTER = 34
+original enemy position = Vector[x=-10.150075187696446, y=-28.277997669304884]
+new enemy position = Vector[x=-10.079569143018505, y=-27.782993732286325]
+adj = -13.247463213084641
+hyp = 13.277175258598874
+angle before accounting for quadrants = 176.16617676544703
+angle = 183.83382323455297
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=-10.150075187696446, y=-28.277997669304884]
+new enemy position = Vector[x=-10.079569143018505, y=-27.782993732286325]
+adj = -19.75755593402817
+hyp = 19.77274528435509
+angle before accounting for quadrants = 177.7540424186493
+angle = 182.2459575813507
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-14.39203461083637, y=-28.30044343650244]
+new enemy position = Vector[x=-14.392817454306588, y=-27.800444049346716]
+adj = -21.44207076907903
+hyp = 21.44985535791537
+angle before accounting for quadrants = 178.45632304348655
+angle = 181.54367695651345
+angle of plane = 180.45000000000002
+steer value = 0.07
+original enemy position = Vector[x=-2.618181595936193, y=-28.30272028614841]
+new enemy position = Vector[x=-2.838140883351527, y=-27.85370145371514]
+adj = -18.459761318918435
+hyp = 18.491520134241068
+angle before accounting for quadrants = 176.64149772306303
+angle = 183.35850227693697
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-20.520596911081242, y=-28.995529016804735]
+new enemy position = Vector[x=-20.36934658415926, y=-28.518954428092755]
+adj = -24.25659325656816
+hyp = 24.41937980400698
+angle before accounting for quadrants = 173.38056186172457
+angle = 353.3805618617246
+angle of plane = 255.90000000000003
+steer value = 1.0
+COUNTER = 35
+original enemy position = Vector[x=-10.032512338906546, y=-27.792808927620744]
+new enemy position = Vector[x=-9.868619027836015, y=-27.320433036421438]
+adj = -11.202723254482624
+hyp = 11.361175987094102
+angle before accounting for quadrants = 170.41963837307716
+angle = 189.58036162692284
+angle of plane = 300.0
+steer value = -1.0
+original enemy position = Vector[x=-10.032512338906546, y=-27.792808927620744]
+new enemy position = Vector[x=-9.868619027836015, y=-27.320433036421438]
+adj = -18.53181222735142
+hyp = 18.687399695273946
+angle before accounting for quadrants = 172.6013534425263
+angle = 187.3986465574737
+angle of plane = 330.0
+steer value = -1.0
+original enemy position = Vector[x=-14.273635123490587, y=-27.81971763599425]
+new enemy position = Vector[x=-14.040734703623675, y=-27.377272843476792]
+adj = -20.98486776156848
+hyp = 21.0597126039721
+angle before accounting for quadrants = 175.16806532385925
+angle = 355.16806532385925
+angle of plane = 181.49999999999991
+steer value = 1.0
+original enemy position = Vector[x=0.6762266920725669, y=-28.08005213122047]
+new enemy position = Vector[x=0.40456763738766244, y=-27.660288676394178]
+adj = -17.50316553078561
+hyp = 17.5060345568763
+angle before accounting for quadrants = 178.96267004345424
+angle = 358.96267004345424
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-20.430877898677142, y=-28.504997019019385]
+new enemy position = Vector[x=-20.40364704548667, y=-28.0057390890528]
+adj = -21.762301252087028
+hyp = 21.969453804200864
+angle before accounting for quadrants = 172.12564505837796
+angle = 352.1256450583779
+angle of plane = 270.90000000000003
+steer value = 1.0
+COUNTER = 36
+original enemy position = Vector[x=-7.888375281170656, y=-27.530249667481524]
+new enemy position = Vector[x=-7.774577514885332, y=-27.043371789170678]
+adj = -9.083175231957139
+hyp = 9.100420985420932
+angle before accounting for quadrants = 176.47209742541474
+angle = 183.52790257458526
+angle of plane = 285.0
+steer value = -1.0
+original enemy position = Vector[x=-3.8893986561887615, y=-27.359252355186932]
+new enemy position = Vector[x=-3.746403942706219, y=-26.880135968579204]
+adj = -16.87746631139033
+hyp = 17.011795855425234
+angle before accounting for quadrants = 172.79499130844363
+angle = 352.7949913084436
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=-14.84725039315857, y=-27.530300414784186]
+new enemy position = Vector[x=-14.8157595176573, y=-27.03129307539912]
+adj = -20.326911785672518
+hyp = 20.54254574502853
+angle before accounting for quadrants = 171.69098184701167
+angle = 351.6909818470117
+angle of plane = 196.49999999999991
+steer value = 1.0
+original enemy position = Vector[x=1.2371222491457472, y=-27.707193788885355]
+new enemy position = Vector[x=0.9048669985861224, y=-27.333554325665045]
+adj = -16.413248169244618
+hyp = 16.445238694648676
+angle before accounting for quadrants = 176.42563702384473
+angle = 183.57436297615527
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-20.27712790933093, y=-28.03520844447312]
+new enemy position = Vector[x=-20.003916333717964, y=-27.616453820676462]
+adj = -19.400116783665666
+hyp = 19.649120831955692
+angle before accounting for quadrants = 170.8687764369717
+angle = 350.8687764369717
+angle of plane = 285.90000000000003
+steer value = 1.0
+COUNTER = 37
+original enemy position = Vector[x=-7.759708372686602, y=-27.047169637806604]
+new enemy position = Vector[x=-7.616253151984134, y=-26.568190933005226]
+adj = -6.630762516860969
+hyp = 6.663724274643541
+angle before accounting for quadrants = 174.29883667043862
+angle = 185.70116332956138
+angle of plane = 270.0
+steer value = -1.0
+original enemy position = Vector[x=-3.875441533586838, y=-26.865141474182636]
+new enemy position = Vector[x=-3.9911626724079428, y=-26.378717155269666]
+adj = -15.16199864996194
+hyp = 15.165099939403865
+angle before accounting for quadrants = 178.84123987043694
+angle = 358.84123987043694
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-17.50609913964523, y=-27.476983397261538]
+new enemy position = Vector[x=-17.1546887230619, y=-27.121299943729145]
+adj = -19.605766485873257
+hyp = 19.758450881801753
+angle before accounting for quadrants = 172.87247780473245
+angle = 352.87247780473245
+angle of plane = 211.49999999999991
+steer value = 1.0
+original enemy position = Vector[x=5.405960341222806, y=-27.06373139351805]
+new enemy position = Vector[x=5.208428828506488, y=-26.60440438420551]
+adj = -14.920915216973217
+hyp = 14.989838982279535
+angle before accounting for quadrants = 174.5034498773875
+angle = 354.50344987738754
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-19.909082225452405, y=-27.705234599181473]
+new enemy position = Vector[x=-19.463096748465276, y=-27.479188244827853]
+adj = -17.43257929328118
+hyp = 17.666767693734663
+angle before accounting for quadrants = 170.66052019493495
+angle = 350.660520194935
+angle of plane = 300.90000000000003
+steer value = 1.0
+COUNTER = 38
+original enemy position = Vector[x=-9.499329507528293, y=-26.42296206987941]
+new enemy position = Vector[x=-9.636731776817115, y=-25.942212013827117]
+adj = -4.027551738752145
+hyp = 4.699782998640611
+angle before accounting for quadrants = 148.97755433618585
+angle = 211.02244566381415
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=-3.861484410984916, y=-26.371030593178336]
+new enemy position = Vector[x=-3.718489697502373, y=-25.891914206570608]
+adj = -13.912012690451022
+hyp = 13.969237705970118
+angle before accounting for quadrants = 174.8120879507827
+angle = 185.1879120492173
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-19.997072979365345, y=-27.33734121369761]
+new enemy position = Vector[x=-19.64752318929505, y=-26.97982905409767]
+adj = -18.20924614756718
+hyp = 18.27163271537367
+angle before accounting for quadrants = 175.26392962434926
+angle = 355.26392962434926
+angle of plane = 226.49999999999991
+steer value = 1.0
+original enemy position = Vector[x=5.256429744520672, y=-26.587520564981713]
+new enemy position = Vector[x=5.155935584821127, y=-26.097723746018705]
+adj = -13.651051567974552
+hyp = 13.658771626953504
+angle before accounting for quadrants = 178.07352855897273
+angle = 181.92647144102727
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-19.997072979365345, y=-27.33734121369761]
+new enemy position = Vector[x=-19.64752318929505, y=-26.97982905409767]
+adj = -15.370305479832533
+hyp = 15.437972684050582
+angle before accounting for quadrants = 174.63350940586847
+angle = 354.6335094058685
+angle of plane = 315.90000000000003
+steer value = 1.0
+COUNTER = 39
+original enemy position = Vector[x=-5.778838923969891, y=-26.47405606597109]
+new enemy position = Vector[x=-6.236137116375589, y=-26.27187208237575]
+adj = -2.5147250320260532
+hyp = 3.058941933919503
+angle before accounting for quadrants = 145.2945435075782
+angle = 325.29454350757817
+angle of plane = 240.0
+steer value = 1.0
+original enemy position = Vector[x=0.008894762973409985, y=-26.2413244517217]
+new enemy position = Vector[x=-0.27283890505626573, y=-25.828255280397396]
+adj = -13.085170753465947
+hyp = 13.089588027782034
+angle before accounting for quadrants = 178.5114478982579
+angle = 358.51144789825787
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-19.754755094519997, y=-26.90650202480894]
+new enemy position = Vector[x=-19.63079217623157, y=-26.42211251739841]
+adj = -16.038112427507876
+hyp = 16.26339103147873
+angle before accounting for quadrants = 170.4523905504138
+angle = 350.45239055041384
+angle of plane = 241.49999999999991
+steer value = 1.0
+original enemy position = Vector[x=5.285790491556218, y=-26.094085350863704]
+new enemy position = Vector[x=5.443658405805947, y=-25.619661783099158]
+adj = -12.409806594243141
+hyp = 12.572160263845886
+angle before accounting for quadrants = 170.7820954866219
+angle = 189.2179045133781
+angle of plane = 330.0
+steer value = -1.0
+original enemy position = Vector[x=-17.83865061705725, y=-26.692516568197153]
+new enemy position = Vector[x=-17.51351589856193, y=-26.312664735466324]
+adj = -13.514093878999864
+hyp = 13.657909664339819
+angle before accounting for quadrants = 171.67794432715525
+angle = 351.6779443271553
+angle of plane = 330.90000000000003
+steer value = 1.0
+COUNTER = 40
+original enemy position = Vector[x=-6.1637931829043024, y=-26.16397449198381]
+new enemy position = Vector[x=-6.45873304283467, y=-25.76022892974906]
+adj = -0.1605951041246385
+hyp = 2.287862981702426
+angle before accounting for quadrants = 94.02515134772771
+angle = 274.02515134772773
+angle of plane = 255.0
+steer value = 1.0
+original enemy position = Vector[x=-0.15444797685603381, y=-25.77478451415667]
+new enemy position = Vector[x=-0.19190190480895442, y=-25.2761892842548]
+adj = -11.769921746511491
+hyp = 11.855453323692442
+angle before accounting for quadrants = 173.11342571286778
+angle = 186.88657428713222
+angle of plane = 345.0
+steer value = -1.0
+original enemy position = Vector[x=-19.760321244896947, y=-26.4122253998628]
+new enemy position = Vector[x=-19.89516096223718, y=-25.930750321974436]
+adj = -13.684917028786458
+hyp = 14.042297683271734
+angle before accounting for quadrants = 167.04583371691697
+angle = 347.04583371691695
+angle of plane = 256.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=8.596296910974983, y=-26.043176829516508]
+new enemy position = Vector[x=8.82077598805382, y=-25.596400438070145]
+adj = -11.172496401095271
+hyp = 11.174642418574292
+angle before accounting for quadrants = 178.87709144442377
+angle = 181.12290855557623
+angle of plane = 315.0
+steer value = -1.0
+original enemy position = Vector[x=-14.72696410919893, y=-25.624232781929734]
+new enemy position = Vector[x=-14.69547323369766, y=-25.125225442544668]
+adj = -11.592506251682506
+hyp = 11.95965470897724
+angle before accounting for quadrants = 165.76634284285703
+angle = 345.76634284285706
+angle of plane = 345.90000000000003
+steer value = -0.01
+COUNTER = 41
+original enemy position = Vector[x=-6.5487474418387155, y=-25.853892917996532]
+new enemy position = Vector[x=-7.006045634244414, y=-25.651708934401192]
+adj = 1.9251567501539455
+hyp = 2.7725636943749263
+angle before accounting for quadrants = 46.023777161237156
+angle = 46.023777161237156
+angle of plane = 270.0
+steer value = 1.0
+original enemy position = Vector[x=5.525519706043663, y=-25.124221647563328]
+new enemy position = Vector[x=5.679984543581042, y=-24.648679205751293]
+adj = -10.37922865719612
+hyp = 10.701842381756133
+angle before accounting for quadrants = 165.89585184089276
+angle = 345.89585184089276
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=-19.765887395273896, y=-25.917948774916653]
+new enemy position = Vector[x=-19.64192447698547, y=-25.433559267506123]
+adj = -11.204357607063168
+hyp = 11.771435749756257
+angle before accounting for quadrants = 162.14320756954726
+angle = 342.14320756954726
+angle of plane = 271.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=8.719959886837792, y=-25.56263127262018]
+new enemy position = Vector[x=8.739029414758269, y=-25.062995051850617]
+adj = -9.056911752138614
+hyp = 9.182713673599581
+angle before accounting for quadrants = 170.50504718875794
+angle = 189.49495281124206
+angle of plane = 300.0
+steer value = -1.0
+original enemy position = Vector[x=-14.638949257609486, y=-25.133146002670937]
+new enemy position = Vector[x=-14.49517792440709, y=-24.654262087980534]
+adj = -10.63177431256828
+hyp = 10.699482785850167
+angle before accounting for quadrants = 173.5507822578048
+angle = 353.5507822578048
+angle of plane = 345.75000000000017
+steer value = 0.52
+COUNTER = 42
+original enemy position = Vector[x=-7.037168396364567, y=-25.77783152714529]
+new enemy position = Vector[x=-7.534292239890276, y=-25.831384157316236]
+adj = 3.722713386169616
+hyp = 3.9133903776840695
+angle before accounting for quadrants = 17.959305803985078
+angle = 17.959305803985078
+angle of plane = 285.0
+steer value = 1.0
+original enemy position = Vector[x=5.551344464950155, y=-24.63058874162452]
+new enemy position = Vector[x=5.447343717342945, y=-24.141524487668928]
+adj = -9.108890928301893
+hyp = 9.124457245907559
+angle before accounting for quadrants = 176.6527448757022
+angle = 356.6527448757022
+angle of plane = 345.0
+steer value = 0.78
+original enemy position = Vector[x=-19.52356951042855, y=-25.487109586027984]
+new enemy position = Vector[x=-19.174019720358256, y=-25.129597426428045]
+adj = -8.930655511329807
+hyp = 9.692041325035872
+angle before accounting for quadrants = 157.13783514332448
+angle = 337.1378351433245
+angle of plane = 286.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=8.610326710353682, y=-25.080634456642965]
+new enemy position = Vector[x=8.377023295586211, y=-24.638402032845438]
+adj = -6.789831957858709
+hyp = 7.285004629597495
+angle before accounting for quadrants = 158.7532620757776
+angle = 201.2467379242224
+angle of plane = 285.0
+steer value = -1.0
+original enemy position = Vector[x=-14.428312975037981, y=-24.681604646842747]
+new enemy position = Vector[x=-14.15376079969007, y=-24.26372774749112]
+adj = -9.882195880534375
+hyp = 9.891233209391407
+angle before accounting for quadrants = 177.55056722399138
+angle = 182.44943277600862
+angle of plane = 353.5499999999999
+steer value = -1.0
+COUNTER = 43
+original enemy position = Vector[x=-5.649203565645351, y=-26.8463911046878]
+new enemy position = Vector[x=-6.034169696313047, y=-27.16545391705982]
+adj = 4.2311304017007565
+hyp = 4.656183536888013
+angle before accounting for quadrants = 24.6720219366727
+angle = 24.6720219366727
+angle of plane = 300.0
+steer value = 1.0
+original enemy position = Vector[x=5.3268929092403825, y=-24.190177725484336]
+new enemy position = Vector[x=4.992293492822168, y=-23.818636031279514]
+adj = -8.468515389116385
+hyp = 8.677602648472837
+angle before accounting for quadrants = 167.39689825806383
+angle = 192.60310174193617
+angle of plane = 356.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-19.281251625583202, y=-25.056270397139315]
+new enemy position = Vector[x=-19.157288707294775, y=-24.571880889728785]
+adj = -6.551061375780044
+hyp = 7.193314080789581
+angle before accounting for quadrants = 155.6043921502941
+angle = 335.6043921502941
+angle of plane = 301.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=8.274383186432248, y=-24.71802955770553]
+new enemy position = Vector[x=7.8512202905551955, y=-24.45169675170344]
+adj = -4.625894817785994
+hyp = 5.756472287108253
+angle before accounting for quadrants = 143.4751597819974
+angle = 216.5248402180026
+angle of plane = 270.0
+steer value = -1.0
+original enemy position = Vector[x=-13.267957562286291, y=-24.27861518072094]
+new enemy position = Vector[x=-13.13243040114469, y=-23.797333154677066]
+adj = -8.935026905560271
+hyp = 9.034485766890347
+angle before accounting for quadrants = 171.4904443843351
+angle = 188.5095556156649
+angle of plane = 338.5499999999999
+steer value = -1.0
+COUNTER = 44
+original enemy position = Vector[x=-6.070291200103501, y=-27.113502953714793]
+new enemy position = Vector[x=-6.52298369086709, y=-27.32579875868102]
+adj = 5.6529648228166955
+hyp = 5.658088513702688
+angle before accounting for quadrants = 2.4385238101341242
+angle = 2.4385238101341242
+angle of plane = 315.0
+steer value = 1.0
+original enemy position = Vector[x=7.938439662510817, y=-24.355424658768097]
+new enemy position = Vector[x=7.705136247743345, y=-23.91319223497057]
+adj = -8.189378289829559
+hyp = 8.268281532203456
+angle before accounting for quadrants = 172.07820860987232
+angle = 187.92179139012768
+angle of plane = 341.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-19.151885389873613, y=-24.573306664147438]
+new enemy position = Vector[x=-19.01712661029356, y=-24.091808926534796]
+adj = -4.521132417106891
+hyp = 4.887342650939579
+angle before accounting for quadrants = 157.67886185827462
+angle = 337.6788618582746
+angle of plane = 316.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=7.938439662510817, y=-24.355424658768097]
+new enemy position = Vector[x=7.705136247743345, y=-23.91319223497057]
+adj = -2.110158442122408
+hyp = 3.9269844600711594
+angle before accounting for quadrants = 122.50330824515537
+angle = 237.49669175484462
+angle of plane = 255.0
+steer value = -1.0
+original enemy position = Vector[x=-12.433436032026233, y=-23.97861662374231]
+new enemy position = Vector[x=-12.160016546852408, y=-23.559997721723686]
+adj = -7.732361399738204
+hyp = 8.014961793071548
+angle before accounting for quadrants = 164.73988935721144
+angle = 195.26011064278856
+angle of plane = 323.5499999999999
+steer value = -1.0
+COUNTER = 45
+original enemy position = Vector[x=-6.448259999604702, y=-27.43206213283508]
+new enemy position = Vector[x=-6.7341552942253085, y=-27.842261938434497]
+adj = 6.350550491182084
+hyp = 6.5375913848264995
+angle before accounting for quadrants = 13.73845625541766
+angle = 103.73845625541766
+angle of plane = 330.0
+steer value = 1.0
+original enemy position = Vector[x=7.828806486026707, y=-23.873427842790882]
+new enemy position = Vector[x=7.847876013947184, y=-23.37379162202132]
+adj = -6.7819992050528555
+hyp = 7.334335681606268
+angle before accounting for quadrants = 157.62190925435502
+angle = 202.37809074564498
+angle of plane = 326.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-18.899998141637244, y=-24.14799127743532]
+new enemy position = Vector[x=-18.542544746331608, y=-23.798381394588063]
+adj = -3.055488686034458
+hyp = 3.1385703341154834
+angle before accounting for quadrants = 166.78744049094374
+angle = 346.7874404909437
+angle of plane = 331.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=7.828806486026707, y=-23.873427842790882]
+new enemy position = Vector[x=7.847876013947184, y=-23.37379162202132]
+adj = 0.27172894610156817
+hyp = 2.4212365149061132
+angle before accounting for quadrants = 83.55627175571047
+angle = 173.55627175571047
+angle of plane = 240.0
+steer value = -1.0
+original enemy position = Vector[x=-6.450476121604796, y=-24.01955382557196]
+new enemy position = Vector[x=-6.38828632524074, y=-23.52343647128147]
+adj = -6.311700034901289
+hyp = 6.692862143228911
+angle before accounting for quadrants = 160.57014661451623
+angle = 340.57014661451626
+angle of plane = 308.5499999999999
+steer value = 1.0
+COUNTER = 46
+original enemy position = Vector[x=-1.9019854582918045, y=-28.055423251857707]
+new enemy position = Vector[x=-2.387583891686023, y=-28.174562504352764]
+adj = 6.7814329360756815
+hyp = 6.847855826822196
+angle before accounting for quadrants = 7.986764630819341
+angle = 7.986764630819341
+angle of plane = 345.0
+steer value = 1.0
+original enemy position = Vector[x=7.719173309542597, y=-23.391431026813667]
+new enemy position = Vector[x=7.485869894775126, y=-22.94919860301614]
+adj = -5.0542938438234515
+hyp = 6.877398265717017
+angle before accounting for quadrants = 137.29991992420705
+angle = 222.70008007579295
+angle of plane = 311.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-18.46919969241913, y=-23.905600972040407]
+new enemy position = Vector[x=-17.98483102999182, y=-23.7815566297334]
+adj = -2.323973115199127
+hyp = 2.39690045595612
+angle before accounting for quadrants = 165.83015314244454
+angle = 194.16984685755546
+angle of plane = 346.4999999999999
+steer value = -1.0
+original enemy position = Vector[x=7.603271936096649, y=-24.380384231977317]
+new enemy position = Vector[x=7.509322334606139, y=-23.889290073612777]
+adj = 1.3384097572472413
+hyp = 2.0331265477720053
+angle before accounting for quadrants = 48.82955485741725
+angle = 138.82955485741724
+angle of plane = 225.0
+steer value = -1.0
+original enemy position = Vector[x=-6.398247938015705, y=-23.522322768328007]
+new enemy position = Vector[x=-6.355995362367403, y=-23.02411124713336]
+adj = -4.4282746963584785
+hyp = 4.5040859724359885
+angle before accounting for quadrants = 169.47281525091822
+angle = 349.4728152509182
+angle of plane = 323.5499999999999
+steer value = 1.0
+COUNTER = 47
+original enemy position = Vector[x=-2.3352133305141205, y=-28.293444206245955]
+new enemy position = Vector[x=-2.6961842836239107, y=-28.63942104219167]
+adj = 6.576881910774382
+hyp = 6.710878932328929
+angle before accounting for quadrants = 11.468874368480458
+angle = 101.46887436848046
+angle of plane = 0.0
+steer value = 1.0
+original enemy position = Vector[x=11.967322797010116, y=-26.252315691571876]
+new enemy position = Vector[x=11.56631428322615, y=-26.550966276491405]
+adj = -7.006620257305336
+hyp = 7.210966219889301
+angle before accounting for quadrants = 166.32728078367495
+angle = 193.67271921632505
+angle of plane = 296.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-17.974922138787853, y=-23.9110840345464]
+new enemy position = Vector[x=-17.49342440117521, y=-24.045842814126452]
+adj = -1.8735684936115007
+hyp = 2.7093940957541336
+angle before accounting for quadrants = 133.7496224477525
+angle = 226.2503775522475
+angle of plane = 331.4999999999999
+steer value = -1.0
+original enemy position = Vector[x=6.003065991931199, y=-25.923312786250552]
+new enemy position = Vector[x=6.297797362544816, y=-26.32721056932966]
+adj = 0.11453810964921018
+hyp = 1.1654330580852528
+angle before accounting for quadrants = 84.35989835609517
+angle = 174.3598983560952
+angle of plane = 210.0
+steer value = -1.0
+original enemy position = Vector[x=-5.059492962223399, y=-23.10063654241575]
+new enemy position = Vector[x=-4.890213069510581, y=-22.63016410122165]
+adj = -3.0689974775780904
+hyp = 3.1167680032903657
+angle before accounting for quadrants = 169.95565391846853
+angle = 349.95565391846856
+angle of plane = 338.5499999999999
+steer value = 0.76
+COUNTER = 48
+original enemy position = Vector[x=-0.10556453568089635, y=-27.97998366295341]
+new enemy position = Vector[x=-0.0476707657995964, y=-28.476620664604443]
+adj = 6.479374775823988
+hyp = 6.513215200168372
+angle before accounting for quadrants = 5.843136514255597
+angle = 95.84313651425559
+angle of plane = 15.0
+steer value = 1.0
+original enemy position = Vector[x=11.660804384730682, y=-26.640113096065342]
+new enemy position = Vector[x=11.462846117119689, y=-27.099256346352718]
+adj = -5.671546845442094
+hyp = 6.183595705436811
+angle before accounting for quadrants = 156.51901771016787
+angle = 203.48098228983213
+angle of plane = 281.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-16.25896970407238, y=-24.736353851175522]
+new enemy position = Vector[x=-15.883943199392823, y=-24.405664993202]
+adj = -1.0611744735613513
+hyp = 2.229814135272559
+angle before accounting for quadrants = 118.41813827484756
+angle = 241.58186172515244
+angle of plane = 316.4999999999999
+steer value = -1.0
+original enemy position = Vector[x=-4.897987256521073, y=-22.627462865777968]
+new enemy position = Vector[x=-4.744284912202177, y=-22.15167342773749]
+adj = -2.0485209451879918
+hyp = 2.3905616095578783
+angle before accounting for quadrants = 148.97254125601685
+angle = 211.02745874398315
+angle of plane = 349.94999999999976
+steer value = -1.0
+COUNTER = 49
+original enemy position = Vector[x=-0.07341723044352448, y=-28.47872614171486]
+new enemy position = Vector[x=-0.06707364022202361, y=-28.97868589895848]
+adj = 5.214126530658078
+hyp = 5.793322531978853
+angle before accounting for quadrants = 25.8388411523947
+angle = 115.8388411523947
+angle of plane = 30.0
+steer value = 1.0
+original enemy position = Vector[x=11.479117383864855, y=-27.1058245845627]
+new enemy position = Vector[x=11.313850877986257, y=-27.577721800102992]
+adj = -4.161074704610844
+hyp = 4.992587539169236
+angle before accounting for quadrants = 146.45483930538722
+angle = 213.54516069461278
+angle of plane = 266.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-15.816231543932725, y=-24.516528271330223]
+new enemy position = Vector[x=-15.326104634800982, y=-24.417656571916467]
+adj = 0.4766909432033479
+hyp = 2.7007297709038616
+angle before accounting for quadrants = 79.83377770701219
+angle = 169.8337777070122
+angle of plane = 301.4999999999999
+steer value = -1.0
+original enemy position = Vector[x=-2.9414531692963686, y=-22.766643504861552]
+new enemy position = Vector[x=-2.7020939748912025, y=-22.32765924995745]
+adj = -1.6231516297625816
+hyp = 1.9560082603127456
+angle before accounting for quadrants = 146.08113686406887
+angle = 213.91886313593113
+angle of plane = 334.94999999999976
+steer value = -1.0
+COUNTER = 50
+original enemy position = Vector[x=-0.19528556639805264, y=-28.957775693107866]
+new enemy position = Vector[x=-0.43977173473684517, y=-29.393925338861493]
+adj = 3.584838242636202
+hyp = 5.7376033510203985
+angle before accounting for quadrants = 51.332699378734894
+angle = 141.3326993787349
+angle of plane = 45.0
+steer value = 1.0
+original enemy position = Vector[x=11.200553913811108, y=-27.514166055821466]
+new enemy position = Vector[x=10.821480313555407, y=-27.8402077795152]
+adj = -2.4645917867805203
+hyp = 3.7887353972191407
+angle before accounting for quadrants = 130.5796968399023
+angle = 229.4203031600977
+angle of plane = 251.6999999999996
+steer value = -1.0
+original enemy position = Vector[x=-15.31873659027066, y=-24.49671129775367]
+new enemy position = Vector[x=-14.82229825815118, y=-24.55628463409157]
+adj = 2.1599404798787525
+hyp = 3.6688640089130518
+angle before accounting for quadrants = 53.93363941798453
+angle = 143.93363941798452
+angle of plane = 286.4999999999999
+steer value = -1.0
+original enemy position = Vector[x=-0.21350885623204197, y=-23.386819120840254]
+new enemy position = Vector[x=0.10155058797282357, y=-22.998569785210016]
+adj = -1.2210617606413798
+hyp = 1.2214583068468878
+angle before accounting for quadrants = 178.5399862160034
+angle = 358.5399862160034
+angle of plane = 319.94999999999976
+steer value = 1.0
+COUNTER = 51
+original enemy position = Vector[x=-0.3171539023525826, y=-29.436825244500877]
+new enemy position = Vector[x=-0.31081031213108173, y=-29.9367850017445]
+adj = 1.4597993170160457
+hyp = 5.753217059042533
+angle before accounting for quadrants = 75.30128923727452
+angle = 165.30128923727452
+angle of plane = 60.0
+steer value = 1.0
+original enemy position = Vector[x=10.755140136548832, y=-27.728518408323406]
+new enemy position = Vector[x=10.2638319069765, y=-27.821342023607997]
+adj = -0.6502263239676829
+hyp = 2.6482863709000997
+angle before accounting for quadrants = 104.21299144015406
+angle = 255.78700855984596
+angle of plane = 236.6999999999996
+steer value = 1.0
+original enemy position = Vector[x=-6.691725151613241, y=-30.286486872565806]
+new enemy position = Vector[x=-6.479429346647014, y=-30.739179363329395]
+adj = -2.053213994703789
+hyp = 5.46554038498371
+angle before accounting for quadrants = 112.06543983204548
+angle = 292.0654398320455
+angle of plane = 271.4999999999999
+steer value = 1.0
+original enemy position = Vector[x=-0.008121758520325173, y=-22.93681335791458]
+new enemy position = Vector[x=0.07875354338794284, y=-22.444418514401423]
+adj = 0.40608991454098486
+hyp = 1.7212976436252727
+angle before accounting for quadrants = 76.35409310035048
+angle = 166.3540931003505
+angle of plane = 334.94999999999976
+steer value = -1.0
+COUNTER = 52
+original enemy position = Vector[x=10.135648932997272, y=-28.67867085735662]
+new enemy position = Vector[x=9.86797771720637, y=-29.10098841587985]
+adj = 0.4531091276059378
+hyp = 3.8772379022051475
+angle before accounting for quadrants = 83.2888565719528
+angle = 83.2888565719528
+angle of plane = 75.0
+steer value = 0.55
+original enemy position = Vector[x=10.135648932997272, y=-28.67867085735662]
+new enemy position = Vector[x=9.86797771720637, y=-29.10098841587985]
+adj = -0.13437300933390262
+hyp = 2.0994019675534323
+angle before accounting for quadrants = 93.66974637858065
+angle = 266.33025362141933
+angle of plane = 251.6999999999996
+steer value = 0.98
+original enemy position = Vector[x=-6.604829209636955, y=-30.77309704433189]
+new enemy position = Vector[x=-6.647321894801131, y=-31.271288143918724]
+adj = -0.6155825206378367
+hyp = 4.626486693929185
+angle before accounting for quadrants = 97.64623161189371
+angle = 277.6462316118937
+angle of plane = 286.4999999999999
+steer value = -0.59
+original enemy position = Vector[x=5.323865705652326, y=-21.48151721759873]
+new enemy position = Vector[x=5.059993348736385, y=-21.056815699758697]
+adj = 2.8666931335574795
+hyp = 3.2964638048562147
+angle before accounting for quadrants = 29.584704621729948
+angle = 29.584704621729948
+angle of plane = 319.94999999999976
+steer value = 1.0
+COUNTER = 53
+original enemy position = Vector[x=9.853882842734368, y=-27.41288263226615]
+new enemy position = Vector[x=9.527841119040634, y=-27.03380903201045]
+adj = 0.5579025399129733
+hyp = 3.1828040523511563
+angle before accounting for quadrants = 79.90466971589981
+angle = 79.90466971589981
+angle of plane = 83.24999999999996
+steer value = -0.22
+original enemy position = Vector[x=9.771982245549886, y=-29.013464681133602]
+new enemy position = Vector[x=9.329013393551485, y=-29.245366807383487]
+adj = 1.6794541452054617
+hyp = 2.8118472071164176
+angle before accounting for quadrants = 53.324811916669965
+angle = 143.32481191666997
+angle of plane = 266.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-6.772880202282754, y=-31.23796178580938]
+new enemy position = Vector[x=-7.05877549690336, y=-31.648161591408794]
+adj = 0.9613496155522085
+hyp = 3.8770082878755776
+angle before accounting for quadrants = 75.64307043347151
+angle = 75.64307043347151
+angle of plane = 277.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=4.963216671271087, y=-21.143474856350828]
+new enemy position = Vector[x=4.522345747905392, y=-20.90760873133352]
+adj = 4.088900506356428
+hyp = 4.1314171514541185
+angle before accounting for quadrants = 8.226985853902612
+angle = 98.22698585390262
+angle of plane = 334.94999999999976
+steer value = 1.0
+COUNTER = 54
+original enemy position = Vector[x=9.289640743821831, y=-29.1215712938309]
+new enemy position = Vector[x=8.790067401781043, y=-29.10092000035573]
+adj = -3.4874796309492133
+hyp = 4.072807371286055
+angle before accounting for quadrants = 148.90187211595637
+angle = 328.9018721159564
+angle of plane = 79.94999999999997
+steer value = -1.0
+original enemy position = Vector[x=9.289640743821831, y=-29.1215712938309]
+new enemy position = Vector[x=8.790067401781043, y=-29.10092000035573]
+adj = 3.7808863517963687
+hyp = 4.483766272162604
+angle before accounting for quadrants = 32.51625828317589
+angle = 122.51625828317589
+angle of plane = 251.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-6.940931194928555, y=-31.702826527286867]
+new enemy position = Vector[x=-6.98342388009273, y=-32.2010176268737]
+adj = 2.333475091459981
+hyp = 4.049903852899822
+angle before accounting for quadrants = 54.81766395383829
+angle = 54.81766395383829
+angle of plane = 292.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=9.289640743821831, y=-29.1215712938309]
+new enemy position = Vector[x=8.790067401781043, y=-29.10092000035573]
+adj = -3.503055625020412
+hyp = 3.927119569564831
+angle before accounting for quadrants = 153.12774891988587
+angle = 333.1277489198859
+angle of plane = 349.94999999999976
+steer value = -1.0
+COUNTER = 55
+original enemy position = Vector[x=4.008786475436091, y=-21.174356146146017]
+new enemy position = Vector[x=3.58408495759606, y=-21.438228503061957]
+adj = 2.273744584616672
+hyp = 4.345962264300149
+angle before accounting for quadrants = 58.45382563059053
+angle = 148.45382563059053
+angle of plane = 64.94999999999997
+steer value = 1.0
+original enemy position = Vector[x=8.817867443677146, y=-28.97402361587982]
+new enemy position = Vector[x=8.395549885153917, y=-28.706352400088917]
+adj = 5.966384342818138
+hyp = 6.269961302882234
+angle before accounting for quadrants = 17.90225188328417
+angle = 107.90225188328417
+angle of plane = 236.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-7.07569387706241, y=-32.18122067447233]
+new enemy position = Vector[x=-7.2994927506184055, y=-32.6283381804985]
+adj = 3.6306467713951065
+hyp = 4.1413803536100735
+angle before accounting for quadrants = 28.756102751632483
+angle = 28.756102751632483
+angle of plane = 307.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=8.817867443677146, y=-28.97402361587982]
+new enemy position = Vector[x=8.395549885153917, y=-28.706352400088917]
+adj = -2.507132887108231
+hyp = 2.560677399616421
+angle before accounting for quadrants = 168.26245238269988
+angle = 191.73754761730012
+angle of plane = 334.94999999999976
+steer value = -1.0
+COUNTER = 56
+original enemy position = Vector[x=3.6707441141881985, y=-21.535005180527254]
+new enemy position = Vector[x=3.434877989170892, y=-21.975876103892947]
+adj = -0.16537029794223201
+hyp = 4.45734161903719
+angle before accounting for quadrants = 92.12619896536339
+angle = 267.8738010346366
+angle of plane = 79.94999999999997
+steer value = -1.0
+original enemy position = Vector[x=8.483073619900166, y=-28.61035692843243]
+new enemy position = Vector[x=8.25117149365028, y=-28.16738807643403]
+adj = 8.008175101942264
+hyp = 8.04422621806111
+angle before accounting for quadrants = 5.426467151923409
+angle = 95.4264671519234
+angle of plane = 221.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-7.181939058119438, y=-32.66458399930932]
+new enemy position = Vector[x=-7.16626637454022, y=-33.16433830593351]
+adj = 4.501128305848333
+hyp = 4.557047325849105
+angle before accounting for quadrants = 8.985054948009077
+angle = 8.985054948009077
+angle of plane = 322.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=8.483073619900166, y=-28.61035692843243]
+new enemy position = Vector[x=8.25117149365028, y=-28.16738807643403]
+adj = -0.8951681590795744
+hyp = 2.511291230274455
+angle before accounting for quadrants = 110.88278704307757
+angle = 249.11721295692243
+angle of plane = 319.94999999999976
+steer value = -1.0
+COUNTER = 57
+original enemy position = Vector[x=3.3327017529403102, y=-21.895654214908483]
+new enemy position = Vector[x=2.908000235100279, y=-22.159526571824422]
+adj = -2.2504880476015927
+hyp = 6.019058667992524
+angle before accounting for quadrants = 111.95595253810264
+angle = 248.04404746189738
+angle of plane = 64.94999999999997
+steer value = -1.0
+original enemy position = Vector[x=1.634183836215736, y=-31.595173679352598]
+new enemy position = Vector[x=2.065390662981483, y=-31.84827577841662]
+adj = 5.43959474210407
+hyp = 7.588557742773876
+angle before accounting for quadrants = 44.207827366438465
+angle = 134.20782736643847
+angle of plane = 206.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-7.248752897051272, y=-33.157785770984916]
+new enemy position = Vector[x=-7.396823577301496, y=-33.635357832196874]
+adj = 5.02273046500099
+hyp = 5.175590454765984
+angle before accounting for quadrants = 13.959804197620853
+angle = 103.95980419762085
+angle of plane = 337.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=8.374967007202864, y=-28.128015426704362]
+new enemy position = Vector[x=8.395618300678036, y=-27.628442084663575]
+adj = 1.1153002994520058
+hyp = 3.7190930770472166
+angle before accounting for quadrants = 72.54930274609843
+angle = 162.54930274609842
+angle of plane = 304.94999999999976
+steer value = -1.0
+COUNTER = 58
+original enemy position = Vector[x=2.859623963353746, y=-22.03896425990901]
+new enemy position = Vector[x=2.359885481420499, y=-22.055133665434674]
+adj = -3.827129333983624
+hyp = 8.157148617897477
+angle before accounting for quadrants = 117.98075040814554
+angle = 242.01924959185448
+angle of plane = 49.949999999999974
+steer value = -1.0
+original enemy position = Vector[x=1.9998457134551795, y=-31.930702855370924]
+new enemy position = Vector[x=2.289007413858911, y=-32.33860665655403]
+adj = 5.595250205593864
+hyp = 6.436188260022833
+angle before accounting for quadrants = 29.617708753302836
+angle = 119.61770875330284
+angle of plane = 191.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-7.267952361467359, y=-33.651720730837226]
+new enemy position = Vector[x=-7.157399301513719, y=-34.139345608109586]
+adj = 5.029858872555863
+hyp = 5.824467532141357
+angle before accounting for quadrants = 30.279725689302893
+angle = 120.2797256893029
+angle of plane = 352.65000000000026
+steer value = 1.0
+original enemy position = Vector[x=8.26686039450556, y=-27.645673924976297]
+new enemy position = Vector[x=8.034958268255673, y=-27.202705072977896]
+adj = 3.3108000159822453
+hyp = 5.854060770428523
+angle before accounting for quadrants = 55.55908038083674
+angle = 145.55908038083675
+angle of plane = 289.94999999999976
+steer value = -1.0
+COUNTER = 59
+original enemy position = Vector[x=2.2856681348378913, y=-19.961950969556987]
+new enemy position = Vector[x=2.7856556786985553, y=-19.965480273196604]
+adj = -3.083517343364175
+hyp = 8.806829028809233
+angle before accounting for quadrants = 110.49514373322961
+angle = 249.5048562667704
+angle of plane = 34.949999999999974
+steer value = -1.0
+original enemy position = Vector[x=2.36999507941399, y=-32.260473832105085]
+new enemy position = Vector[x=2.808445564796754, y=-32.50080937227261]
+adj = 5.568689929346299
+hyp = 5.609056435583916
+angle before accounting for quadrants = 6.878030652449556
+angle = 96.87803065244955
+angle of plane = 176.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-7.090633824633635, y=-34.11745632185895]
+new enemy position = Vector[x=-6.8488975798089315, y=-34.555136099708065]
+adj = 4.608847339232653
+hyp = 6.527633249420114
+angle before accounting for quadrants = 45.08541820934453
+angle = 135.08541820934454
+angle of plane = 7.6500000000002615
+steer value = 1.0
+original enemy position = Vector[x=7.932066570728575, y=-27.28200723752891]
+new enemy position = Vector[x=7.509749012205347, y=-27.014336021738007]
+adj = 5.446565606486107
+hyp = 7.944105115433033
+angle before accounting for quadrants = 46.71632463648301
+angle = 136.71632463648302
+angle of plane = 274.94999999999976
+steer value = -1.0
+COUNTER = 60
+original enemy position = Vector[x=2.7763692796256305, y=-19.879884718414605]
+new enemy position = Vector[x=3.247999997684006, y=-19.713859221024173]
+adj = -3.7512144045754923
+hyp = 10.26663893834161
+angle before accounting for quadrants = 111.43090968284201
+angle = 248.569090317158
+angle of plane = 19.949999999999974
+steer value = -1.0
+original enemy position = Vector[x=2.8501797386586163, y=-32.37778988822822]
+new enemy position = Vector[x=3.350056767385473, y=-32.366701328754175]
+adj = 5.318852702089373
+hyp = 5.62384880865061
+angle before accounting for quadrants = 18.95616654932071
+angle = 18.95616654932071
+angle of plane = 161.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=2.8501797386586163, y=-32.37778988822822]
+new enemy position = Vector[x=3.350056767385473, y=-32.366701328754175]
+adj = 6.276079648634841
+hyp = 7.26096599899907
+angle before accounting for quadrants = 30.190434228825442
+angle = 30.190434228825442
+angle of plane = 22.65000000000026
+steer value = 0.5
+original enemy position = Vector[x=7.460293270583884, y=-27.134459559577824]
+new enemy position = Vector[x=6.960719928543096, y=-27.11380826610265]
+adj = 7.3394118798789805
+hyp = 9.635686789437187
+angle before accounting for quadrants = 40.38653660184873
+angle = 130.38653660184872
+angle of plane = 259.94999999999976
+steer value = -1.0
+COUNTER = 61
+original enemy position = Vector[x=3.2692248209868247, y=-19.842019439494056]
+new enemy position = Vector[x=3.760681752725691, y=-19.93405250010718]
+adj = -4.4013524986252825
+hyp = 11.8399795730901
+angle before accounting for quadrants = 111.82275130720613
+angle = 248.17724869279385
+angle of plane = 4.949999999999974
+steer value = -1.0
+original enemy position = Vector[x=3.330364397903243, y=-32.49510594435136]
+new enemy position = Vector[x=3.7688148832860073, y=-32.73544148451889]
+adj = 4.072744801006664
+hyp = 5.734205720329765
+angle before accounting for quadrants = 44.74438281956042
+angle = 44.74438281956042
+angle of plane = 146.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=3.330364397903243, y=-32.49510594435136]
+new enemy position = Vector[x=3.7688148832860073, y=-32.73544148451889]
+adj = 5.018703890503943
+hyp = 5.5123207917755614
+angle before accounting for quadrants = 24.432100430678272
+angle = 24.432100430678272
+angle of plane = 30.15000000000026
+steer value = -0.38
+original enemy position = Vector[x=3.330364397903243, y=-32.49510594435136]
+new enemy position = Vector[x=3.7688148832860073, y=-32.73544148451889]
+adj = 3.6192459431906343
+hyp = 9.546561338703984
+angle before accounting for quadrants = 67.72111680701664
+angle = 157.72111680701664
+angle of plane = 244.94999999999976
+steer value = -1.0
+COUNTER = 62
+original enemy position = Vector[x=3.7479615852572237, y=-19.983261144896655]
+new enemy position = Vector[x=4.21067038415084, y=-20.17273559548677]
+adj = -4.5513070819321
+hyp = 13.334595894659266
+angle before accounting for quadrants = 109.95705459056045
+angle = 250.04294540943954
+angle of plane = 349.95
+steer value = -1.0
+original enemy position = Vector[x=-6.5101007716663695, y=-35.43317021323988]
+new enemy position = Vector[x=-6.081911153708164, y=-35.69134389716759]
+adj = -0.1941566695779855
+hyp = 4.3157032199116
+angle before accounting for quadrants = 92.57851690087467
+angle = 267.42148309912534
+angle of plane = 131.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=3.6875584832550996, y=-32.83679695884811]
+new enemy position = Vector[x=3.9470999718144255, y=-33.26415888475683]
+adj = 3.573065606486331
+hyp = 3.637525820996603
+angle before accounting for quadrants = 10.802490559892624
+angle = 10.802490559892624
+angle of plane = 24.450000000000276
+steer value = -0.91
+original enemy position = Vector[x=3.6875584832550996, y=-32.83679695884811]
+new enemy position = Vector[x=3.9470999718144255, y=-33.26415888475683]
+adj = 4.7715627357244585
+hyp = 8.959014572091913
+angle before accounting for quadrants = 57.81876840733216
+angle = 147.81876840733216
+angle of plane = 229.94999999999976
+steer value = -1.0
+COUNTER = 63
+original enemy position = Vector[x=4.2122468786094345, y=-20.168823089613674]
+new enemy position = Vector[x=4.678086636512597, y=-20.350463723714977]
+adj = -4.1276800725149485
+hyp = 14.565013499869087
+angle before accounting for quadrants = 106.46304902572535
+angle = 253.53695097427465
+angle of plane = 334.95
+steer value = -1.0
+original enemy position = Vector[x=-6.035150226274745, y=-35.57014591703571]
+new enemy position = Vector[x=-5.53524029752233, y=-35.57963607692662]
+adj = -1.3934479072729715
+hyp = 2.656614497298954
+angle before accounting for quadrants = 121.63594744371376
+angle = 238.36405255628625
+angle of plane = 146.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=4.044752568606959, y=-33.178487973344865]
+new enemy position = Vector[x=4.4832030539897225, y=-33.41882351351239]
+adj = 2.814260525357284
+hyp = 2.8961312710331946
+angle before accounting for quadrants = 13.655931043418326
+angle = 103.65593104341832
+angle of plane = 10.800000000000274
+steer value = 1.0
+original enemy position = Vector[x=4.044752568606959, y=-33.178487973344865]
+new enemy position = Vector[x=4.4832030539897225, y=-33.41882351351239]
+adj = 5.96293950858751
+hyp = 8.16316203810689
+angle before accounting for quadrants = 43.07424587643886
+angle = 133.07424587643885
+angle of plane = 214.94999999999976
+steer value = -1.0
+COUNTER = 64
+original enemy position = Vector[x=4.610614212649082, y=-20.461472762718408]
+new enemy position = Vector[x=4.923222960035363, y=-20.851698045161232]
+adj = -3.5559139895874345
+hyp = 15.808893752271167
+angle before accounting for quadrants = 102.99883454529261
+angle = 257.0011654547074
+angle of plane = 319.95
+steer value = -1.0
+original enemy position = Vector[x=-5.555343136526406, y=-35.451295083528336]
+new enemy position = Vector[x=-5.117663358677291, y=-35.209558838703636]
+adj = -1.900738414368
+hyp = 1.9014863924215817
+angle before accounting for quadrants = 178.39287489821436
+angle = 181.60712510178564
+angle of plane = 161.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=4.524937227851584, y=-33.295804029468]
+new enemy position = Vector[x=5.02481425657844, y=-33.284715469993955]
+adj = 2.3221755130739083
+hyp = 3.0880497236326323
+angle before accounting for quadrants = 41.23714387870447
+angle = 131.23714387870447
+angle of plane = 25.800000000000274
+steer value = 1.0
+original enemy position = Vector[x=4.524937227851584, y=-33.295804029468]
+new enemy position = Vector[x=5.02481425657844, y=-33.284715469993955]
+adj = 7.016365665489687
+hyp = 7.738256160060667
+angle before accounting for quadrants = 24.945214333871256
+angle = 114.94521433387126
+angle of plane = 199.94999999999976
+steer value = -1.0
+COUNTER = 65
+original enemy position = Vector[x=4.809285607412933, y=-20.914098481056143]
+new enemy position = Vector[x=4.884900082873273, y=-21.408347862543724]
+adj = -2.6410413402088153
+hyp = 16.9946185912945
+angle before accounting for quadrants = 98.94026054729356
+angle = 261.0597394527064
+angle of plane = 304.95
+steer value = -1.0
+original enemy position = Vector[x=-5.199243424642153, y=-35.108463697575836]
+new enemy position = Vector[x=-4.9410697407144415, y=-34.68027407961763]
+adj = -1.7553989260573815
+hyp = 2.7219231408567035
+angle before accounting for quadrants = 130.159023578136
+angle = 310.159023578136
+angle of plane = 176.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=4.999447369326575, y=-33.15731038472013]
+new enemy position = Vector[x=5.4268092952352935, y=-32.8977688961608]
+adj = 1.6142095513560335
+hyp = 3.674024438094841
+angle before accounting for quadrants = 63.93711682538362
+angle = 153.9371168253836
+angle of plane = 40.800000000000274
+steer value = 1.0
+original enemy position = Vector[x=4.999447369326575, y=-33.15731038472013]
+new enemy position = Vector[x=5.4268092952352935, y=-32.8977688961608]
+adj = 7.833257054289611
+hyp = 7.886427029709523
+angle before accounting for quadrants = 6.656945741532164
+angle = 96.65694574153217
+angle of plane = 184.94999999999976
+steer value = -1.0
+COUNTER = 66
+original enemy position = Vector[x=4.7550272231148485, y=-21.40541954892473]
+new enemy position = Vector[x=4.5733865890135466, y=-21.87125930682789]
+adj = -1.3341900796484225
+hyp = 18.068307647335242
+angle before accounting for quadrants = 94.2346578270337
+angle = 265.7653421729663
+angle of plane = 289.95
+steer value = -1.0
+original enemy position = Vector[x=-7.978032573142545, y=-29.954972444290156]
+new enemy position = Vector[x=-7.742964462888013, y=-30.396269377818324]
+adj = 2.664248215212961
+hyp = 2.9506134345935915
+angle before accounting for quadrants = 25.45178746962116
+angle = 25.45178746962116
+angle of plane = 191.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=5.473957510801565, y=-33.01881673997225]
+new enemy position = Vector[x=5.973834539528421, y=-33.007728180498205]
+adj = 0.015234731587639772
+hyp = 4.080089301749483
+angle before accounting for quadrants = 89.78606158204802
+angle = 179.78606158204803
+angle of plane = 55.800000000000274
+steer value = 1.0
+original enemy position = Vector[x=5.473957510801565, y=-33.01881673997225]
+new enemy position = Vector[x=5.973834539528421, y=-33.007728180498205]
+adj = 7.634569257879434
+hyp = 7.805616232055084
+angle before accounting for quadrants = 12.016777104864765
+angle = 12.016777104864765
+angle of plane = 169.94999999999976
+steer value = -1.0
+COUNTER = 67
+original enemy position = Vector[x=6.46048226368961, y=-29.38992191959477]
+new enemy position = Vector[x=6.928060904504895, y=-29.567038306903598]
+adj = -7.082572540460156
+hyp = 17.583735857877794
+angle before accounting for quadrants = 113.75278079907102
+angle = 246.24721920092898
+angle of plane = 274.95
+steer value = -1.0
+original enemy position = Vector[x=-7.866474870243187, y=-30.436527470140774]
+new enemy position = Vector[x=-7.883548381907246, y=-30.936235880315607]
+adj = 2.2599241521866986
+hyp = 3.850156364152866
+angle before accounting for quadrants = 54.057755392708565
+angle = 54.057755392708565
+angle of plane = 176.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=6.46048226368961, y=-29.38992191959477]
+new enemy position = Vector[x=6.928060904504895, y=-29.567038306903598]
+adj = 1.6742800178964323
+hyp = 4.3564848798164295
+angle before accounting for quadrants = 67.39852904061598
+angle = 157.39852904061598
+angle of plane = 70.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=5.948467652276555, y=-32.88032309522438]
+new enemy position = Vector[x=6.375829578185274, y=-32.62078160666505]
+adj = 7.420160694067228
+hyp = 8.39598119618911
+angle before accounting for quadrants = 27.89881749387702
+angle = 27.89881749387702
+angle of plane = 154.94999999999976
+steer value = -1.0
+COUNTER = 68
+original enemy position = Vector[x=6.952306211494381, y=-29.439415033902677]
+new enemy position = Vector[x=7.4457993863618315, y=-29.359013004331004]
+adj = -4.882228720130051
+hyp = 16.239077181476457
+angle before accounting for quadrants = 107.49646344487915
+angle = 252.50353655512083
+angle of plane = 259.95
+steer value = -0.5
+original enemy position = Vector[x=-8.010640578469811, y=-30.909345207297157]
+new enemy position = Vector[x=-8.275280878390111, y=-31.333568629161267]
+adj = 1.4786461325656752
+hyp = 4.910297857604235
+angle before accounting for quadrants = 72.47441422934808
+angle = 72.47441422934808
+angle of plane = 161.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=6.952306211494381, y=-29.439415033902677]
+new enemy position = Vector[x=7.4457993863618315, y=-29.359013004331004]
+adj = -0.070552184354991
+hyp = 3.9092239360396905
+angle before accounting for quadrants = 91.03410854436954
+angle = 268.96589145563047
+angle of plane = 85.80000000000027
+steer value = -1.0
+original enemy position = Vector[x=-3.8835295332612194, y=-34.52793064460859]
+new enemy position = Vector[x=-3.4458497554121044, y=-34.28619439978389]
+adj = 4.681747496574609
+hyp = 6.29764078786582
+angle before accounting for quadrants = 41.977039123433066
+angle = 131.97703912343306
+angle of plane = 139.94999999999976
+steer value = -0.53
+COUNTER = 69
+original enemy position = Vector[x=7.447131866517521, y=-29.367854418544425]
+new enemy position = Vector[x=7.943184500254721, y=-29.30515047478977]
+adj = -2.88748401075782
+hyp = 14.798117090528631
+angle before accounting for quadrants = 101.25203141492
+angle = 258.74796858508
+angle of plane = 252.45
+steer value = 0.42
+original enemy position = Vector[x=-8.371900612726835, y=-31.24673452492114]
+new enemy position = Vector[x=-8.813197546255001, y=-31.481802635175672]
+adj = 0.45304438123327273
+hyp = 5.952653374430345
+angle before accounting for quadrants = 85.63511355515038
+angle = 85.63511355515038
+angle of plane = 146.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=7.447131866517521, y=-29.367854418544425]
+new enemy position = Vector[x=7.943184500254721, y=-29.30515047478977]
+adj = -1.9695471596377594
+hyp = 4.293957142379765
+angle before accounting for quadrants = 117.30188644810447
+angle = 242.69811355189552
+angle of plane = 70.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-3.555381051027512, y=-31.078425406293437]
+new enemy position = Vector[x=-3.073183864493683, y=-31.21065956715537]
+adj = 6.368452710618602
+hyp = 6.806549220250494
+angle before accounting for quadrants = 20.66885540504185
+angle = 110.66885540504185
+angle of plane = 131.99999999999974
+steer value = -1.0
+COUNTER = 70
+original enemy position = Vector[x=7.936871461728073, y=-29.434902855373107]
+new enemy position = Vector[x=8.397817616035994, y=-29.628625964032704]
+adj = -1.2747688992286363
+hyp = 13.62169068845609
+angle before accounting for quadrants = 95.36981151898958
+angle = 264.6301884810104
+angle of plane = 258.75
+steer value = 0.39
+original enemy position = Vector[x=-8.853455638577444, y=-31.358292227820503]
+new enemy position = Vector[x=-9.353164048752275, y=-31.341218716156444]
+adj = -0.717370757683458
+hyp = 6.935448651087193
+angle before accounting for quadrants = 95.9370295131938
+angle = 275.9370295131938
+angle of plane = 131.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=7.936871461728073, y=-29.434902855373107]
+new enemy position = Vector[x=8.397817616035994, y=-29.628625964032704]
+adj = -4.245880153704711
+hyp = 5.675012185268258
+angle before accounting for quadrants = 138.43220099936266
+angle = 221.56779900063734
+angle of plane = 85.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-4.292963784346567, y=-29.78632291342637]
+new enemy position = Vector[x=-4.043654603774805, y=-30.219733726031038]
+adj = 5.715829203305475
+hyp = 6.140311587054435
+angle before accounting for quadrants = 21.429226835205288
+angle = 111.42922683520528
+angle of plane = 116.99999999999974
+steer value = -0.37
+COUNTER = 71
+original enemy position = Vector[x=8.426611056938622, y=-29.501951292201788]
+new enemy position = Vector[x=8.922663690675822, y=-29.439247348447132]
+adj = 0.8926756668275893
+hyp = 12.778831900362455
+angle before accounting for quadrants = 85.99429447272159
+angle = 175.9942944727216
+angle of plane = 264.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-9.35226144232486, y=-31.325046088337228]
+new enemy position = Vector[x=-9.849815544528074, y=-31.275650588737015]
+adj = -1.962801688199992
+hyp = 8.14447631501126
+angle before accounting for quadrants = 103.94544469946293
+angle = 283.94544469946294
+angle of plane = 146.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=8.426611056938622, y=-29.501951292201788]
+new enemy position = Vector[x=8.922663690675822, y=-29.439247348447132]
+adj = -6.047487948777221
+hyp = 6.807530683728631
+angle before accounting for quadrants = 152.66696652171171
+angle = 207.33303347828829
+angle of plane = 100.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-6.27652932004033, y=-28.05272598596075]
+new enemy position = Vector[x=-5.777544947400903, y=-28.084578707377258]
+adj = 6.027814865291848
+hyp = 6.804471812598219
+angle before accounting for quadrants = 27.642361130441405
+angle = 117.6423611304414
+angle of plane = 111.44999999999968
+steer value = 0.41
+COUNTER = 72
+original enemy position = Vector[x=8.916564690844847, y=-29.568052354643193]
+new enemy position = Vector[x=9.378265642415089, y=-29.75996960587177]
+adj = 2.515913142406756
+hyp = 12.110993554729049
+angle before accounting for quadrants = 78.01017599877507
+angle = 168.01017599877508
+angle of plane = 249.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-9.840029567686845, y=-31.405187337884694]
+new enemy position = Vector[x=-10.295621809752092, y=-31.611186631499894]
+adj = -3.175705476280882
+hyp = 9.779531097551926
+angle before accounting for quadrants = 108.9492076634835
+angle = 288.9492076634835
+angle of plane = 161.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=4.84957106654022, y=-24.082065516184553]
+new enemy position = Vector[x=5.02766652933849, y=-24.54927211516478]
+adj = -3.050945598361281
+hyp = 7.085103702525312
+angle before accounting for quadrants = 115.50653917749993
+angle = 244.49346082250008
+angle of plane = 115.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-7.47618412160523, y=-28.979367012206588]
+new enemy position = Vector[x=-7.039713297170906, y=-28.73545469308838]
+adj = 3.558251767986029
+hyp = 5.054150329979191
+angle before accounting for quadrants = 45.24911381423348
+angle = 135.24911381423348
+angle of plane = 117.59999999999962
+steer value = 1.0
+COUNTER = 73
+original enemy position = Vector[x=9.406562994855589, y=-29.633183192690623]
+new enemy position = Vector[x=9.902366373481156, y=-29.568537931893932]
+adj = 4.46983270423144
+hyp = 11.310218273154277
+angle before accounting for quadrants = 66.72136192507325
+angle = 156.72136192507327
+angle of plane = 234.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-10.317613989460801, y=-31.548095309601532]
+new enemy position = Vector[x=-10.8114756741656, y=-31.626201880263274]
+adj = -3.574665995819643
+hyp = 11.272481917539762
+angle before accounting for quadrants = 108.48850363858226
+angle = 288.48850363858224
+angle of plane = 176.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=4.549326857040629, y=-23.02316489113243]
+new enemy position = Vector[x=5.0214971310262815, y=-23.187649639253085]
+adj = -3.3561681556027665
+hyp = 6.278182887423566
+angle before accounting for quadrants = 122.31518575619464
+angle = 237.68481424380536
+angle of plane = 130.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-3.315063506224092, y=-26.329351557795288]
+new enemy position = Vector[x=-2.9255244285990845, y=-26.642814963957886]
+adj = 4.0192609852326875
+hyp = 4.353006998794779
+angle before accounting for quadrants = 22.582167650794467
+angle = 22.582167650794467
+angle of plane = 132.59999999999962
+steer value = -1.0
+COUNTER = 74
+original enemy position = Vector[x=9.896561298866331, y=-29.698314030738054]
+new enemy position = Vector[x=10.358262250436573, y=-29.89023128196663]
+adj = 5.6090447599408115
+hyp = 10.247433935125937
+angle before accounting for quadrants = 56.81385194664586
+angle = 146.81385194664585
+angle of plane = 219.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-10.794533814185808, y=-31.69289357873212]
+new enemy position = Vector[x=-11.248456922207694, y=-31.902545223141964]
+adj = -3.7153668992273126
+hyp = 12.794691201637864
+angle before accounting for quadrants = 106.88091553265451
+angle = 286.8809155326545
+angle of plane = 191.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=5.025071385238108, y=-23.176866300871975]
+new enemy position = Vector[x=5.5042264164698, y=-23.31973146823392]
+adj = -4.814914433605814
+hyp = 5.856573392166376
+angle before accounting for quadrants = 145.2994418021686
+angle = 214.7005581978314
+angle of plane = 145.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-3.0232877942412975, y=-26.72835944981635]
+new enemy position = Vector[x=-2.842668760332582, y=-27.194596261522463]
+adj = 1.835849175784297
+hyp = 3.4332424651564235
+angle before accounting for quadrants = 57.674566670962186
+angle = 57.674566670962186
+angle of plane = 117.59999999999962
+steer value = -1.0
+COUNTER = 75
+original enemy position = Vector[x=10.338953295511597, y=-29.92991632865184]
+new enemy position = Vector[x=10.75973337917966, y=-30.19999802219714]
+adj = 6.359042654283879
+hyp = 9.082662472924184
+angle before accounting for quadrants = 45.56258125540401
+angle = 135.562581255404
+angle of plane = 204.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-11.257530887935381, y=-31.88118633570436]
+new enemy position = Vector[x=-11.728936601423774, y=-32.04784962887505]
+adj = -3.2146849633331875
+hyp = 14.02310746127697
+angle before accounting for quadrants = 103.25244824093048
+angle = 283.25244824093045
+angle of plane = 206.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=5.446075449377433, y=-23.43589514478002]
+new enemy position = Vector[x=5.789603295094232, y=-23.799197524647223]
+adj = -6.190454365126165
+hyp = 6.318793233261724
+angle before accounting for quadrants = 168.43255401230718
+angle = 191.56744598769282
+angle of plane = 160.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-2.731512082258499, y=-27.127367341837417]
+new enemy position = Vector[x=-2.3419730046334917, y=-27.440830748000014]
+adj = -0.28321469951823275
+hyp = 4.0970287604842985
+angle before accounting for quadrants = 93.96383801880482
+angle = 273.96383801880484
+angle of plane = 102.59999999999962
+steer value = 1.0
+COUNTER = 76
+original enemy position = Vector[x=10.671662163665511, y=-30.295491455062148]
+new enemy position = Vector[x=10.901027558755944, y=-30.739779104603535]
+adj = 6.405664226740264
+hyp = 7.792691589865903
+angle before accounting for quadrants = 34.713568299108914
+angle = 124.71356829910891
+angle of plane = 189.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-11.75033476024361, y=-31.919718237242854]
+new enemy position = Vector[x=-12.241915730199032, y=-31.82835002626285]
+adj = -1.8828780185765943
+hyp = 14.911328147079523
+angle before accounting for quadrants = 97.25419792628848
+angle = 277.2541979262885
+angle of plane = 221.39999999999975
+steer value = 1.0
+original enemy position = Vector[x=5.867079513516759, y=-23.694923988688064]
+new enemy position = Vector[x=6.346234544748452, y=-23.837789156050007]
+adj = -6.633463343964383
+hyp = 6.748813462702284
+angle before accounting for quadrants = 169.39151258810156
+angle = 349.3915125881016
+angle of plane = 175.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-2.279322957463573, y=-27.32703045664675]
+new enemy position = Vector[x=-1.7852405173922588, y=-27.403728190727858]
+adj = -2.1189415310710693
+hyp = 5.735115779936219
+angle before accounting for quadrants = 111.68280878385548
+angle = 291.6828087838555
+angle of plane = 117.59999999999962
+steer value = 1.0
+COUNTER = 77
+original enemy position = Vector[x=9.532053466968973, y=-31.705696609924193]
+new enemy position = Vector[x=9.529138958603308, y=-32.205688115493025]
+adj = 5.012833519150043
+hyp = 6.3004349905477595
+angle before accounting for quadrants = 37.28492208037778
+angle = 127.28492208037778
+angle of plane = 174.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-12.196381383515131, y=-31.706685906677198]
+new enemy position = Vector[x=-12.57641888602352, y=-31.381768229892465]
+adj = 0.06653021326302877
+hyp = 15.768609667271342
+angle before accounting for quadrants = 89.75825949021207
+angle = 89.75825949021207
+angle of plane = 236.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=6.342759907115638, y=-23.848818713350298]
+new enemy position = Vector[x=6.8147960101992, y=-24.013688108283635]
+adj = -6.694562742065365
+hyp = 7.649957839095354
+angle before accounting for quadrants = 151.05812270847218
+angle = 331.0581227084722
+angle of plane = 190.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-1.188597996191861, y=-24.632611940639727]
+new enemy position = Vector[x=-1.3074047899348231, y=-25.11829182056118]
+adj = -1.4651356727882252
+hyp = 7.1065548382615376
+angle before accounting for quadrants = 101.8978109607517
+angle = 281.8978109607517
+angle of plane = 132.59999999999962
+steer value = 1.0
+COUNTER = 78
+original enemy position = Vector[x=9.443997205341644, y=-32.19537795454667]
+new enemy position = Vector[x=9.272541216054618, y=-32.66506172447875]
+adj = 4.10823369629783
+hyp = 4.627260853015119
+angle before accounting for quadrants = 27.397838817318945
+angle = 117.39783881731894
+angle of plane = 159.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-12.642428006786657, y=-31.493653576111534]
+new enemy position = Vector[x=-13.134008976742079, y=-31.40228536513153]
+adj = 1.5488395134932027
+hyp = 16.594317275617406
+angle before accounting for quadrants = 84.64447257457331
+angle = 84.64447257457331
+angle of plane = 221.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=3.223758192060604, y=-24.406272255502408]
+new enemy position = Vector[x=3.7008204226112604, y=-24.256567118042025]
+adj = -6.3112486960219485
+hyp = 6.781549262458774
+angle before accounting for quadrants = 158.53636291713016
+angle = 338.5363629171302
+angle of plane = 205.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-1.2506935436954107, y=-25.12762883873084]
+new enemy position = Vector[x=-1.2555287513926607, y=-25.62760545895075]
+adj = -3.25368802313249
+hyp = 9.134816204277076
+angle before accounting for quadrants = 110.86611136256032
+angle = 290.86611136256033
+angle of plane = 147.59999999999962
+steer value = 1.0
+COUNTER = 79
+original enemy position = Vector[x=9.160089574161068, y=-32.60002202154332]
+new enemy position = Vector[x=8.776762446841474, y=-32.921052103406225]
+adj = 2.919054017042015
+hyp = 3.043838982725446
+angle before accounting for quadrants = 16.462769421713443
+angle = 106.46276942171345
+angle of plane = 144.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-13.125941685778594, y=-31.367956258143664]
+new enemy position = Vector[x=-13.599782345168247, y=-31.20834726870642]
+adj = 2.855084952062711
+hyp = 17.940037551236845
+angle before accounting for quadrants = 80.8426703589597
+angle = 80.8426703589597
+angle of plane = 206.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=3.6410136176162413, y=-24.141247211699838]
+new enemy position = Vector[x=3.9793090597289864, y=-23.773067644306774]
+adj = -4.732836686735677
+hyp = 6.480438150172591
+angle before accounting for quadrants = 136.9137852933896
+angle = 316.9137852933896
+angle of plane = 220.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-13.125941685778594, y=-31.367956258143664]
+new enemy position = Vector[x=-13.599782345168247, y=-31.20834726870642]
+adj = -9.674098740735936
+hyp = 9.878598343733016
+angle before accounting for quadrants = 168.32146773447548
+angle = 191.67853226552452
+angle of plane = 162.59999999999962
+steer value = 1.0
+COUNTER = 80
+original enemy position = Vector[x=8.711896319732093, y=-32.80850024746278]
+new enemy position = Vector[x=8.219410248582156, y=-32.89485689007526]
+adj = 1.587692152231952
+hyp = 1.588220231944823
+angle before accounting for quadrants = 1.477556321232826
+angle = 1.477556321232826
+angle of plane = 129.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-13.619265756889913, y=-31.336783756474365]
+new enemy position = Vector[x=-14.109428299985945, y=-31.435478646644174]
+adj = 3.2739399157521554
+hyp = 19.367246205449586
+angle before accounting for quadrants = 80.26769066050583
+angle = 80.26769066050583
+angle of plane = 191.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-1.200766847384744, y=-26.11708206964321]
+new enemy position = Vector[x=-1.3384710071238806, y=-26.597745740405355]
+adj = -6.068499247403292
+hyp = 6.084117197805366
+angle before accounting for quadrants = 175.89376490027584
+angle = 355.89376490027587
+angle of plane = 235.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-13.619265756889913, y=-31.336783756474365]
+new enemy position = Vector[x=-14.109428299985945, y=-31.435478646644174]
+adj = -10.24410717396319
+hyp = 10.258577223504048
+angle before accounting for quadrants = 176.95645214121518
+angle = 183.04354785878482
+angle of plane = 177.59999999999962
+steer value = 0.36
+COUNTER = 81
+original enemy position = Vector[x=8.263703065303115, y=-33.016978473382245]
+new enemy position = Vector[x=7.880375937983521, y=-33.33800855524515]
+adj = -0.5448690974855168
+hyp = 0.9365060447648086
+angle before accounting for quadrants = 125.57798813427142
+angle = 305.57798813427144
+angle of plane = 114.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-14.112589828001228, y=-31.30561125480507]
+new enemy position = Vector[x=-14.586430487390881, y=-31.146002265367823]
+adj = 3.699058736499527
+hyp = 20.93065043134228
+angle before accounting for quadrants = 79.82069287401168
+angle = 79.82069287401168
+angle of plane = 176.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-1.3033986351199007, y=-26.60599292079247]
+new enemy position = Vector[x=-1.3706022501562143, y=-27.101456011371425]
+adj = -4.790564931083566
+hyp = 4.9637160824867275
+angle before accounting for quadrants = 164.82189756172352
+angle = 344.8218975617235
+angle of plane = 250.80000000000027
+steer value = 1.0
+original enemy position = Vector[x=-14.112589828001228, y=-31.30561125480507]
+new enemy position = Vector[x=-14.586430487390881, y=-31.146002265367823]
+adj = -9.944162740360571
+hyp = 9.99209586252901
+angle before accounting for quadrants = 174.38563091874346
+angle = 354.38563091874346
+angle of plane = 182.99999999999983
+steer value = 1.0
+COUNTER = 82
+original enemy position = Vector[x=8.794760442346053, y=-31.690258225879717]
+new enemy position = Vector[x=8.333919142380198, y=-31.496285814836856]
+adj = -0.6092779767257817
+hyp = 1.9018640280796966
+angle before accounting for quadrants = 108.68459631378704
+angle = 288.68459631378704
+angle of plane = 99.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-14.605913899112547, y=-31.27443875313577]
+new enemy position = Vector[x=-15.09607644220858, y=-31.37313364330558]
+adj = 3.0879820877864077
+hyp = 22.263722756313822
+angle before accounting for quadrants = 82.02736244067793
+angle = 82.02736244067793
+angle of plane = 161.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-1.240797915810695, y=-27.096320886484968]
+new enemy position = Vector[x=-1.0512664083688141, y=-27.55900631708205]
+adj = -3.295257731970189
+hyp = 3.86687072012113
+angle before accounting for quadrants = 148.4492315320743
+angle = 328.4492315320743
+angle of plane = 265.8000000000003
+steer value = 1.0
+original enemy position = Vector[x=-14.605913899112547, y=-31.27443875313577]
+new enemy position = Vector[x=-15.09607644220858, y=-31.37313364330558]
+adj = -9.807863028108638
+hyp = 10.10412131966046
+angle before accounting for quadrants = 166.0911729284036
+angle = 346.0911729284036
+angle of plane = 197.99999999999983
+steer value = 1.0
+COUNTER = 83
+original enemy position = Vector[x=8.307505784919389, y=-31.594879697446828]
+new enemy position = Vector[x=7.807540568201262, y=-31.600777330191992]
+adj = -2.706723426982837
+hyp = 3.0239613304213306
+angle before accounting for quadrants = 153.52024220686695
+angle = 333.52024220686695
+angle of plane = 84.5999999999998
+steer value = -1.0
+original enemy position = Vector[x=-15.099237970223863, y=-31.243266251466473]
+new enemy position = Vector[x=-15.573078629613516, y=-31.083657262029227]
+adj = 2.500090723744762
+hyp = 23.495849673796315
+angle before accounting for quadrants = 83.89184294881828
+angle = 83.89184294881828
+angle of plane = 146.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-1.17819719650149, y=-27.58664885217746]
+new enemy position = Vector[x=-1.2454008115378035, y=-28.082111942756416]
+adj = -1.8273769469864902
+hyp = 2.5057027315727414
+angle before accounting for quadrants = 136.8266713540514
+angle = 316.8266713540514
+angle of plane = 280.8000000000003
+steer value = 1.0
+original enemy position = Vector[x=-15.099237970223863, y=-31.243266251466473]
+new enemy position = Vector[x=-15.573078629613516, y=-31.083657262029227]
+adj = -8.659821244563659
+hyp = 9.437620031105869
+angle before accounting for quadrants = 156.57558123457764
+angle = 336.5755812345776
+angle of plane = 212.99999999999983
+steer value = 1.0
+COUNTER = 84
+original enemy position = Vector[x=9.46372771046793, y=-26.612375378010256]
+new enemy position = Vector[x=9.578044233482876, y=-26.125619040028127]
+adj = 0.8244751301772162
+hyp = 2.797843698241751
+angle before accounting for quadrants = 72.86150988151378
+angle = 72.86150988151378
+angle of plane = 69.5999999999998
+steer value = 0.22
+original enemy position = Vector[x=-15.592562041335182, y=-31.212093749797173]
+new enemy position = Vector[x=-16.08272458443121, y=-31.310788639966983]
+adj = 0.9619602878710616
+hyp = 24.37462923155865
+angle before accounting for quadrants = 87.73819812119415
+angle = 87.73819812119415
+angle of plane = 131.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-1.1155964771922842, y=-28.07697681786996]
+new enemy position = Vector[x=-0.9260649697504033, y=-28.539662248467042]
+adj = -0.39149436983073116
+hyp = 1.4609941497489929
+angle before accounting for quadrants = 105.54317055372134
+angle = 285.5431705537213
+angle of plane = 295.8000000000003
+steer value = -0.68
+original enemy position = Vector[x=-15.592562041335182, y=-31.212093749797173]
+new enemy position = Vector[x=-16.08272458443121, y=-31.310788639966983]
+adj = -7.591762721472062
+hyp = 8.959888221271688
+angle before accounting for quadrants = 147.91980086576066
+angle = 327.91980086576064
+angle of plane = 227.99999999999983
+steer value = 1.0
+COUNTER = 85
+original enemy position = Vector[x=9.697439573533622, y=-26.176807783875276]
+new enemy position = Vector[x=10.03981875552794, y=-25.812422691237142]
+adj = -0.7559270212192537
+hyp = 2.6046945692715084
+angle before accounting for quadrants = 106.87095661549388
+angle = 286.87095661549387
+angle of plane = 72.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-16.035379470050596, y=-31.431759607007713]
+new enemy position = Vector[x=-16.41052523927044, y=-31.762313160666498]
+adj = -1.1448521841123949
+hyp = 25.16620043229893
+angle before accounting for quadrants = 92.60737986119551
+angle = 272.6073798611955
+angle of plane = 116.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.035379470050596, y=-31.431759607007713]
+new enemy position = Vector[x=-16.41052523927044, y=-31.762313160666498]
+adj = -6.399737893734123
+hyp = 8.477912776161332
+angle before accounting for quadrants = 139.01417554795017
+angle = 319.0141755479502
+angle of plane = 242.99999999999983
+steer value = 1.0
+COUNTER = 86
+original enemy position = Vector[x=10.078178991646821, y=-25.854381185050695]
+new enemy position = Vector[x=10.493984838762188, y=-25.576702418299124]
+adj = -2.333490242036955
+hyp = 3.1504044764092245
+angle before accounting for quadrants = 137.79069045610544
+angle = 317.79069045610544
+angle of plane = 57.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-16.388958251414646, y=-31.7848288673118]
+new enemy position = Vector[x=-16.72005245082369, y=-32.1594975624515]
+adj = -3.4288082921420155
+hyp = 25.706305690556206
+angle before accounting for quadrants = 97.66518124351815
+angle = 277.66518124351813
+angle of plane = 101.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.388958251414646, y=-31.7848288673118]
+new enemy position = Vector[x=-16.72005245082369, y=-32.1594975624515]
+adj = -4.917018671675866
+hyp = 7.6930710323253235
+angle before accounting for quadrants = 129.72839194447863
+angle = 309.72839194447863
+angle of plane = 257.99999999999983
+steer value = 1.0
+COUNTER = 87
+original enemy position = Vector[x=10.404193930679964, y=-25.48282415911068]
+new enemy position = Vector[x=10.625452973948196, y=-25.034444369454604]
+adj = -3.327861602147422
+hyp = 3.468264218717209
+angle before accounting for quadrants = 163.6414338026144
+angle = 343.6414338026144
+angle of plane = 42.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-16.60926245748687, y=-32.22732906028923]
+new enemy position = Vector[x=-16.708664097650924, y=-32.717348767987495]
+adj = -5.976334585140407
+hyp = 26.31135325425106
+angle before accounting for quadrants = 103.12869127527449
+angle = 283.1286912752745
+angle of plane = 86.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.60926245748687, y=-32.22732906028923]
+new enemy position = Vector[x=-16.708664097650924, y=-32.717348767987495]
+adj = -3.4867243032400843
+hyp = 7.012702920615024
+angle before accounting for quadrants = 119.8150049495989
+angle = 299.8150049495989
+angle of plane = 272.99999999999983
+steer value = 1.0
+COUNTER = 88
+original enemy position = Vector[x=10.730208869713108, y=-25.111267133170667]
+new enemy position = Vector[x=11.146014716828475, y=-24.833588366419097]
+adj = -4.2822621684460564
+hyp = 4.284181139254704
+angle before accounting for quadrants = 178.285039529754
+angle = 181.714960470246
+angle of plane = 27.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.578801400017273, y=-32.72069757162332]
+new enemy position = Vector[x=-16.41987589172805, y=-33.19476790692707]
+adj = -8.410739123643136
+hyp = 26.878314352567124
+angle before accounting for quadrants = 108.23524003760117
+angle = 288.23524003760116
+angle of plane = 71.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.578801400017273, y=-32.72069757162332]
+new enemy position = Vector[x=-16.41987589172805, y=-33.19476790692707]
+adj = -2.0032447533796294
+hyp = 6.334902717859824
+angle before accounting for quadrants = 108.43468778069206
+angle = 288.43468778069206
+angle of plane = 287.99999999999983
+steer value = 0.03
+COUNTER = 89
+original enemy position = Vector[x=11.19832460189905, y=-24.952496779268596]
+new enemy position = Vector[x=11.69726241191885, y=-24.919922836727885]
+adj = -5.523853208089001
+hyp = 5.653240547700847
+angle before accounting for quadrants = 167.71807034872998
+angle = 192.28192965127002
+angle of plane = 42.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.30573709475542, y=-33.13273670713114]
+new enemy position = Vector[x=-15.931068399615722, y=-33.46383090654018]
+adj = -10.47073251401121
+hyp = 27.233284113426148
+angle before accounting for quadrants = 112.61164286905422
+angle = 292.6116428690542
+angle of plane = 56.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.30573709475542, y=-33.13273670713114]
+new enemy position = Vector[x=-15.931068399615722, y=-33.46383090654018]
+adj = -0.3726412769806089
+hyp = 5.8849457244411525
+angle before accounting for quadrants = 93.63046103146705
+angle = 273.63046103146706
+angle of plane = 288.4499999999994
+steer value = -0.99
+COUNTER = 90
+original enemy position = Vector[x=11.666440334084992, y=-24.793726425366525]
+new enemy position = Vector[x=12.08224618120036, y=-24.516047658614955]
+adj = -6.656607438931083
+hyp = 6.97663913750582
+angle before accounting for quadrants = 162.57850988267754
+angle = 197.42149011732246
+angle of plane = 57.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.004359366192613, y=-33.52771738435822]
+new enemy position = Vector[x=-15.783954003326846, y=-33.97651742448746]
+adj = -12.486245467427729
+hyp = 27.03250904941115
+angle before accounting for quadrants = 117.50961076052366
+angle = 297.5096107605236
+angle of plane = 41.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.004359366192613, y=-33.52771738435822]
+new enemy position = Vector[x=-15.783954003326846, y=-33.97651742448746]
+adj = 1.0722698845524619
+hyp = 5.739890145682352
+angle before accounting for quadrants = 79.23331210445282
+angle = 79.23331210445282
+angle of plane = 273.5999999999993
+steer value = 1.0
+COUNTER = 91
+original enemy position = Vector[x=12.134556066270934, y=-24.634956071464455]
+new enemy position = Vector[x=12.633493876290734, y=-24.602382128923743]
+adj = -8.556225402995622
+hyp = 8.87779035181837
+angle before accounting for quadrants = 164.53181973918663
+angle = 195.46818026081337
+angle of plane = 72.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-15.908723395276105, y=-34.01268555348382]
+new enemy position = Vector[x=-15.942246771968644, y=-34.5115604708881]
+adj = -14.13359585597276
+hyp = 26.28560213258546
+angle before accounting for quadrants = 122.52675898559998
+angle = 302.5267589856
+angle of plane = 26.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-15.908723395276105, y=-34.01268555348382]
+new enemy position = Vector[x=-15.942246771968644, y=-34.5115604708881]
+adj = 2.494212237714976
+hyp = 5.67419598978822
+angle before accounting for quadrants = 63.92348493189001
+angle = 63.92348493189001
+angle of plane = 288.5999999999993
+steer value = 1.0
+COUNTER = 92
+original enemy position = Vector[x=12.602671798456877, y=-24.476185717562384]
+new enemy position = Vector[x=13.018477645572244, y=-24.198506950810813]
+adj = -10.118715529932377
+hyp = 10.380230676346754
+angle before accounting for quadrants = 167.11161269781545
+angle = 192.88838730218455
+angle of plane = 87.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.051390041521167, y=-34.48751604033556]
+new enemy position = Vector[x=-16.298378108637294, y=-34.922253771274846]
+adj = -15.190275497986718
+hyp = 25.05060802407378
+angle before accounting for quadrants = 127.32846370641172
+angle = 307.32846370641175
+angle of plane = 11.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.051390041521167, y=-34.48751604033556]
+new enemy position = Vector[x=-16.298378108637294, y=-34.922253771274846]
+adj = 3.8744493280832017
+hyp = 5.471285251271161
+angle before accounting for quadrants = 44.91601997950626
+angle = 44.91601997950626
+angle of plane = 303.5999999999993
+steer value = 1.0
+COUNTER = 93
+original enemy position = Vector[x=12.92868673749002, y=-24.10462869162237]
+new enemy position = Vector[x=13.149945780758252, y=-23.656248901966293]
+adj = -11.561900051464656
+hyp = 11.732958025364256
+angle before accounting for quadrants = 170.20431996309154
+angle = 189.79568003690846
+angle of plane = 102.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.236261497878466, y=-34.9504086583829]
+new enemy position = Vector[x=-16.356710946010775, y=-35.435683766383114]
+adj = -15.839347932566007
+hyp = 23.880472722233637
+angle before accounting for quadrants = 131.5502116028698
+angle = 311.5502116028698
+angle of plane = 356.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.236261497878466, y=-34.9504086583829]
+new enemy position = Vector[x=-16.356710946010775, y=-35.435683766383114]
+adj = 4.863845768444207
+hyp = 5.465886547413904
+angle before accounting for quadrants = 27.144984298510693
+angle = 27.144984298510693
+angle of plane = 318.5999999999993
+steer value = 1.0
+COUNTER = 94
+original enemy position = Vector[x=13.025245443735951, y=-23.619843398687156]
+new enemy position = Vector[x=12.992671501195241, y=-23.120905588667355]
+adj = -12.89577194379744
+hyp = 12.97796585979067
+angle before accounting for quadrants = 173.5481593778508
+angle = 186.4518406221492
+angle of plane = 117.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.47545086682005, y=-35.382992534392486]
+new enemy position = Vector[x=-16.822400702774555, y=-35.743028381678755]
+adj = -15.762747277086273
+hyp = 22.071060388479005
+angle before accounting for quadrants = 135.57617602632658
+angle = 315.5761760263266
+angle of plane = 341.39999999999975
+steer value = -1.0
+original enemy position = Vector[x=-16.47545086682005, y=-35.382992534392486]
+new enemy position = Vector[x=-16.822400702774555, y=-35.743028381678755]
+adj = 5.668808495292986
+hyp = 5.681053469636849
+angle before accounting for quadrants = 3.762531713187633
+angle = 3.762531713187633
+angle of plane = 333.5999999999993
+steer value = 1.0
+COUNTER = 95
+original enemy position = Vector[x=13.03544396570012, y=-23.120558185206725]
+new enemy position = Vector[x=13.088365088640757, y=-22.623366718318263]
+adj = -14.023836987095363
+hyp = 14.025369918276539
+angle before accounting for quadrants = 179.1528784055067
+angle = 180.8471215944933
+angle of plane = 132.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.71464023576164, y=-35.815576410402095]
+new enemy position = Vector[x=-16.835089683893948, y=-36.30085151840231]
+adj = -15.443202668491836
+hyp = 20.607894198567053
+angle before accounting for quadrants = 138.5369474627534
+angle = 318.5369474627534
+angle of plane = 326.39999999999975
+steer value = -0.52
+original enemy position = Vector[x=-16.71464023576164, y=-35.815576410402095]
+new enemy position = Vector[x=-16.835089683893948, y=-36.30085151840231]
+adj = 5.756971700196651
+hyp = 5.955956715664172
+angle before accounting for quadrants = 14.852126933474068
+angle = 104.85212693347407
+angle of plane = 348.5999999999993
+steer value = 1.0
+COUNTER = 96
+original enemy position = Vector[x=13.066404923322846, y=-22.621679750158112]
+new enemy position = Vector[x=13.075365642501083, y=-22.121760051094544]
+adj = -14.793440721256403
+hyp = 14.851884029113254
+angle before accounting for quadrants = 174.91540029440847
+angle = 354.91540029440847
+angle of plane = 147.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-16.953829604703223, y=-36.24816028641168]
+new enemy position = Vector[x=-17.300779440657728, y=-36.60819613369795]
+adj = -14.53396438542341
+hyp = 18.591899661553214
+angle before accounting for quadrants = 141.41983302545592
+angle = 321.4198330254559
+angle of plane = 318.6
+steer value = 0.19
+original enemy position = Vector[x=-16.953829604703223, y=-36.24816028641168]
+new enemy position = Vector[x=-17.300779440657728, y=-36.60819613369795]
+adj = 5.585269524372066
+hyp = 6.85942960008654
+angle before accounting for quadrants = 35.48703160384124
+angle = 125.48703160384125
+angle of plane = 3.5999999999992838
+steer value = 1.0
+COUNTER = 97
+original enemy position = Vector[x=12.947046011221273, y=-22.1419987998379]
+new enemy position = Vector[x=12.704846372134021, y=-21.70457528100746]
+adj = -15.647466352554062
+hyp = 15.843150639688048
+angle before accounting for quadrants = 170.9854747899912
+angle = 350.9854747899912
+angle of plane = 132.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-17.37726561252661, y=-36.503194227832736]
+new enemy position = Vector[x=-17.85775090794519, y=-36.64151949987845]
+adj = -13.282513616484732
+hyp = 16.332876200402065
+angle before accounting for quadrants = 144.4134982366415
+angle = 324.4134982366415
+angle of plane = 321.45
+steer value = 0.2
+original enemy position = Vector[x=-17.37726561252661, y=-36.503194227832736]
+new enemy position = Vector[x=-17.85775090794519, y=-36.64151949987845]
+adj = 5.16800088741622
+hyp = 8.30096615839272
+angle before accounting for quadrants = 51.495343484591004
+angle = 141.495343484591
+angle of plane = 18.599999999999284
+steer value = 1.0
+COUNTER = 98
+original enemy position = Vector[x=12.644077598457198, y=-21.746538729347858]
+new enemy position = Vector[x=12.284774609389878, y=-21.398829997724263]
+adj = -16.967324982917862
+hyp = 17.269709069440207
+angle before accounting for quadrants = 169.26232339669141
+angle = 349.2623233966914
+angle of plane = 117.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-17.871488922889252, y=-36.51234209601896]
+new enemy position = Vector[x=-18.35676403088947, y=-36.39189264788666]
+adj = -11.82800094171716
+hyp = 13.957192573153398
+angle before accounting for quadrants = 147.93522172071005
+angle = 327.93522172071005
+angle of plane = 324.4499999999998
+steer value = 0.23
+original enemy position = Vector[x=-17.871488922889252, y=-36.51234209601896]
+new enemy position = Vector[x=-18.35676403088947, y=-36.39189264788666]
+adj = 4.540259994090029
+hyp = 9.889715880574576
+angle before accounting for quadrants = 62.67166061648864
+angle = 152.67166061648862
+angle of plane = 33.599999999999284
+steer value = 1.0
+COUNTER = 99
+original enemy position = Vector[x=12.389937665716309, y=-21.322565547902816]
+new enemy position = Vector[x=12.252626515340124, y=-20.841789458665456]
+adj = -18.279499649490752
+hyp = 18.686865888902503
+angle before accounting for quadrants = 168.0145584333167
+angle = 348.01455843331667
+angle of plane = 102.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-18.30407279889885, y=-36.27315272707738]
+new enemy position = Vector[x=-18.66410864618512, y=-35.92620289112288]
+adj = -10.249163071543762
+hyp = 11.603864390794733
+angle before accounting for quadrants = 152.0374540185441
+angle = 332.0374540185441
+angle of plane = 327.9000000000001
+steer value = 0.28
+original enemy position = Vector[x=-18.30407279889885, y=-36.27315272707738]
+new enemy position = Vector[x=-18.66410864618512, y=-35.92620289112288]
+adj = 3.694950692917878
+hyp = 11.221851982796302
+angle before accounting for quadrants = 70.77589698640175
+angle = 160.77589698640173
+angle of plane = 48.599999999999284
+steer value = 1.0
+COUNTER = 100
+original enemy position = Vector[x=12.13579773297542, y=-20.898592366457773]
+new enemy position = Vector[x=11.7764947439081, y=-20.55088363483418]
+adj = -19.97403639603625
+hyp = 20.294468807382366
+angle before accounting for quadrants = 169.80493275332907
+angle = 349.80493275332907
+angle of plane = 87.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-18.559106740319912, y=-35.84971671925399]
+new enemy position = Vector[x=-18.697432012365624, y=-35.36923142383541]
+adj = -8.692415483021843
+hyp = 9.437746424807521
+angle before accounting for quadrants = 157.0766279904497
+angle = 337.0766279904497
+angle of plane = 332.0999999999997
+steer value = 0.33
+original enemy position = Vector[x=-0.20222565463548242, y=-32.04095783606545]
+new enemy position = Vector[x=-0.6209414574125045, y=-31.76768676825037]
+adj = 6.198178864506438
+hyp = 8.862653317329396
+angle before accounting for quadrants = 45.62437828180604
+angle = 45.62437828180604
+angle of plane = 63.599999999999284
+steer value = -1.0
+COUNTER = 101
+original enemy position = Vector[x=11.703719504383221, y=-20.658490787173495]
+new enemy position = Vector[x=11.218699622383442, y=-20.537017687003456]
+adj = -21.92653575325519
+hyp = 22.092359998857827
+angle before accounting for quadrants = 172.9755453388613
+angle = 352.9755453388613
+angle of plane = 72.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-18.677408135946433, y=-35.36406026393345]
+new enemy position = Vector[x=-18.775550662837652, y=-34.87378682551831]
+adj = -7.338579404714228
+hyp = 7.554239588443656
+angle before accounting for quadrants = 166.27646848973095
+angle = 346.276468489731
+angle of plane = 337.04999999999944
+steer value = 0.62
+original enemy position = Vector[x=-0.6486356290538273, y=-31.818225293095093]
+new enemy position = Vector[x=-1.118770986298646, y=-31.648011469131564]
+adj = 4.662566212341321
+hyp = 6.637891311674582
+angle before accounting for quadrants = 45.3787747137994
+angle = 45.3787747137994
+angle of plane = 48.599999999999284
+steer value = -0.22
+COUNTER = 102
+original enemy position = Vector[x=11.209477992358062, y=-20.666595834320656]
+new enemy position = Vector[x=10.728701903120703, y=-20.80390698469684]
+adj = -24.0067085447043
+hyp = 24.04642912146859
+angle before accounting for quadrants = 176.70633134675325
+angle = 356.70633134675325
+angle of plane = 57.89999999999978
+steer value = -1.0
+original enemy position = Vector[x=-18.64567979112307, y=-34.87077163023818]
+new enemy position = Vector[x=-18.48553699339489, y=-34.39711111432431]
+adj = -6.234607934461383
+hyp = 6.237363751228799
+angle before accounting for quadrants = 178.29675056017427
+angle = 358.29675056017425
+angle of plane = 346.3499999999995
+steer value = 0.8
+original enemy position = Vector[x=0.4147283766211681, y=-27.637800404558565]
+new enemy position = Vector[x=-0.08289535590083441, y=-27.686489426225368]
+adj = 7.162773723167721
+hyp = 8.403868837929888
+angle before accounting for quadrants = 31.5352441822916
+angle = 31.5352441822916
+angle of plane = 45.2999999999993
+steer value = -0.92
+COUNTER = 103
+original enemy position = Vector[x=10.77431574963989, y=-20.90440981939301]
+new enemy position = Vector[x=10.399105936539097, y=-21.23489067534819]
+adj = -25.974321644310642
+hyp = 25.975246974567224
+angle before accounting for quadrants = 179.51637643038563
+angle = 180.48362356961437
+angle of plane = 42.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-18.371557921638377, y=-34.45943531447165]
+new enemy position = Vector[x=-17.99603993261573, y=-34.12930467378468]
+adj = -5.701045163066809
+hyp = 5.848206600902969
+angle before accounting for quadrants = 167.11933702886668
+angle = 192.88066297113332
+angle of plane = 358.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=-0.07292547242990427, y=-27.556966701786536]
+new enemy position = Vector[x=-0.528224777153393, y=-27.3503207651744]
+adj = 6.259647448286888
+hyp = 6.699141771447531
+angle before accounting for quadrants = 20.86930922225348
+angle = 20.86930922225348
+angle of plane = 31.499999999999275
+steer value = -0.71
+COUNTER = 104
+original enemy position = Vector[x=10.500577776985063, y=-21.31600171232215]
+new enemy position = Vector[x=10.340876975068156, y=-21.78981143559416]
+adj = -28.065871813511624
+hyp = 28.108568071100994
+angle before accounting for quadrants = 176.8415924938389
+angle = 183.1584075061611
+angle of plane = 57.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-18.068460902949322, y=-34.065702927350365]
+new enemy position = Vector[x=-17.845375354010365, y=-33.618229086936644]
+adj = -4.872837675488203
+hyp = 5.7871463160002685
+angle before accounting for quadrants = 147.35303111077667
+angle = 212.64696888922333
+angle of plane = 343.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=-0.5103665208225181, y=-27.31583928865556]
+new enemy position = Vector[x=-0.9281872733325303, y=-27.0412016751137]
+adj = 5.687807432896758
+hyp = 5.691121917628374
+angle before accounting for quadrants = 1.9555448317340718
+angle = 1.9555448317340718
+angle of plane = 20.849999999999262
+steer value = -1.0
+COUNTER = 105
+original enemy position = Vector[x=10.425321718790617, y=-21.80777939948804]
+new enemy position = Vector[x=10.43601928207113, y=-22.307664948528878]
+adj = -30.39700882020209
+hyp = 30.48267674137845
+angle before accounting for quadrants = 175.70342934769903
+angle = 184.29657065230097
+angle of plane = 72.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-17.96992620465086, y=-33.581315399404616]
+new enemy position = Vector[x=-18.000465372259388, y=-33.08224891160787]
+adj = -3.520938452851418
+hyp = 6.1946881556508595
+angle before accounting for quadrants = 124.63735328863075
+angle = 235.36264671136925
+angle of plane = 328.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=-0.9559960864520082, y=-27.09153905508918]
+new enemy position = Vector[x=-1.425489293287606, y=-26.91956193819502]
+adj = 5.34896702069938
+hyp = 5.800408950487599
+angle before accounting for quadrants = 22.75448880905108
+angle = 112.75448880905108
+angle of plane = 5.8499999999992625
+steer value = 1.0
+COUNTER = 106
+original enemy position = Vector[x=10.307630108690748, y=-22.2878721498085]
+new enemy position = Vector[x=10.066951695729847, y=-22.726134515902853]
+adj = -32.78184369262574
+hyp = 32.91750001650545
+angle before accounting for quadrants = 174.79652478309072
+angle = 185.20347521690928
+angle of plane = 87.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-17.8713915063524, y=-33.09692787145887]
+new enemy position = Vector[x=-17.64830595741344, y=-32.649454031045146]
+adj = -1.8290409131073062
+hyp = 6.551671805316279
+angle before accounting for quadrants = 106.2107713750469
+angle = 253.7892286249531
+angle of plane = 313.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=-1.4420700194407132, y=-26.980108985456983]
+new enemy position = Vector[x=-1.9395931343243338, y=-26.93040234448719]
+adj = 4.877646465291139
+hyp = 6.772201333007144
+angle before accounting for quadrants = 43.92525995603996
+angle = 133.92525995603995
+angle of plane = 20.849999999999262
+steer value = 1.0
+COUNTER = 107
+original enemy position = Vector[x=9.965659809371742, y=-22.64479886270883]
+new enemy position = Vector[x=9.538095006557903, y=-22.904005998788765]
+adj = -34.94515774588846
+hyp = 35.10313481867882
+angle before accounting for quadrants = 174.562181363956
+angle = 185.437818636044
+angle of plane = 102.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-17.54386419049882, y=-32.72670331613073]
+new enemy position = Vector[x=-17.126929517693625, y=-32.450722377272946]
+adj = -0.013828753738032162
+hyp = 6.937810937007002
+angle before accounting for quadrants = 90.11420457504062
+angle = 269.8857954249594
+angle of plane = 298.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=-1.9298881666529741, y=-27.059945188075638]
+new enemy position = Vector[x=-2.3856091435970486, y=-27.265659531700816]
+adj = 3.5953863543163784
+hyp = 7.779766726581023
+angle before accounting for quadrants = 62.47434239261141
+angle = 152.47434239261142
+angle of plane = 35.84999999999926
+steer value = 1.0
+COUNTER = 108
+original enemy position = Vector[x=9.500353687189987, y=-22.819860556220238]
+new enemy position = Vector[x=9.007964326349303, y=-22.906766927280724]
+adj = -36.817133880012136
+hyp = 36.952627474304975
+angle before accounting for quadrants = 175.09197076306742
+angle = 184.90802923693258
+angle of plane = 117.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-17.190897352501214, y=-32.37708614655694]
+new enemy position = Vector[x=-16.91095346023491, y=-31.96280192385133]
+adj = 2.337789576600258
+hyp = 7.7906650377252245
+angle before accounting for quadrants = 72.53784769870157
+angle = 162.53784769870157
+angle of plane = 283.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=1.9106391085735333, y=-23.401213038017175]
+new enemy position = Vector[x=1.5153084345710435, y=-23.095086171844443]
+adj = 6.396970700024543
+hyp = 7.791634856910524
+angle before accounting for quadrants = 34.81448111704889
+angle = 124.8144811170489
+angle of plane = 50.84999999999926
+steer value = 1.0
+COUNTER = 109
+original enemy position = Vector[x=9.007919521168297, y=-22.776861066308335]
+new enemy position = Vector[x=8.538044640596839, y=-22.60592951097709]
+adj = -38.14190037735552
+hyp = 38.22219436806589
+angle before accounting for quadrants = 176.28552533627393
+angle = 183.71447466372607
+angle of plane = 132.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.880597771642535, y=-31.985636323810624]
+new enemy position = Vector[x=-16.541138428898137, y=-31.618529589163135]
+adj = 4.665969229119209
+hyp = 8.63439425131667
+angle before accounting for quadrants = 57.28958014453214
+angle = 147.28958014453212
+angle of plane = 268.3499999999997
+steer value = -1.0
+original enemy position = Vector[x=9.007919521168297, y=-22.776861066308335]
+new enemy position = Vector[x=8.538044640596839, y=-22.60592951097709]
+adj = 5.1884465953095
+hyp = 5.408728744848711
+angle before accounting for quadrants = 16.408344971038485
+angle = 16.408344971038485
+angle of plane = 65.84999999999926
+steer value = -1.0
+COUNTER = 110
+original enemy position = Vector[x=0.998954164258144, y=-23.018862389657176]
+new enemy position = Vector[x=0.6036234902556543, y=-22.712735523484444]
+adj = -39.51991679124764
+hyp = 40.50397009841362
+angle before accounting for quadrants = 167.34444013465867
+angle = 192.65555986534133
+angle of plane = 147.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-16.46250541139118, y=-31.721933570132123]
+new enemy position = Vector[x=-15.98497162969882, y=-31.573739483399244]
+adj = 6.679676088479653
+hyp = 9.24516282747244
+angle before accounting for quadrants = 43.738315472915964
+angle = 133.73831547291596
+angle of plane = 253.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.998954164258144, y=-23.018862389657176]
+new enemy position = Vector[x=0.6036234902556543, y=-22.712735523484444]
+adj = 3.383959817219786
+hyp = 8.185273360080389
+angle before accounting for quadrants = 65.58011274558864
+angle = 155.58011274558862
+angle of plane = 50.849999999999255
+steer value = 1.0
+COUNTER = 111
+original enemy position = Vector[x=0.699770665335678, y=-22.62537846626172]
+new enemy position = Vector[x=0.5104676918406631, y=-22.16259948637397]
+adj = -39.79996675517981
+hyp = 40.43779367932846
+angle before accounting for quadrants = 169.8101490519695
+angle = 190.1898509480305
+angle of plane = 162.89999999999978
+steer value = 1.0
+original enemy position = Vector[x=-15.96857542944606, y=-31.70260646652431]
+new enemy position = Vector[x=-15.480921999968784, y=-31.81303351356918]
+adj = 8.26012982470322
+hyp = 9.692940899629198
+angle before accounting for quadrants = 31.55043040317202
+angle = 121.55043040317202
+angle of plane = 238.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.699770665335678, y=-22.62537846626172]
+new enemy position = Vector[x=0.5104676918406631, y=-22.16259948637397]
+adj = 2.236415088747865
+hyp = 8.878908300696114
+angle before accounting for quadrants = 75.41124006905403
+angle = 165.41124006905403
+angle of plane = 65.84999999999926
+steer value = 1.0
+COUNTER = 112
+original enemy position = Vector[x=0.6374121165734353, y=-22.135019643159254]
+new enemy position = Vector[x=0.7048604224586946, y=-21.639589803491507]
+adj = -39.60954286897405
+hyp = 39.92301362693915
+angle before accounting for quadrants = 172.81529290205825
+angle = 187.18470709794175
+angle of plane = 177.89999999999978
+steer value = 0.62
+original enemy position = Vector[x=-15.531155965586898, y=-31.93283369479092]
+new enemy position = Vector[x=-15.164049230939408, y=-32.27229303753531]
+adj = 9.347436276923197
+hyp = 9.979754232027059
+angle before accounting for quadrants = 20.505277598783692
+angle = 110.50527759878369
+angle of plane = 223.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.6374121165734353, y=-22.135019643159254]
+new enemy position = Vector[x=0.7048604224586946, y=-21.639589803491507]
+adj = 0.8487463932380805
+hyp = 9.00972761146935
+angle before accounting for quadrants = 84.5945313334844
+angle = 174.59453133348438
+angle of plane = 80.84999999999926
+steer value = 1.0
+COUNTER = 113
+original enemy position = Vector[x=0.8285874407534364, y=-21.67917717100155]
+new enemy position = Vector[x=1.1347143069261674, y=-21.28384649699906]
+adj = -39.164914802717576
+hyp = 39.24897751021167
+angle before accounting for quadrants = 176.24938326114426
+angle = 183.75061673885574
+angle of plane = 187.19999999999985
+steer value = -0.23
+original enemy position = Vector[x=-15.267453211908398, y=-32.35092605504225]
+new enemy position = Vector[x=-15.11925912517552, y=-32.82845983673461]
+adj = 9.95925774824665
+hyp = 10.126819672295621
+angle before accounting for quadrants = 10.437330088082538
+angle = 100.43733008808253
+angle of plane = 208.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.8285874407534364, y=-21.67917717100155]
+new enemy position = Vector[x=1.1347143069261674, y=-21.28384649699906]
+adj = -0.788976717529458
+hyp = 8.633357552693655
+angle before accounting for quadrants = 95.24340567564992
+angle = 264.7565943243501
+angle of plane = 95.84999999999926
+steer value = 1.0
+COUNTER = 114
+original enemy position = Vector[x=1.0197627649334369, y=-21.22333469884385]
+new enemy position = Vector[x=1.0872110708186962, y=-20.727904859176103]
+adj = -38.41817915165467
+hyp = 38.423252196057874
+angle before accounting for quadrants = 179.06893568903791
+angle = 180.93106431096209
+angle of plane = 183.75
+steer value = -0.19
+original enemy position = Vector[x=-15.24812610830058, y=-32.844856036987366]
+new enemy position = Vector[x=-15.358553155345453, y=-33.33250946646464]
+adj = 10.165022212931774
+hyp = 10.167194700837756
+angle before accounting for quadrants = 1.1844683958405262
+angle = 91.18446839584053
+angle of plane = 193.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=1.0197627649334369, y=-21.22333469884385]
+new enemy position = Vector[x=1.0872110708186962, y=-20.727904859176103]
+adj = -2.17343809385698
+hyp = 8.467930427951481
+angle before accounting for quadrants = 104.87238377353515
+angle = 255.12761622646485
+angle of plane = 110.84999999999926
+steer value = 1.0
+COUNTER = 115
+original enemy position = Vector[x=0.9574042161711942, y=-20.732975875741385]
+new enemy position = Vector[x=0.7681012426761793, y=-20.270196895853637]
+adj = -37.879344013657324
+hyp = 37.894024030002875
+angle before accounting for quadrants = 178.40511432217826
+angle = 358.4051143221783
+angle of plane = 180.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-15.47835333656719, y=-33.282275500846545]
+new enemy position = Vector[x=-15.817812679311588, y=-33.64938223549403]
+adj = 10.05141670469881
+hyp = 10.137002970625915
+angle before accounting for quadrants = 7.450594330251668
+angle = 7.450594330251668
+angle of plane = 178.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.9574042161711942, y=-20.732975875741385]
+new enemy position = Vector[x=0.7681012426761793, y=-20.270196895853637]
+adj = -3.470834482828721
+hyp = 8.315364167957632
+angle before accounting for quadrants = 114.67055832101028
+angle = 245.32944167898972
+angle of plane = 125.84999999999926
+steer value = 1.0
+COUNTER = 116
+original enemy position = Vector[x=0.6582207172487281, y=-20.339491952345927]
+new enemy position = Vector[x=0.2628900432462384, y=-20.033365086173195]
+adj = -37.35117979672384
+hyp = 37.4362522564773
+angle before accounting for quadrants = 176.1366129461268
+angle = 356.1366129461268
+angle of plane = 195.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-15.896445696818533, y=-33.54597825452504]
+new enemy position = Vector[x=-16.373979478510893, y=-33.69417234125792]
+adj = 9.68949469820435
+hyp = 10.065986182942256
+angle before accounting for quadrants = 15.719910140809999
+angle = 15.719910140809999
+angle of plane = 163.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.6582207172487281, y=-20.339491952345927]
+new enemy position = Vector[x=0.2628900432462384, y=-20.033365086173195]
+adj = -4.68420090242445
+hyp = 8.168990496264625
+angle before accounting for quadrants = 124.98853115077515
+angle = 235.01146884922485
+angle of plane = 140.84999999999926
+steer value = 1.0
+COUNTER = 117
+original enemy position = Vector[x=0.20237824509103053, y=-20.148316628165926]
+new enemy position = Vector[x=-0.2930515945767154, y=-20.080868322280665]
+adj = -36.60665364959145
+hyp = 36.80301652030876
+angle before accounting for quadrants = 174.07867503576304
+angle = 354.078675035763
+angle of plane = 210.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.390375678763643, y=-33.565305358132846]
+new enemy position = Vector[x=-16.87802910824092, y=-33.454878311087974]
+adj = 9.112869681066293
+hyp = 9.96943540311549
+angle before accounting for quadrants = 23.924473372558182
+angle = 23.924473372558182
+angle of plane = 148.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=0.20237824509103053, y=-20.148316628165926]
+new enemy position = Vector[x=-0.2930515945767154, y=-20.080868322280665]
+adj = -5.778167632030772
+hyp = 8.012433414872323
+angle before accounting for quadrants = 136.14952152294572
+angle = 223.85047847705428
+angle of plane = 155.84999999999926
+steer value = 1.0
+COUNTER = 118
+original enemy position = Vector[x=-0.2910357831910852, y=-20.194996746648812]
+new enemy position = Vector[x=-0.7650268673564489, y=-20.354158463565106]
+adj = -35.64119292522658
+hyp = 35.97476414102231
+angle before accounting for quadrants = 172.19147353427195
+angle = 352.19147353427195
+angle of plane = 225.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.827795142622804, y=-33.33507812986625]
+new enemy position = Vector[x=-17.194901877270294, y=-32.99561878712185]
+adj = 8.313026545851024
+hyp = 9.844131285960714
+angle before accounting for quadrants = 32.38531559628224
+angle = 32.38531559628224
+angle of plane = 133.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=-0.2910357831910852, y=-20.194996746648812]
+new enemy position = Vector[x=-0.7650268673564489, y=-20.354158463565106]
+adj = -6.622871773317485
+hyp = 7.795648303354772
+angle before accounting for quadrants = 148.16385592256972
+angle = 211.83614407743028
+angle of plane = 170.84999999999926
+steer value = 1.0
+COUNTER = 119
+original enemy position = Vector[x=-0.78438905458547, y=-20.22570364493929]
+new enemy position = Vector[x=-1.274458233098151, y=-20.12654619301607]
+adj = -33.812527130980165
+hyp = 34.26778846261691
+angle before accounting for quadrants = 170.65010004507246
+angle = 350.65010004507246
+angle of plane = 240.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-17.091497896301306, y=-32.9169857696149]
+new enemy position = Vector[x=-17.239691983034184, y=-32.43945198792254]
+adj = 7.25271283945326
+hyp = 9.669970004730343
+angle before accounting for quadrants = 41.407513938781506
+angle = 41.407513938781506
+angle of plane = 118.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=-0.78438905458547, y=-20.22570364493929]
+new enemy position = Vector[x=-1.274458233098151, y=-20.12654619301607]
+adj = -6.452683089480267
+hyp = 6.967356662948462
+angle before accounting for quadrants = 157.83948125482578
+angle = 202.16051874517422
+angle of plane = 185.84999999999926
+steer value = 1.0
+COUNTER = 120
+original enemy position = Vector[x=-1.2269989697984065, y=-20.005619963233084]
+new enemy position = Vector[x=-1.601832602040548, y=-19.674712501636698]
+adj = -31.506446409629294
+hyp = 32.06782179767535
+angle before accounting for quadrants = 169.26343925233846
+angle = 349.26343925233846
+angle of plane = 255.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-17.144119085079573, y=-32.42293642552045]
+new enemy position = Vector[x=-17.099832801175946, y=-31.924901562224708]
+adj = 5.903565388234416
+hyp = 9.34608019802353
+angle before accounting for quadrants = 50.82713812856274
+angle = 50.82713812856274
+angle of plane = 103.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=-1.2269989697984065, y=-20.005619963233084]
+new enemy position = Vector[x=-1.601832602040548, y=-19.674712501636698]
+adj = -5.540369248984819
+hyp = 5.632590251112448
+angle before accounting for quadrants = 169.61771836437418
+angle = 190.38228163562582
+angle of plane = 200.84999999999926
+steer value = -0.7
+COUNTER = 121
+original enemy position = Vector[x=-1.669608885011348, y=-19.785536281526866]
+new enemy position = Vector[x=-2.159678063524029, y=-19.686378829603644]
+adj = -29.53703607215506
+hyp = 30.07169881265308
+angle before accounting for quadrants = 169.17957842405187
+angle = 349.1795784240519
+angle of plane = 270.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.97439530839276, y=-31.958679811539188]
+new enemy position = Vector[x=-16.68702482984514, y=-31.54951210990658]
+adj = 4.295047522721781
+hyp = 8.958328360702017
+angle before accounting for quadrants = 61.35068088867032
+angle = 61.35068088867032
+angle of plane = 88.34999999999968
+steer value = -1.0
+original enemy position = Vector[x=-1.669608885011348, y=-19.785536281526866]
+new enemy position = Vector[x=-2.159678063524029, y=-19.686378829603644]
+adj = -5.014948238353055
+hyp = 5.027196238720821
+angle before accounting for quadrants = 175.99967275375352
+angle = 355.99967275375354
+angle of plane = 190.34999999999943
+steer value = 1.0
+COUNTER = 122
+original enemy position = Vector[x=-2.112218800224284, y=-19.56545259982066]
+new enemy position = Vector[x=-2.4870524324664256, y=-19.234545138224274]
+adj = -27.112303180730674
+hyp = 27.574347749488318
+angle before accounting for quadrants = 169.49647087858958
+angle = 349.49647087858955
+angle of plane = 285.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.804671531705946, y=-31.494423197557936]
+new enemy position = Vector[x=-16.76038524780232, y=-30.996388334262196]
+adj = 2.879254544769612
+hyp = 8.006687380892096
+angle before accounting for quadrants = 68.92398567805212
+angle = 68.92398567805212
+angle of plane = 73.34999999999968
+steer value = -0.3
+original enemy position = Vector[x=-2.112218800224284, y=-19.56545259982066]
+new enemy position = Vector[x=-2.4870524324664256, y=-19.234545138224274]
+adj = -3.951811638642022
+hyp = 4.394253390820419
+angle before accounting for quadrants = 154.06798329627023
+angle = 334.0679832962702
+angle of plane = 205.34999999999943
+steer value = 1.0
+COUNTER = 123
+original enemy position = Vector[x=-2.4210333989387864, y=-19.175563213063395]
+new enemy position = Vector[x=-2.6573156618292932, y=-18.734915176368187]
+adj = -24.782401304338713
+hyp = 25.11347819752967
+angle before accounting for quadrants = 170.68620001410756
+angle = 350.68620001410756
+angle of plane = 300.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.718551693001643, y=-31.00250126353099]
+new enemy position = Vector[x=-16.591009634566717, y=-30.519041830558397]
+adj = 1.4649166208322626
+hyp = 7.144575610958488
+angle before accounting for quadrants = 78.16821806586543
+angle = 78.16821806586543
+angle of plane = 68.84999999999972
+steer value = 0.62
+original enemy position = Vector[x=-2.4210333989387864, y=-19.175563213063395]
+new enemy position = Vector[x=-2.6573156618292932, y=-18.734915176368187]
+adj = -2.370394146603509
+hyp = 4.166704367880927
+angle before accounting for quadrants = 124.67281981955327
+angle = 304.6728198195533
+angle of plane = 220.34999999999943
+steer value = 1.0
+COUNTER = 124
+original enemy position = Vector[x=-2.759416111985088, y=-18.815233498066714]
+new enemy position = Vector[x=-3.184366572459544, y=-18.55176223560618]
+adj = -23.03633374085824
+hyp = 23.15072872252483
+angle before accounting for quadrants = 174.3017988235833
+angle = 354.30179882358334
+angle of plane = 315.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.556319493440053, y=-30.530019304347967]
+new enemy position = Vector[x=-16.359970780024472, y=-30.070185440066478]
+adj = -0.001762034037390947
+hyp = 6.65641231684883
+angle before accounting for quadrants = 90.01516689623094
+angle = 270.01516689623094
+angle of plane = 78.14999999999979
+steer value = -1.0
+original enemy position = Vector[x=-2.759416111985088, y=-18.815233498066714]
+new enemy position = Vector[x=-3.184366572459544, y=-18.55176223560618]
+adj = -0.708691086251811
+hyp = 4.296869087245681
+angle before accounting for quadrants = 99.49328253028435
+angle = 279.4932825302843
+angle of plane = 235.34999999999943
+steer value = 1.0
+COUNTER = 125
+original enemy position = Vector[x=-3.2326289951830276, y=-18.672370167664333]
+new enemy position = Vector[x=-3.7323825205340686, y=-18.65667259144358]
+adj = -21.952196814494314
+hyp = 21.95270609206844
+angle before accounting for quadrants = 179.60972411732772
+angle = 359.6097241173277
+angle of plane = 330.90000000000003
+steer value = 1.0
+original enemy position = Vector[x=-16.486479184182922, y=-30.040670047476116]
+new enemy position = Vector[x=-16.54635314250538, y=-29.54426788278019]
+adj = -1.357484477809951
+hyp = 5.9657429615136035
+angle before accounting for quadrants = 103.15267224832502
+angle = 283.152672248325
+angle of plane = 63.14999999999979
+steer value = -1.0
+original enemy position = Vector[x=-7.136388157015368, y=-22.529489155650555]
+new enemy position = Vector[x=-7.612778989286484, y=-22.377661045842018]
+adj = -2.7600379347211437
+hyp = 2.8523157952327995
+angle before accounting for quadrants = 165.38612302734828
+angle = 345.3861230273483
+angle of plane = 250.34999999999943
+steer value = 1.0
+COUNTER = 126
+original enemy position = Vector[x=-3.7138750386317163, y=-18.785253335865587]
+new enemy position = Vector[x=-4.154523075326924, y=-19.021535598756092]
+adj = -21.582911487411124
+hyp = 21.68745221256182
+angle before accounting for quadrants = 174.37204359324693
+angle = 185.62795640675307
+angle of plane = 345.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-16.670523237849554, y=-29.581886461256932]
+new enemy position = Vector[x=-16.970310788510865, y=-29.181727212371577]
+adj = -2.64144475408332
+hyp = 5.012479083855093
+angle before accounting for quadrants = 121.80120845897562
+angle = 301.8012084589756
+angle of plane = 48.14999999999979
+steer value = -1.0
+original enemy position = Vector[x=-7.552459233921251, y=-22.26260861503258]
+new enemy position = Vector[x=-7.889111741893782, y=-21.892926198794257]
+adj = -0.3256820673386578
+hyp = 0.9224644444305801
+angle before accounting for quadrants = 110.67437862997593
+angle = 290.67437862997593
+angle of plane = 265.34999999999945
+steer value = 1.0
+COUNTER = 127
+original enemy position = Vector[x=-4.195121082080399, y=-18.89813650406684]
+new enemy position = Vector[x=-4.69487460743144, y=-18.88243892784609]
+adj = -20.709666482105415
+hyp = 21.19749594900515
+angle before accounting for quadrants = 167.6841103455301
+angle = 192.3158896544699
+angle of plane = 330.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-16.85440946147432, y=-29.12305509707267]
+new enemy position = Vector[x=-16.91395347164265, y=-28.626613246647995]
+adj = -3.3854863621199307
+hyp = 4.395449631629534
+angle before accounting for quadrants = 140.37412186168177
+angle = 320.3741218616818
+angle of plane = 33.14999999999979
+steer value = -1.0
+original enemy position = Vector[x=-7.940126216212984, y=-21.949944185984467]
+new enemy position = Vector[x=-8.372715112972298, y=-21.69921156664554]
+adj = 1.8598591930782575
+hyp = 1.8808622338223533
+angle before accounting for quadrants = 8.570480894770638
+angle = 8.570480894770638
+angle of plane = 280.34999999999945
+steer value = 1.0
+COUNTER = 128
+original enemy position = Vector[x=-4.676367125529088, y=-19.011019672268095]
+new enemy position = Vector[x=-5.1170151622242965, y=-19.2473019351586]
+adj = -19.8854822072166
+hyp = 20.93477548501173
+angle before accounting for quadrants = 161.78275072655697
+angle = 198.21724927344303
+angle of plane = 315.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-16.78424392044721, y=-28.633752367823647]
+new enemy position = Vector[x=-16.587589620683847, y=-28.17404910876996]
+adj = -3.79619711968466
+hyp = 4.023064727278231
+angle before accounting for quadrants = 160.66662456256222
+angle = 340.6666245625622
+angle of plane = 18.149999999999793
+steer value = -1.0
+original enemy position = Vector[x=-8.417373798635468, y=-21.8211998304963]
+new enemy position = Vector[x=-8.917373082293581, y=-21.820353460971035]
+adj = 3.637009841887096
+hyp = 3.7409393811154645
+angle before accounting for quadrants = 13.537155215176764
+angle = 103.53715521517677
+angle of plane = 295.34999999999945
+steer value = 1.0
+COUNTER = 129
+original enemy position = Vector[x=-5.036696840525777, y=-19.3494023853144]
+new enemy position = Vector[x=-5.300168102986311, y=-19.774352845788854]
+adj = -18.849618495128393
+hyp = 20.463970060454322
+angle before accounting for quadrants = 157.0892666303074
+angle = 202.9107333696926
+angle of plane = 300.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-16.478827414822945, y=-28.245086544666496]
+new enemy position = Vector[x=-16.07866816593759, y=-27.945298994005185]
+adj = -3.9360104645500016
+hyp = 3.9378127874731224
+angle before accounting for quadrants = 178.26642367649055
+angle = 181.73357632350945
+angle of plane = 3.1499999999997925
+steer value = 1.0
+original enemy position = Vector[x=-8.89505450665213, y=-21.948327739260925]
+new enemy position = Vector[x=-9.328489772936711, y=-22.197594403580112]
+adj = 4.935161857540624
+hyp = 5.4741151261386864
+angle before accounting for quadrants = 25.638082561373405
+angle = 115.63808256137341
+angle of plane = 310.34999999999945
+steer value = 1.0
+COUNTER = 130
+original enemy position = Vector[x=-5.397026555522462, y=-19.6877850983607]
+new enemy position = Vector[x=-5.83767459221767, y=-19.924067361251204]
+adj = -17.169061096054865
+hyp = 19.52418785806457
+angle before accounting for quadrants = 151.5669285800211
+angle = 208.4330714199789
+angle of plane = 285.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-16.173410909198683, y=-27.85642072150934]
+new enemy position = Vector[x=-15.97675660943532, y=-27.396717462455655]
+adj = -3.755992392630592
+hyp = 4.24459931617365
+angle before accounting for quadrants = 152.2376661433724
+angle = 207.7623338566276
+angle of plane = 18.149999999999793
+steer value = -1.0
+original enemy position = Vector[x=-2.0415935979379736, y=-22.567168386364504]
+new enemy position = Vector[x=-2.090088724571913, y=-23.064811052032105]
+adj = 5.406263321091696
+hyp = 6.381887161297965
+angle before accounting for quadrants = 32.0995470986971
+angle = 32.0995470986971
+angle of plane = 325.34999999999945
+steer value = 1.0
+COUNTER = 131
+original enemy position = Vector[x=-5.878272598971144, y=-19.800668266561953]
+new enemy position = Vector[x=-6.378026124322185, y=-19.7849706903412]
+adj = -15.05706522509984
+hyp = 18.14626623264025
+angle before accounting for quadrants = 146.07420159221883
+angle = 213.92579840778117
+angle of plane = 270.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-15.867994403574414, y=-27.46775489835219]
+new enemy position = Vector[x=-15.467835154689059, y=-27.16796734769088]
+adj = -3.895805737495934
+hyp = 5.189381872218663
+angle before accounting for quadrants = 138.65333622745078
+angle = 221.34666377254922
+angle of plane = 3.1499999999997925
+steer value = -1.0
+original enemy position = Vector[x=-2.215236170737215, y=-23.029973551536443]
+new enemy position = Vector[x=-2.5060555151957513, y=-23.436697178694626]
+adj = 5.944416292514937
+hyp = 6.064480186121781
+angle before accounting for quadrants = 11.420001881426469
+angle = 11.420001881426469
+angle of plane = 340.34999999999945
+steer value = 1.0
+COUNTER = 132
+original enemy position = Vector[x=-6.35148548216908, y=-19.65780493615957]
+new enemy position = Vector[x=-6.776435942643536, y=-19.394333673699037]
+adj = -12.685351543016498
+hyp = 16.338469906764555
+angle before accounting for quadrants = 140.93304418298314
+angle = 219.06695581701686
+angle of plane = 255.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-6.35148548216908, y=-19.65780493615957]
+new enemy position = Vector[x=-6.776435942643536, y=-19.394333673699037]
+adj = 4.0290929033723195
+hyp = 5.192022070115279
+angle before accounting for quadrants = 39.10275001788509
+angle = 39.10275001788509
+angle of plane = 348.1499999999998
+steer value = 1.0
+original enemy position = Vector[x=-2.5970176325458154, y=-23.34395329517837]
+new enemy position = Vector[x=-3.0522363863379356, y=-23.550776616387438]
+adj = 6.250079278366755
+hyp = 6.382837408783351
+angle before accounting for quadrants = 11.706226950822286
+angle = 101.70622695082228
+angle of plane = 355.34999999999945
+steer value = 1.0
+COUNTER = 133
+original enemy position = Vector[x=-6.6898681952153805, y=-19.297475221162887]
+new enemy position = Vector[x=-6.926150458105887, y=-18.85682718446768]
+adj = -10.29359802381364
+hyp = 14.152434101952505
+angle before accounting for quadrants = 136.6636609247098
+angle = 223.3363390752902
+angle of plane = 240.90000000000003
+steer value = -1.0
+original enemy position = Vector[x=-6.6898681952153805, y=-19.297475221162887]
+new enemy position = Vector[x=-6.926150458105887, y=-18.85682718446768]
+adj = 4.717864359480082
+hyp = 4.852801154008377
+angle before accounting for quadrants = 13.543099763097205
+angle = 13.543099763097205
+angle of plane = 3.1499999999998067
+steer value = 0.69
+original enemy position = Vector[x=-6.6898681952153805, y=-19.297475221162887]
+new enemy position = Vector[x=-6.926150458105887, y=-18.85682718446768]
+adj = 10.844869706782603
+hyp = 12.99568947405507
+angle before accounting for quadrants = 33.436454699648735
+angle = 123.43645469964873
+angle of plane = 10.349999999999454
+steer value = 1.0
+COUNTER = 134
+original enemy position = Vector[x=-6.802751363416635, y=-18.8162291777142]
+new enemy position = Vector[x=-6.787053787195883, y=-18.316475652363156]
+adj = -8.152192968011745
+hyp = 11.694279474800341
+angle before accounting for quadrants = 134.19555397688583
+angle = 225.80444602311417
+angle of plane = 225.90000000000003
+steer value = -0.01
+original enemy position = Vector[x=-6.802751363416635, y=-18.8162291777142]
+new enemy position = Vector[x=-6.787053787195883, y=-18.316475652363156]
+adj = 4.969033551587724
+hyp = 5.018198023688403
+angle before accounting for quadrants = 8.026840537077947
+angle = 98.02684053707794
+angle of plane = 13.499999999999801
+steer value = 1.0
+original enemy position = Vector[x=-6.802751363416635, y=-18.8162291777142]
+new enemy position = Vector[x=-6.787053787195883, y=-18.316475652363156]
+adj = 10.773918330555464
+hyp = 13.987253323482799
+angle before accounting for quadrants = 39.622137235924164
+angle = 129.62213723592416
+angle of plane = 25.349999999999454
+steer value = 1.0
+COUNTER = 135
+original enemy position = Vector[x=-6.659888033014246, y=-18.34301629451626]
+new enemy position = Vector[x=-6.396416770553712, y=-17.918065834041805]
+adj = -6.319354089217418
+hyp = 9.137550229477005
+angle before accounting for quadrants = 133.7553717025993
+angle = 226.2446282974007
+angle of plane = 225.75000000000017
+steer value = 0.03
+original enemy position = Vector[x=-6.659888033014246, y=-18.34301629451626]
+new enemy position = Vector[x=-6.396416770553712, y=-17.918065834041805]
+adj = 4.652752563928406
+hyp = 5.134720297477228
+angle before accounting for quadrants = 25.023341533922828
+angle = 115.02334153392283
+angle of plane = 28.4999999999998
+steer value = 1.0
+original enemy position = Vector[x=-6.659888033014246, y=-18.34301629451626]
+new enemy position = Vector[x=-6.396416770553712, y=-17.918065834041805]
+adj = 10.090540618694373
+hyp = 14.351150713383
+angle before accounting for quadrants = 45.322366108491565
+angle = 135.32236610849156
+angle of plane = 40.349999999999454
+steer value = 1.0
+COUNTER = 136
+original enemy position = Vector[x=-6.424375720889415, y=-17.902345351815423]
+new enemy position = Vector[x=-6.217469271598284, y=-17.447164375453564]
+adj = -4.410383066818579
+hyp = 6.690591323359745
+angle before accounting for quadrants = 131.23826543164208
+angle = 228.76173456835792
+angle of plane = 226.2000000000002
+steer value = 0.17
+original enemy position = Vector[x=-6.424375720889415, y=-17.902345351815423]
+new enemy position = Vector[x=-6.217469271598284, y=-17.447164375453564]
+adj = 3.951437823390947
+hyp = 5.349759191883596
+angle before accounting for quadrants = 42.38602777384913
+angle = 132.38602777384912
+angle of plane = 43.4999999999998
+steer value = 1.0
+original enemy position = Vector[x=-6.424375720889415, y=-17.902345351815423]
+new enemy position = Vector[x=-6.217469271598284, y=-17.447164375453564]
+adj = 9.082891957692905
+hyp = 14.547910907910573
+angle before accounting for quadrants = 51.36599004431777
+angle = 141.36599004431775
+angle of plane = 55.349999999999454
+steer value = 1.0
+COUNTER = 137
+original enemy position = Vector[x=-14.959207128828456, y=-25.133949410491226]
+new enemy position = Vector[x=-15.00223276034991, y=-24.635804055165917]
+adj = -10.125179423615922
+hyp = 16.058509601943978
+angle before accounting for quadrants = 129.08835028954644
+angle = 230.91164971045356
+angle of plane = 228.75
+steer value = 0.15
+original enemy position = Vector[x=-14.959207128828456, y=-25.133949410491226]
+new enemy position = Vector[x=-15.00223276034991, y=-24.635804055165917]
+adj = -4.787058851800584
+hyp = 14.46149504461971
+angle before accounting for quadrants = 109.3307590077334
+angle = 250.6692409922666
+angle of plane = 58.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-14.959207128828456, y=-25.133949410491226]
+new enemy position = Vector[x=-15.00223276034991, y=-24.635804055165917]
+adj = 0.11970031621400778
+hyp = 21.05924350966192
+angle before accounting for quadrants = 89.67433018891724
+angle = 179.67433018891722
+angle of plane = 70.34999999999945
+steer value = 1.0
+COUNTER = 138
+original enemy position = Vector[x=-14.872831817839694, y=-24.647246554890643]
+new enemy position = Vector[x=-14.661020430088486, y=-24.19432720664097]
+adj = -8.154520285163198
+hyp = 13.56006266042501
+angle before accounting for quadrants = 126.96757953674371
+angle = 233.0324204632563
+angle of plane = 231.00000000000009
+steer value = 0.13
+original enemy position = Vector[x=-14.872831817839694, y=-24.647246554890643]
+new enemy position = Vector[x=-14.661020430088486, y=-24.19432720664097]
+adj = -5.895438998754788
+hyp = 15.708310627004844
+angle before accounting for quadrants = 112.0432888233622
+angle = 247.95671117663778
+angle of plane = 43.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-14.872831817839694, y=-24.647246554890643]
+new enemy position = Vector[x=-14.661020430088486, y=-24.19432720664097]
+adj = -1.388443855595785
+hyp = 21.182985333364226
+angle before accounting for quadrants = 93.7581598508341
+angle = 266.2418401491659
+angle of plane = 85.34999999999945
+steer value = -1.0
+COUNTER = 139
+original enemy position = Vector[x=-14.576604951817101, y=-24.248650963428858]
+new enemy position = Vector[x=-14.204017025729398, y=-23.915216955964617]
+adj = -6.3000019794817135
+hyp = 11.105173261084705
+angle before accounting for quadrants = 124.56239332564459
+angle = 235.4376066743554
+angle of plane = 232.95000000000002
+steer value = 0.17
+original enemy position = Vector[x=-14.576604951817101, y=-24.248650963428858]
+new enemy position = Vector[x=-14.204017025729398, y=-23.915216955964617]
+adj = -6.788544947204127
+hyp = 17.11991014511706
+angle before accounting for quadrants = 113.36138298608435
+angle = 246.63861701391565
+angle of plane = 28.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-14.576604951817101, y=-24.248650963428858]
+new enemy position = Vector[x=-14.204017025729398, y=-23.915216955964617]
+adj = -3.0589546252541524
+hyp = 21.320752333623044
+angle before accounting for quadrants = 98.24887030341453
+angle = 261.75112969658545
+angle of plane = 70.34999999999945
+steer value = -1.0
+COUNTER = 140
+original enemy position = Vector[x=-14.135493054077285, y=-24.025579993397916]
+new enemy position = Vector[x=-13.646105441209855, y=-23.923111635492084]
+adj = -4.6853926202890825
+hyp = 8.77396118049568
+angle before accounting for quadrants = 122.27687116201555
+angle = 237.72312883798446
+angle of plane = 235.49999999999983
+steer value = 0.15
+original enemy position = Vector[x=-14.135493054077285, y=-24.025579993397916]
+new enemy position = Vector[x=-13.646105441209855, y=-23.923111635492084]
+adj = -7.511130432712267
+hyp = 18.604040573198223
+angle before accounting for quadrants = 113.81197462727226
+angle = 246.18802537272774
+angle of plane = 13.499999999999801
+steer value = -1.0
+original enemy position = Vector[x=-14.135493054077285, y=-24.025579993397916]
+new enemy position = Vector[x=-13.646105441209855, y=-23.923111635492084]
+adj = -4.841401266548125
+hyp = 21.991824371585764
+angle before accounting for quadrants = 102.71757930202347
+angle = 257.28242069797653
+angle of plane = 55.349999999999454
+steer value = -1.0
+COUNTER = 141
+original enemy position = Vector[x=-13.641943459707571, y=-24.05295081537419]
+new enemy position = Vector[x=-13.166887175714036, y=-24.208904420777376]
+adj = -3.301116768419952
+hyp = 6.707386109139967
+angle before accounting for quadrants = 119.48274565378524
+angle = 240.51725434621477
+angle of plane = 237.74999999999991
+steer value = 0.18
+original enemy position = Vector[x=-13.641943459707571, y=-24.05295081537419]
+new enemy position = Vector[x=-13.166887175714036, y=-24.208904420777376]
+adj = -8.005383633488016
+hyp = 20.180294462120134
+angle before accounting for quadrants = 113.37161048481808
+angle = 246.62838951518194
+angle of plane = 358.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-13.641943459707571, y=-24.05295081537419]
+new enemy position = Vector[x=-13.166887175714036, y=-24.208904420777376]
+adj = -6.605744171423105
+hyp = 23.268743342796192
+angle before accounting for quadrants = 106.49246021721787
+angle = 253.50753978278215
+angle of plane = 40.349999999999454
+steer value = -1.0
+COUNTER = 142
+original enemy position = Vector[x=-13.22820238394403, y=-24.32342943971295]
+new enemy position = Vector[x=-12.894768376479787, y=-24.696017365800653]
+adj = -2.0722586868603408
+hyp = 4.9903036432998285
+angle before accounting for quadrants = 114.53550414402918
+angle = 245.46449585597082
+angle of plane = 240.45000000000002
+steer value = 0.33
+original enemy position = Vector[x=-13.22820238394403, y=-24.32342943971295]
+new enemy position = Vector[x=-12.894768376479787, y=-24.696017365800653]
+adj = -8.180520370692992
+hyp = 21.81412891042401
+angle before accounting for quadrants = 112.02494191522301
+angle = 247.975058084777
+angle of plane = 343.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-13.22820238394403, y=-24.32342943971295]
+new enemy position = Vector[x=-12.894768376479787, y=-24.696017365800653]
+adj = -8.17464464662881
+hyp = 25.084070158557427
+angle before accounting for quadrants = 109.01949688920224
+angle = 250.98050311079777
+angle of plane = 25.349999999999454
+steer value = -1.0
+COUNTER = 143
+original enemy position = Vector[x=-12.96370088053097, y=-24.74491715629245]
+new enemy position = Vector[x=-12.773212074391559, y=-25.207209287672143]
+adj = -0.8031814070708663
+hyp = 3.5988834685686704
+angle before accounting for quadrants = 102.89559439182447
+angle = 257.1044056081755
+angle of plane = 245.4000000000002
+steer value = 0.78
+original enemy position = Vector[x=-12.96370088053097, y=-24.74491715629245]
+new enemy position = Vector[x=-12.773212074391559, y=-25.207209287672143]
+adj = -7.8805601244351955
+hyp = 23.295877916323178
+angle before accounting for quadrants = 109.77219680269462
+angle = 250.22780319730538
+angle of plane = 328.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-12.96370088053097, y=-24.74491715629245]
+new enemy position = Vector[x=-12.773212074391559, y=-25.207209287672143]
+adj = -9.297139476831962
+hyp = 27.13390491710961
+angle before accounting for quadrants = 110.03775021382934
+angle = 249.96224978617067
+angle of plane = 10.349999999999454
+steer value = -1.0
+COUNTER = 144
+original enemy position = Vector[x=-12.663509566054868, y=-25.137632751489885]
+new enemy position = Vector[x=-12.26739535511172, y=-25.44274507816465]
+adj = 0.8518542666502533
+hyp = 2.509537534643442
+angle before accounting for quadrants = 70.1568315851319
+angle = 160.1568315851319
+angle of plane = 257.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.663509566054868, y=-25.137632751489885]
+new enemy position = Vector[x=-12.26739535511172, y=-25.44274507816465]
+adj = -6.861046466253082
+hyp = 23.969450607586207
+angle before accounting for quadrants = 106.633060753908
+angle = 253.366939246092
+angle of plane = 313.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-12.663509566054868, y=-25.137632751489885]
+new enemy position = Vector[x=-12.26739535511172, y=-25.44274507816465]
+adj = -9.631834270828378
+hyp = 28.645303746853347
+angle before accounting for quadrants = 109.64825103728593
+angle = 250.35174896271405
+angle of plane = 355.34999999999945
+steer value = -1.0
+COUNTER = 145
+original enemy position = Vector[x=-12.271770641720966, y=-25.448315692611274]
+new enemy position = Vector[x=-11.88445942157627, y=-25.764527676492385]
+adj = 2.3992868739542175
+hyp = 2.720521853294955
+angle before accounting for quadrants = 28.124964195442452
+angle = 118.12496419544246
+angle of plane = 242.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.271770641720966, y=-25.448315692611274]
+new enemy position = Vector[x=-11.88445942157627, y=-25.764527676492385]
+adj = -5.569411881220773
+hyp = 24.399916861476118
+angle before accounting for quadrants = 103.19437940835209
+angle = 256.8056205916479
+angle of plane = 298.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-12.271770641720966, y=-25.448315692611274]
+new enemy position = Vector[x=-11.88445942157627, y=-25.764527676492385]
+adj = -9.533874445611477
+hyp = 30.094197163923695
+angle before accounting for quadrants = 108.46957820925252
+angle = 251.53042179074748
+angle of plane = 340.34999999999945
+steer value = -1.0
+COUNTER = 146
+original enemy position = Vector[x=-11.982825662733042, y=-25.849378235259962]
+new enemy position = Vector[x=-11.805510298857543, y=-26.316881456354427]
+adj = 3.47253700773917
+hyp = 3.472872034537326
+angle before accounting for quadrants = 0.7958596828828
+angle = 90.7958596828828
+angle of plane = 227.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-11.982825662733042, y=-25.849378235259962]
+new enemy position = Vector[x=-11.805510298857543, y=-26.316881456354427]
+adj = -4.259932457785371
+hyp = 24.760732601719972
+angle before accounting for quadrants = 99.90667574963436
+angle = 260.09332425036564
+angle of plane = 283.4999999999998
+steer value = -1.0
+original enemy position = Vector[x=-11.982825662733042, y=-25.849378235259962]
+new enemy position = Vector[x=-11.805510298857543, y=-26.316881456354427]
+adj = -9.176189127387754
+hyp = 31.60130358824252
+angle before accounting for quadrants = 106.88033339939024
+angle = 253.11966660060978
+angle of plane = 325.34999999999945
+steer value = -1.0
+COUNTER = 147
+original enemy position = Vector[x=-11.933123241957887, y=-26.341181075194072]
+new enemy position = Vector[x=-12.013315242907655, y=-26.83470842295068]
+adj = 4.225920442527652
+hyp = 4.415688559328043
+angle before accounting for quadrants = 16.858455640372902
+angle = 16.858455640372902
+angle of plane = 212.1000000000002
+steer value = 1.0
+original enemy position = Vector[x=-11.933123241957887, y=-26.341181075194072]
+new enemy position = Vector[x=-12.013315242907655, y=-26.83470842295068]
+adj = -2.7943910571266493
+hyp = 24.964684109649887
+angle before accounting for quadrants = 96.42680061788498
+angle = 263.57319938211504
+angle of plane = 268.4999999999998
+steer value = -0.33
+original enemy position = Vector[x=-11.933123241957887, y=-26.341181075194072]
+new enemy position = Vector[x=-12.013315242907655, y=-26.83470842295068]
+adj = -8.355697981980946
+hyp = 33.00138168699887
+angle before accounting for quadrants = 104.66650083839926
+angle = 255.33349916160074
+angle of plane = 310.34999999999945
+steer value = -1.0
+COUNTER = 148
+original enemy position = Vector[x=-11.883420821182732, y=-26.832983915128185]
+new enemy position = Vector[x=-11.706105457307233, y=-27.30048713622265]
+adj = 5.031352130640414
+hyp = 5.922545093488288
+angle before accounting for quadrants = 31.83991984324854
+angle = 31.83991984324854
+angle of plane = 227.1000000000002
+steer value = 1.0
+original enemy position = Vector[x=-11.883420821182732, y=-26.832983915128185]
+new enemy position = Vector[x=-11.706105457307233, y=-27.30048713622265]
+adj = -1.2656014223358056
+hyp = 24.394840470488827
+angle before accounting for quadrants = 92.97383326867104
+angle = 267.02616673132894
+angle of plane = 263.55
+steer value = 0.23
+original enemy position = Vector[x=-11.883420821182732, y=-26.832983915128185]
+new enemy position = Vector[x=-11.706105457307233, y=-27.30048713622265]
+adj = -7.146083736990306
+hyp = 33.47235312654409
+angle before accounting for quadrants = 102.32707851200766
+angle = 257.6729214879923
+angle of plane = 295.34999999999945
+steer value = -1.0
+COUNTER = 149
+original enemy position = Vector[x=-11.833718400407577, y=-27.324786755062295]
+new enemy position = Vector[x=-11.913910401357345, y=-27.818314102818903]
+adj = 6.139129077691152
+hyp = 7.366755799024634
+angle before accounting for quadrants = 33.554975272136545
+angle = 33.554975272136545
+angle of plane = 242.1000000000002
+steer value = 1.0
+original enemy position = Vector[x=-11.833718400407577, y=-27.324786755062295]
+new enemy position = Vector[x=-11.913910401357345, y=-27.818314102818903]
+adj = 0.20947358818513706
+hyp = 24.405970784432483
+angle before accounting for quadrants = 89.50823099850882
+angle = 179.50823099850882
+angle of plane = 267.0000000000003
+steer value = -1.0
+original enemy position = Vector[x=-11.833718400407577, y=-27.324786755062295]
+new enemy position = Vector[x=-11.913910401357345, y=-27.818314102818903]
+adj = -5.765618160452227
+hyp = 34.0119964846302
+angle before accounting for quadrants = 99.75974881226259
+angle = 260.2402511877374
+angle of plane = 280.34999999999945
+steer value = -1.0
+COUNTER = 150
+original enemy position = Vector[x=-12.00321897685157, y=-27.792090363340133]
+new enemy position = Vector[x=-12.258072378139074, y=-28.222264448859228]
+adj = 7.6043939372825236
+hyp = 8.797078416008492
+angle before accounting for quadrants = 30.183154017608288
+angle = 30.183154017608288
+angle of plane = 257.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.00321897685157, y=-27.792090363340133]
+new enemy position = Vector[x=-12.258072378139074, y=-28.222264448859228]
+adj = 1.7664219309448406
+hyp = 24.449695709555524
+angle before accounting for quadrants = 85.85693107321076
+angle = 175.85693107321077
+angle of plane = 252.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-12.00321897685157, y=-27.792090363340133]
+new enemy position = Vector[x=-12.258072378139074, y=-28.222264448859228]
+adj = -4.177741878224353
+hyp = 34.21905358839526
+angle before accounting for quadrants = 97.01263258422695
+angle = 262.98736741577306
+angle of plane = 265.34999999999945
+steer value = -0.16
+COUNTER = 151
+original enemy position = Vector[x=-12.136516273343874, y=-28.26808636620782]
+new enemy position = Vector[x=-12.142138750340173, y=-28.76805475296085]
+adj = 8.927818838812598
+hyp = 10.348926226778167
+angle before accounting for quadrants = 30.38108348584516
+angle = 30.38108348584516
+angle of plane = 242.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.136516273343874, y=-28.26808636620782]
+new enemy position = Vector[x=-12.142138750340173, y=-28.76805475296085]
+adj = 3.0206514253680723
+hyp = 23.605369623597593
+angle before accounting for quadrants = 82.64801050550213
+angle = 172.64801050550213
+angle of plane = 237.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-12.136516273343874, y=-28.26808636620782]
+new enemy position = Vector[x=-12.142138750340173, y=-28.76805475296085]
+adj = -2.7340933504999114
+hyp = 33.75421511500274
+angle before accounting for quadrants = 94.64605135077981
+angle = 265.3539486492202
+angle of plane = 262.9499999999991
+steer value = 0.16
+COUNTER = 152
+original enemy position = Vector[x=-12.14812046344135, y=-28.767939755961724]
+new enemy position = Vector[x=-12.165705258962914, y=-29.267630435248886]
+adj = 10.053847070171553
+hyp = 11.899635559977668
+angle before accounting for quadrants = 32.34017198858881
+angle = 32.34017198858881
+angle of plane = 227.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.14812046344135, y=-28.767939755961724]
+new enemy position = Vector[x=-12.165705258962914, y=-29.267630435248886]
+adj = 4.03754827673362
+hyp = 22.50482702350231
+angle before accounting for quadrants = 79.66471473778694
+angle = 169.66471473778694
+angle of plane = 222.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-12.14812046344135, y=-28.767939755961724]
+new enemy position = Vector[x=-12.165705258962914, y=-29.267630435248886]
+adj = -1.2442302009618835
+hyp = 33.48615816765354
+angle before accounting for quadrants = 92.12940382241439
+angle = 267.87059617758564
+angle of plane = 265.34999999999945
+steer value = 0.17
+COUNTER = 153
+original enemy position = Vector[x=-12.037055537510337, y=-29.249608673607565]
+new enemy position = Vector[x=-11.802439077508787, y=-29.691145893665333]
+adj = 10.901542013139856
+hyp = 13.68074718387539
+angle before accounting for quadrants = 37.16938863835151
+angle = 37.16938863835151
+angle of plane = 212.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-12.037055537510337, y=-29.249608673607565]
+new enemy position = Vector[x=-11.802439077508787, y=-29.691145893665333]
+adj = 4.743612990020335
+hyp = 20.684151120649776
+angle before accounting for quadrants = 76.74203886547538
+angle = 166.74203886547537
+angle of plane = 207.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-12.037055537510337, y=-29.249608673607565]
+new enemy position = Vector[x=-11.802439077508787, y=-29.691145893665333]
+adj = 0.3286207867927402
+hyp = 32.983673546914716
+angle before accounting for quadrants = 89.42914497892733
+angle = 179.42914497892733
+angle of plane = 267.8999999999997
+steer value = -1.0
+COUNTER = 154
+original enemy position = Vector[x=-11.70003603136173, y=-29.611213729536704]
+new enemy position = Vector[x=-11.276083606825528, y=-29.876287948822316]
+adj = 11.546585959025506
+hyp = 15.67780478277347
+angle before accounting for quadrants = 42.56651696499183
+angle = 42.56651696499183
+angle of plane = 197.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-11.70003603136173, y=-29.611213729536704]
+new enemy position = Vector[x=-11.276083606825528, y=-29.876287948822316]
+adj = 5.22417972263402
+hyp = 18.480384253020407
+angle before accounting for quadrants = 73.57931148989495
+angle = 163.57931148989496
+angle of plane = 192.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-11.70003603136173, y=-29.611213729536704]
+new enemy position = Vector[x=-11.276083606825528, y=-29.876287948822316]
+adj = 2.1098440366854163
+hyp = 32.19230787927844
+angle before accounting for quadrants = 86.24221204789436
+angle = 176.24221204789436
+angle of plane = 252.8999999999997
+steer value = -1.0
+COUNTER = 155
+original enemy position = Vector[x=-11.227366049501581, y=-29.75586314103392]
+new enemy position = Vector[x=-10.72767537021442, y=-29.773447936555485]
+adj = 11.982011767969048
+hyp = 17.768001486918674
+angle before accounting for quadrants = 47.59560713069805
+angle = 47.59560713069805
+angle of plane = 182.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-11.227366049501581, y=-29.75586314103392]
+new enemy position = Vector[x=-10.72767537021442, y=-29.773447936555485]
+adj = 5.483490184988256
+hyp = 16.14949968007072
+angle before accounting for quadrants = 70.15081318823748
+angle = 160.15081318823746
+angle of plane = 177.00000000000028
+steer value = -1.0
+original enemy position = Vector[x=-11.227366049501581, y=-29.75586314103392]
+new enemy position = Vector[x=-10.72767537021442, y=-29.773447936555485]
+adj = 4.025967542707974
+hyp = 31.00697911126888
+angle before accounting for quadrants = 82.53961353583134
+angle = 172.53961353583134
+angle of plane = 237.8999999999997
+steer value = -1.0
+COUNTER = 156
+original enemy position = Vector[x=-10.74569713185575, y=-29.64479821510291]
+new enemy position = Vector[x=-10.304159911797983, y=-29.41018175510136]
+adj = 12.157598369314453
+hyp = 19.721926860082196
+angle before accounting for quadrants = 51.942583328269436
+angle = 51.942583328269436
+angle of plane = 167.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-10.74569713185575, y=-29.64479821510291]
+new enemy position = Vector[x=-10.304159911797983, y=-29.41018175510136]
+adj = 5.483325276252696
+hyp = 13.930226600675836
+angle before accounting for quadrants = 66.819575397676
+angle = 156.819575397676
+angle of plane = 162.00000000000028
+steer value = -0.35
+original enemy position = Vector[x=-10.74569713185575, y=-29.64479821510291]
+new enemy position = Vector[x=-10.304159911797983, y=-29.41018175510136]
+adj = 5.925863133117094
+hyp = 29.648023322557574
+angle before accounting for quadrants = 78.47042060347924
+angle = 168.47042060347923
+angle of plane = 222.8999999999997
+steer value = -1.0
+COUNTER = 157
+original enemy position = Vector[x=-10.322565990409172, y=-29.37922801431756]
+new enemy position = Vector[x=-9.919306501942849, y=-29.083623912583707]
+adj = 11.78900130816719
+hyp = 21.335769449072647
+angle before accounting for quadrants = 56.45812152081811
+angle = 56.45812152081811
+angle of plane = 152.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-10.322565990409172, y=-29.37922801431756]
+new enemy position = Vector[x=-9.919306501942849, y=-29.083623912583707]
+adj = 5.105629455197853
+hyp = 11.720157257575226
+angle before accounting for quadrants = 64.17473448749901
+angle = 154.174734487499
+angle of plane = 156.75000000000037
+steer value = -0.17
+original enemy position = Vector[x=-10.322565990409172, y=-29.37922801431756]
+new enemy position = Vector[x=-9.919306501942849, y=-29.083623912583707]
+adj = 7.4076775449688945
+hyp = 28.035662862704033
+angle before accounting for quadrants = 74.67918909443028
+angle = 164.67918909443028
+angle of plane = 207.8999999999997
+steer value = -1.0
+COUNTER = 158
+original enemy position = Vector[x=-9.933575073756344, y=-29.065369614077603]
+new enemy position = Vector[x=-9.559409914139897, y=-28.733706481774362]
+adj = 10.983662169642386
+hyp = 22.61490213985882
+angle before accounting for quadrants = 60.94280248154864
+angle = 60.94280248154864
+angle of plane = 137.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-9.933575073756344, y=-29.065369614077603]
+new enemy position = Vector[x=-9.559409914139897, y=-28.733706481774362]
+adj = 4.6254349036542095
+hyp = 9.563310616197542
+angle before accounting for quadrants = 61.07498168798202
+angle = 151.07498168798202
+angle of plane = 154.20000000000056
+steer value = -0.2
+original enemy position = Vector[x=-9.933575073756344, y=-29.065369614077603]
+new enemy position = Vector[x=-9.559409914139897, y=-28.733706481774362]
+adj = 8.452749879443154
+hyp = 26.210595208652908
+angle before accounting for quadrants = 71.18620398562514
+angle = 161.18620398562513
+angle of plane = 192.8999999999997
+steer value = -1.0
+COUNTER = 159
+original enemy position = Vector[x=-9.491410147427796, y=-28.84439327615193]
+new enemy position = Vector[x=-9.001542047837273, y=-28.74424715788683]
+adj = 9.436492084574919
+hyp = 23.569091702136493
+angle before accounting for quadrants = 66.39833128596
+angle = 66.39833128596
+angle of plane = 122.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-9.491410147427796, y=-28.84439327615193]
+new enemy position = Vector[x=-9.001542047837273, y=-28.74424715788683]
+adj = 3.6976998994652384
+hyp = 7.078085256749822
+angle before accounting for quadrants = 58.50559632747441
+angle = 148.5055963274744
+angle of plane = 151.20000000000073
+steer value = -0.17
+original enemy position = Vector[x=-9.491410147427796, y=-28.84439327615193]
+new enemy position = Vector[x=-9.001542047837273, y=-28.74424715788683]
+adj = 8.629888783439394
+hyp = 23.880737372610707
+angle before accounting for quadrants = 68.81536912452567
+angle = 158.81536912452566
+angle of plane = 177.8999999999997
+steer value = -1.0
+COUNTER = 160
+original enemy position = Vector[x=-8.996774930821745, y=-28.86514369607953]
+new enemy position = Vector[x=-8.517015712225197, y=-29.005966606756843]
+adj = 7.361489141949178
+hyp = 24.06582338347517
+angle before accounting for quadrants = 72.1882974922716
+angle = 72.1882974922716
+angle of plane = 107.1000000000002
+steer value = -1.0
+original enemy position = Vector[x=-8.996774930821745, y=-28.86514369607953]
+new enemy position = Vector[x=-8.517015712225197, y=-29.005966606756843]
+adj = 2.4337967760584434
+hyp = 4.529683992629965
+angle before accounting for quadrants = 57.50000988525108
+angle = 147.50000988525107
+angle of plane = 148.65000000000092
+steer value = -0.08
+original enemy position = Vector[x=-8.996774930821745, y=-28.86514369607953]
+new enemy position = Vector[x=-8.517015712225197, y=-29.005966606756843]
+adj = 8.035583537892663
+hyp = 21.383278826753852
+angle before accounting for quadrants = 67.92696414838298
+angle = 157.92696414838298
+angle of plane = 162.8999999999997
+steer value = -0.33
+You won!
+Stats:
+  - 600 remaining plane score
+  - Spent 1000 points
+  - Dealt 100 damage
+
+---- ERRORS (stderr) ----
+

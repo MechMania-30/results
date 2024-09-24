@@ -1,0 +1,30 @@
+---- OUTPUT (stdout) ----
+Waiting for connection from team 0 on 9001
+Waiting for connection from team 1 on 9002
+Connected to team 1 on 9002
+Connected to team 0 on 9001
+Game started!
+[Turn 41.733333333333334] [Damage event] PLANE_ATTACK: plane 10 damaged by 7 for 1 damage, still alive
+[Turn 44.86666666666667] [Damage event] BORDER: plane 7 damaged for 5 damage, now dead
+[Turn 47.266666666666666] [Damage event] BORDER: plane 5 damaged for 5 damage, now dead
+[Turn 300.26666666666665] [Damage event] PLANE_ATTACK: plane 13 damaged by 8 for 1 damage, still alive
+[Turn 300.26666666666665] [Damage event] PLANE_ATTACK: plane 9 damaged by 11 for 1 damage, still alive
+[Turn 300.53333333333336] [Damage event] PLANE_ATTACK: plane 13 damaged by 2 for 1 damage, still alive
+[Turn 300.53333333333336] [Damage event] PLANE_ATTACK: plane 13 damaged by 4 for 1 damage, still alive
+[Turn 300.6] [Damage event] PLANE_ATTACK: plane 13 damaged by 6 for 1 damage, still alive
+[Turn 301] [Damage event] PLANE_ATTACK: plane 13 damaged by 2 for 1 damage, still alive
+[Turn 301] [Damage event] PLANE_ATTACK: plane 13 damaged by 4 for 1 damage, still alive
+[Turn 301] [Damage event] PLANE_ATTACK: plane 13 damaged by 8 for 1 damage, still alive
+[Turn 301] [Damage event] PLANE_ATTACK: plane 9 damaged by 11 for 1 damage, still alive
+[Turn 302] [Damage event] PLANE_ATTACK: plane 9 damaged by 11 for 1 damage, still alive
+[Turn 302.6666666666667] [Damage event] BORDER: plane 8 damaged for 5 damage, now dead
+[Turn 303] [Damage event] PLANE_ATTACK: plane 9 damaged by 11 for 1 damage, still alive
+[Turn 304] [Damage event] PLANE_ATTACK: plane 9 damaged by 11 for 1 damage, now dead
+[Turn 337.2] [Damage event] PLANE_ATTACK: plane 10 damaged by 1 for 1 damage, still alive
+[Turn 446.06666666666666] [Damage event] BORDER: plane 1 damaged for 5 damage, now dead
+Game ended!
+Writing gamelog to gamelog.json...
+Done
+
+---- ERRORS (stderr) ----
+
