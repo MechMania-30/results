@@ -197,23 +197,6 @@ for [team0, team1], game in tqdm(games.items()):
         writes[path.join(dir, "gamelog.json")]= output_game_log
         writes[path.join(dir, "README.md")] = game_summary
 
-print("Summarizing teams...")
-for team, game_summaries in tqdm(team_summaries.items()):
-    wins = len(list(filter(lambda summary: summary[0] == "+1", game_summaries)))
-    draws = len(list(filter(lambda summary: summary[0] == "+0.5", game_summaries)))
-    loses = len(list(filter(lambda summary: summary[0] == "+0", game_summaries)))
-    score = wins + (draws * 0.5)
-
-    team_summary = f"# [{team}](../../README.md) Summary\n" + \
-        f"Scored {score} wins\n" + \
-        f"- Played against {len(game_summaries)} other teams\n" + \
-        f"- {wins} wins (+{wins})\n" + \
-        f"- {draws} draws (+{draws * 0.5})\n" + \
-        f"- {loses} loses (+0)\n" + \
-        "\n\n".join(add_links(summary, team0, team1, other_team) for _, other_team, team0, team1, summary in game_summaries) + "\n"
-    writes[path.join(TEAMS_OUTPUT_DIR, team, "README.md")] = team_summary
-    
-
 # Get scores
 print("Computing scoreboard...")
 scoring = defaultdict(float)
@@ -222,20 +205,52 @@ for [team0, team1], game in games.items():
     scoring[team1] += game.wins[1]
 
 scoreboard = sorted(scoring.items(), key=lambda entry: entry[1], reverse=True)
-scoreboard_with_links = list(map(lambda entry: (f"[{entry[0]}](<teams/{entry[0]}/README.md>)", entry[1]), scoreboard))
+scoreboard_tie_adjusted = []
 
-pos_pad = len(str(len(teams)))
-team_pad = max(*map(lambda team: len(team), map(lambda entry: entry[0], scoreboard_with_links)))
-points_pad = max(len(str(scoreboard[0][1])), len("Wins"))
+prev_score = None
+pos = 0
+for i, [team, score] in enumerate(scoreboard):
+    if score != prev_score:
+        pos = i + 1
+    
+    scoreboard_tie_adjusted.append((pos, team, score))
+    prev_score = score
+
+scoreboard_with_links = list(map(lambda entry: (entry[0], f"[{entry[1]}](<teams/{entry[1]}/README.md>)", entry[2]), scoreboard_tie_adjusted))
+
+pos_pad = len(str(pos))
+team_pad = max(*map(lambda team: len(team), map(lambda entry: entry[1], scoreboard_with_links)))
+wins_pad = max(len(str(scoreboard[0][1])), len("Wins"))
 
 readme_text = "# Scoring\n" + \
-    f"| {' ' * pos_pad} | {'Team':{team_pad}} | {'Wins':{points_pad}} |\n" + \
-    f"| {'-' * pos_pad} | {'-' * team_pad} | {'-' * points_pad} |\n" + \
-    "\n".join(f"| {(i + 1):{pos_pad}} | {entry[0]:{team_pad}} | {entry[1]:{points_pad}} |" for i, entry in enumerate(scoreboard_with_links)) + "\n" + \
-    f"| {' ' * pos_pad} | {' ' * team_pad} | {' ' * points_pad} |\n"
+    f"| {' ' * pos_pad} | {'Team':{team_pad}} | {'Wins':{wins_pad}} |\n" + \
+    f"| {'-' * pos_pad} | {'-' * team_pad} | {'-' * wins_pad} |\n" + \
+    "\n".join(f"| {pos:{pos_pad}} | {team:{team_pad}} | {wins:{wins_pad}} |" for pos, team, wins in scoreboard_with_links) + "\n" + \
+    f"| {' ' * pos_pad} | {' ' * team_pad} | {' ' * wins_pad} |\n"
 
 writes[README_PATH] = readme_text
 
+print("Summarizing teams...")
+for team, game_summaries in tqdm(team_summaries.items()):
+    wins = len(list(filter(lambda summary: summary[0] == "+1", game_summaries)))
+    draws = len(list(filter(lambda summary: summary[0] == "+0.5", game_summaries)))
+    loses = len(list(filter(lambda summary: summary[0] == "+0", game_summaries)))
+
+    for this_placement, this_team, this_score in scoreboard_tie_adjusted:
+        if this_team == team:
+            score = this_score
+            placement = this_placement
+            break
+
+    team_summary = f"# [{team}](../../README.md) Summary\n" + \
+        f"Placed #{placement} with {score} wins\n" + \
+        f"- Played against {len(game_summaries)} other teams\n" + \
+        f"- {wins} wins (+{wins})\n" + \
+        f"- {draws} draws (+{draws * 0.5})\n" + \
+        f"- {loses} loses (+0)\n" + \
+        "\n\n".join(add_links(summary, team0, team1, other_team) for _, other_team, team0, team1, summary in game_summaries) + "\n"
+    writes[path.join(TEAMS_OUTPUT_DIR, team, "README.md")] = team_summary
+    
 print("Writing files...")
 for filepath, text in tqdm(writes.items()):
     dir = path.dirname(filepath)
